@@ -8,6 +8,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
+        compiler: [linux-gcc,linux-clang,linux-gcc8,linux-gcc10,linux-gcc-ubsan,linux-gcc-asan,linux-gcc-32,linux-gcc-x32,linux-clang11,windows-gcc,macos-clang]
         build_type: [Debug]
         include:
           - compiler: linux-gcc
