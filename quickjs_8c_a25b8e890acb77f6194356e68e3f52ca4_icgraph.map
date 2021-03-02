@@ -1,0 +1,8 @@
+<map id="js_promise_resolve_function_free_resolved" name="js_promise_resolve_function_free_resolved">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a37cac335cb6abd3c24e162ad57f418f1" title="js_create_resolving\l_functions" alt="" coords="232,53,380,94"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ae8260c566b9f7776fb2375fa272157fc" title="js_promise_resolve\l_function_finalizer" alt="" coords="232,118,380,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a96f03a78375e0f29d9445c3fb2d5d60e" title="js_promise_constructor" alt="" coords="428,31,601,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a38596b6e5448e564dd261426466f36f6" title="js_promise_resolve\l_thenable_job" alt="" coords="441,82,589,123"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a28c0ccdd26317bc38d0a693f1dffe4dc" title="js_new_promise_capability" alt="" coords="649,5,848,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="663,56,834,83"/>
+</map>

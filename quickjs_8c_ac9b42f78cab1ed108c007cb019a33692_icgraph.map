@@ -1,0 +1,9 @@
+<map id="JS_IsCFunction" name="JS_IsCFunction">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a43208b0746998d2b6b9b8bd1ef8b5f99" title="js_append_enumerate" alt="" coords="168,107,335,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a55de0909f8b4c06625f67b2fdb670279" title="js_is_standard_regexp" alt="" coords="168,157,335,184"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="383,107,499,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="567,5,717,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="609,56,675,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="547,107,737,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="595,157,689,184"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="js_promise_finally" name="js_promise_finally">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="1436,512,1539,539"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="1435,1146,1539,1172"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad09ec172570d05d2166ed3069f85c7b5" title="JS_Invoke" alt="" coords="639,1026,725,1052"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="1429,259,1545,286"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a1ca9cdb1fa2ffc3e6506e92b200e490f" title="JS_IsFunction" alt="" coords="245,544,352,571"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#ac048b0ff95f3f0cb7c189e87f74df753" title="JS_NewCFunctionData" alt="" coords="1186,158,1350,184"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a976c7217666ebb9ef04fd8cba9ba2dd2" title="js_promise_then_finally_func" alt="" coords="193,494,404,520"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#ab5d3dff6327702516a514e1f616ec149" title="JS_SpeciesConstructor" alt="" coords="941,1196,1108,1223"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="1595,1146,1713,1172"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="1761,1146,1896,1172"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="800,994,893,1020"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a89b7c8686c7eee70b86be722ee4730ad" title="JS_GetProperty" alt="" coords="1209,1120,1327,1147"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="967,943,1083,970"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="1235,766,1301,792"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#a149f24b67e745bad93573b3b4c80db4c" title="JS_IsNull" alt="" coords="1229,1171,1307,1198"/>
+<area shape="rect" id="node13" href="$quickjs_8h.html#a3d68fe446df2d9c7d1900b16371bff5b" title="JS_IsObject" alt="" coords="1221,1070,1315,1096"/>
+<area shape="rect" id="node14" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="1428,968,1547,995"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a24be89a128d1cd7c0908604815b2b854" title="js_same_value" alt="" coords="1209,512,1327,539"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a3ae8a83da71ef07d6e858d172d9c5a81" title="JS_Throw" alt="" coords="1227,867,1309,894"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a726b00d108e0a0f4d958c36c2e426a64" title="JS_ThrowTypeErrorNotAnObject" alt="" coords="1156,918,1380,944"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#ad31f7a1d61971bfacede26cef8204a91" title="JS_InvokeFree" alt="" coords="452,1026,564,1052"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#ac15a82ecdea657381f26bf441ddc851f" title="js_promise_finally\l_thrower" alt="" coords="955,712,1095,753"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a0824d4a55c9b28ff731b93a2262b4948" title="js_promise_finally\l_value_thunk" alt="" coords="612,260,752,301"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a192c7bd4fc5264ccdf89e13ed5bc0dcc" title="js_promise_resolve" alt="" coords="951,610,1099,636"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a5644dc5dba0d760dcc06cc1a79e256cc" title="JS_GetOpaque" alt="" coords="1211,360,1325,387"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a28c0ccdd26317bc38d0a693f1dffe4dc" title="js_new_promise_capability" alt="" coords="1169,614,1367,640"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#afa39b15865cb50fc2383e76e33b2de1a" title="JS_IsConstructor" alt="" coords="1205,1323,1331,1350"/>
+</map>

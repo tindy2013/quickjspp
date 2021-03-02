@@ -1,0 +1,12 @@
+<map id="JS_FreeContext" name="JS_FreeContext">
+<area shape="rect" id="node2" href="$quickjs_8c.html#adc4a49d7eb1cc1ec4b3a8c37ab8cb075" title="free_function_bytecode" alt="" coords="172,31,347,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#af2bcf1faee5b5dd948692540d9cce73e" title="js_autoinit_free" alt="" coords="198,81,321,108"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a7fc69d7fe9fa0f902d0d9a3640634711" title="js_c_function_finalizer" alt="" coords="176,132,343,159"/>
+<area shape="rect" id="node10" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="208,183,311,209"/>
+<area shape="rect" id="node11" href="$classqjs_1_1Context.html#a5aeaa5a266944f0d9d515d2b8eac767f" title="qjs::Context::~Context" alt="" coords="174,233,345,260"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a3d1c7a8d6aa5a9ba8ea8ef2828db188a" title="free_gc_object" alt="" coords="409,31,527,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a8defed3434f60d6b5d6a7ea202cc8f9d" title="free_zero_refcount" alt="" coords="589,5,733,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#af7c53b26778d6b7e155fab5349a4585e" title="gc_free_cycles" alt="" coords="602,56,721,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#af4274494e2e45f9018154ffcbb7e89e4" title="free_property" alt="" coords="413,81,523,108"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a8aac7988cf0c6f3c2b629a6662fd7ec8" title="JS_AutoInitProperty" alt="" coords="395,132,541,159"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="is_label" name="is_label">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a2738f70401d666222802576640dd5781" title="peek_token" alt="" coords="125,31,224,57"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#abd9d73eefa041a1741277e91ed026746" title="simple_next_token" alt="" coords="272,31,419,57"/>
+<area shape="rect" id="node4" href="$libregexp_8h.html#a4737debd233b96f1a317fdb40a3fbd69" title="lre_js_is_ident_first" alt="" coords="469,5,615,32"/>
+<area shape="rect" id="node5" href="$libregexp_8h.html#a3dd6ac80b2cc9f7fc7f18a4cb0acdce3" title="lre_js_is_ident_next" alt="" coords="467,56,617,83"/>
+</map>

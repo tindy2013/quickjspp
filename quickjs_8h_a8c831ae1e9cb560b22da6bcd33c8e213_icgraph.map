@@ -1,0 +1,9 @@
+<map id="JS_ToBigInt64" name="JS_ToBigInt64">
+<area shape="rect" id="node2" href="$quickjs_8c.html#acbddbd012155853a1d93ae7bb4055f0d" title="JS_ToInt64Ext" alt="" coords="163,56,272,83"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a06fb885216567f06919c7bbe0436234a" title="js_os_seek" alt="" coords="339,5,433,32"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a2abec3aeee82a6dd3dd063725bbeecfe" title="js_printf_internal" alt="" coords="320,56,452,83"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#ab4e00836dd0e1609a2b081eb5e335df9" title="js_std_file_seek" alt="" coords="323,107,449,133"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#a2770356a19e5d09edcb7da0cecbfe0f8" title="js_std_file_printf" alt="" coords="500,5,629,32"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#a6f5e9fa6d24e8fabd0b97f88179c1b29" title="js_std_printf" alt="" coords="513,56,616,83"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#ac49c945b1cbeb056236cfb479ec1ffd5" title="js_std_sprintf" alt="" coords="510,107,619,133"/>
+</map>

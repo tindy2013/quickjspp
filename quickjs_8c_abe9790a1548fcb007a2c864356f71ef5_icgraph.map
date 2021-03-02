@@ -1,0 +1,6 @@
+<map id="bc_atom_to_idx" name="bc_atom_to_idx">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a55f34a1bb7e361c23cb8139c100a615f" title="bc_put_atom" alt="" coords="221,29,327,56"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a394e92f87f41d27e7031eb3150bc35b1" title="JS_WriteFunctionBytecode" alt="" coords="179,80,369,107"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a3da261d6aeb1d35f3fb47a0076752a57" title="JS_WriteObjectTag" alt="" coords="417,29,556,56"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="604,29,744,56"/>
+</map>

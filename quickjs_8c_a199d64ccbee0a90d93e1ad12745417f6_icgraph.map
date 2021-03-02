@@ -1,0 +1,31 @@
+<map id="JS_ThrowTypeErrorRevokedProxy" name="JS_ThrowTypeErrorRevokedProxy">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a9e94551ddba8762d74eda5127445dbbd" title="get_proxy_method" alt="" coords="259,335,403,361"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a438b354d69a8f0674195b0cdc19dd686" title="js_proxy_get_own_property\l_names" alt="" coords="461,630,662,671"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a83e9d1851a3e2cd176944272b583143c" title="JS_GetFunctionRealm" alt="" coords="252,747,411,773"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a91b2b06caf6cc28b1edf48334b95b51a" title="js_proxy_isArray" alt="" coords="266,848,397,875"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#adda8732f2afb3bb7bd7e5f59e3ba022d" title="js_proxy_getPrototypeOf" alt="" coords="470,5,653,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ae8b32777df50bb192c19840adc4d32a1" title="js_proxy_setPrototypeOf" alt="" coords="943,31,1125,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a89d3c8659c2a6a62d3528b6b6794b24f" title="js_proxy_isExtensible" alt="" coords="480,107,643,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a7be64afafb067c71764032c0708d7aa3" title="js_proxy_preventExtensions" alt="" coords="459,157,664,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a1bddfeab11a7cfee6bd88781073b5972" title="js_proxy_has" alt="" coords="508,208,615,235"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a45df491949e8e055e732eb13c446d47b" title="js_proxy_get" alt="" coords="509,259,614,285"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad38b16d301e8f3661cf4c115c86511b3" title="js_proxy_set" alt="" coords="509,309,613,336"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#ab9c2e9c8dab72f3c057efe4ffcced332" title="js_proxy_get_own_property" alt="" coords="461,360,662,387"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a7e5b77a4851eee6f666581d051979392" title="js_proxy_define_own\l_property" alt="" coords="482,411,641,453"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#acffb121a8a0ee2b735f60c1db01e79e7" title="js_proxy_delete_property" alt="" coords="468,477,655,504"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#af97646b66d6fcb8bd19543d93baeadd7" title="js_proxy_call_constructor" alt="" coords="468,528,655,555"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#ab9f916b6a1fda4cec1a1eb6d691ed89c" title="js_proxy_call" alt="" coords="750,553,857,580"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad56da91bca3e6259b73d5148126b5099" title="JS_GetPrototype" alt="" coords="740,5,867,32"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a93dbf502b17d1328c524401335f60499" title="js_create_from_ctor" alt="" coords="486,696,637,723"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a43064473b2e303ee40f4c1c7a87e85da" title="js_function_constructor" alt="" coords="475,747,648,773"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#ad25358fc5ae69ab218abde24d52b7767" title="js_error_constructor" alt="" coords="486,797,637,824"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a3b818b1ca9d2d4aaa9b55b1cc54c1bc4" title="JS_ArraySpeciesCreate" alt="" coords="719,764,888,791"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a1fc2c29e89230a9792fd36ae50b270e4" title="JS_IsArray" alt="" coords="518,983,605,1009"/>
+<area shape="rect" id="node24" href="$structqjs_1_1js__traits_3_01std_1_1variant_3_01Ts_8_8_8_01_4_01_4.html#ad0acc455e15176f5fe805689db94930b" title="Attempt to match class ID with type. " alt="" coords="730,815,877,871"/>
+<area shape="rect" id="node25" href="$structqjs_1_1js__traits_3_01std_1_1variant_3_01Ts_8_8_8_01_4_01_4.html#aab1e9e5434b52ebdfd0acacddefc47c1" title="qjs::js_traits\&lt; std\l::variant\&lt; Ts... \&gt; \&gt;\l::isCompatible" alt="" coords="730,895,877,951"/>
+<area shape="rect" id="node26" href="$structqjs_1_1js__traits_3_01std_1_1vector_3_01T_01_4_01_4.html#a9381fc53f1eaf830b702453ca29655f2" title="qjs::js_traits\&lt; std\l::vector\&lt; T \&gt; \&gt;::unwrap" alt="" coords="713,975,893,1017"/>
+<area shape="rect" id="node27" href="$structqjs_1_1js__traits_3_01std_1_1pair_3_01U_00_01V_01_4_01_4.html#a3dc772998ef0f739b13e7ed8c3d5ac5f" title="qjs::js_traits\&lt; std\l::pair\&lt; U, V \&gt; \&gt;::unwrap" alt="" coords="712,1041,895,1082"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#ae69c38078aefed427b6c0d7b6870bd9c" title="js_object_toString" alt="" coords="734,1107,873,1133"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#a4f1b84557871cd95dd21e469e2b38efb" title="js_array_isArray" alt="" coords="740,1157,867,1184"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a8c41d5cf05e42294d414a1ac8b069874" title="JS_isConcatSpreadable" alt="" coords="718,1208,889,1235"/>
+</map>

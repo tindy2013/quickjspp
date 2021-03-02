@@ -1,0 +1,7 @@
+<map id="unicode_get_lower_simple" name="unicode_get_lower_simple">
+<area shape="rect" id="node2" href="$libunicode_8c.html#a9eadbbe61e5372257d1e58decec38d9a" title="unicode_decomp_entry" alt="" coords="248,55,421,81"/>
+<area shape="rect" id="node3" href="$libunicode_8c.html#aaa47a99ea5633bf86fb1dce6b38248a6" title="unicode_decomp_char" alt="" coords="471,29,638,56"/>
+<area shape="rect" id="node5" href="$libunicode_8c.html#a85e9b528eac63b7a68aec567939e4c2c" title="unicode_compose_pair" alt="" coords="469,80,640,107"/>
+<area shape="rect" id="node4" href="$libunicode_8c.html#ab30f4b72bed0cefc5b1ceeb8caef2afc" title="to_nfd_rec" alt="" coords="699,29,790,56"/>
+<area shape="rect" id="node6" href="$libunicode_8c.html#aa4fcf940cdf5a415e60372353f9d25d7" title="compose_pair" alt="" coords="688,80,801,107"/>
+</map>

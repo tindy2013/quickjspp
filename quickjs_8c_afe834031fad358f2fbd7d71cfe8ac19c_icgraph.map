@@ -1,0 +1,7 @@
+<map id="add_func_var" name="add_func_var">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3d84c0bab25b37dbac0b6f3aa7b93e59" title="add_eval_variables" alt="" coords="353,5,501,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a30aac2d7e62ad60386ab6b522d7db744" title="resolve_scope_var" alt="" coords="163,56,305,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="549,31,691,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a46a8a7e155cfd0af984f6725f060f0d6" title="__JS_EvalInternal" alt="" coords="739,31,872,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7a4eedc4cc552a71e165f4d28ad43985" title="resolve_variables" alt="" coords="359,56,496,83"/>
+</map>

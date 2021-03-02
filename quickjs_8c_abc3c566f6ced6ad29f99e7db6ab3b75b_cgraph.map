@@ -1,0 +1,8 @@
+<map id="js_closure2" name="js_closure2">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a37fe43b6649456a848bd54846450b995" title="get_var_ref" alt="" coords="152,5,248,32"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="148,56,252,83"/>
+<area shape="rect" id="node3" href="$list_8h.html#a3a5d0733570b2fafc18f4c71a2968ea5" title="list_add_tail" alt="" coords="309,5,410,32"/>
+<area shape="rect" id="node4" href="$list_8h.html#a16286d5bff74a27aec51a3134ffc7b43" title="__list_add" alt="" coords="491,5,577,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="300,56,419,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="467,56,601,83"/>
+</map>

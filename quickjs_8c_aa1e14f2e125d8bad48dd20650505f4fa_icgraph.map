@@ -1,0 +1,12 @@
+<map id="JS_DupAtomRT" name="JS_DupAtomRT">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ab515cd66efd3e476d2c22d6a55f13194" title="JS_NewClass1" alt="" coords="172,176,285,203"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a4883d074a00e989747e68453c718c862" title="init_class_range" alt="" coords="333,81,460,108"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a9f0339d81c06451de278073572cc194e" title="JS_NewClass" alt="" coords="344,245,449,272"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="521,5,691,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a3afdbdd7b58ef7e1dcc178c362071b3d" title="JS_AddIntrinsicProxy" alt="" coords="529,56,683,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a27966451027feb455b5da12c1578771c" title="JS_NewRuntime2" alt="" coords="540,107,672,133"/>
+<area shape="rect" id="node8" href="$structqjs_1_1js__traits_3_01std_1_1shared__ptr_3_01T_01_4_01_4.html#af3558afeef079826c58411353c8ccce0" title="Register class in QuickJS context. " alt="" coords="530,157,682,213"/>
+<area shape="rect" id="node9" href="$structqjs_1_1js__traits_3_01detail_1_1function_01_4.html#afe383c63f389edaf9f878cd30062d37f" title="qjs::js_traits\&lt; detail\l::function \&gt;::register_class" alt="" coords="508,238,704,279"/>
+<area shape="rect" id="node10" href="$quickjs-libc_8c.html#a08cea1a0226b7603e6969e2208d99d55" title="js_std_init" alt="" coords="562,304,650,331"/>
+<area shape="rect" id="node11" href="$quickjs-libc_8c.html#a066e7962ce24f22d5df20968a8baa346" title="js_os_init" alt="" coords="565,355,647,381"/>
+</map>

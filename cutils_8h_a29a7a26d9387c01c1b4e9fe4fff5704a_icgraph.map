@@ -1,0 +1,31 @@
+<map id="min_int" name="min_int">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="165,263,281,289"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a343a343b16bc3c9875050e99ee0d2884" title="JS_JSONStringify" alt="" coords="159,465,287,492"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#af5a7bd13b47d5c2de41e92111bf21305" title="js_math_min_max" alt="" coords="152,516,295,543"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a3d9b165d4274aa43e051caba9bcbbe9f" title="js_string_compare" alt="" coords="153,567,294,593"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#afe038ef522a8c7c8862cfe18a0c0a785" title="js_string_pad" alt="" coords="653,769,761,796"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a4623c0fbf1417b8c089ba0f5037c5362" title="JS_ToUint8ClampFree" alt="" coords="144,693,303,720"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#abe83a22e4d81b08015c382d8f4e7f833" title="js_typed_array_copyWithin" alt="" coords="124,744,323,771"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a317ccdca83843c76330ace89fb055b56" title="string_buffer_realloc" alt="" coords="146,795,301,821"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="433,187,499,213"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="419,237,513,264"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="371,288,561,315"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="391,339,541,365"/>
+<area shape="rect" id="node4" href="$structqjs_1_1js__traits_3_01std_1_1function_3_01R_07Args_8_8_8_08_4_01_4.html#ac449e51d3fe10c6c115596fa6ec278ee" title="qjs::js_traits\&lt; std\l::function\&lt; R(Args...)\l\&gt; \&gt;::unwrap" alt="" coords="627,5,786,61"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#abb1cbe3fdf905e81f603a3a0bfce475a" title="call_handler" alt="" coords="656,85,757,112"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#a9fa4c190ba56314c7ed9b00bbc7ad0f9" title="handle_posted_message" alt="" coords="615,136,798,163"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aa049793cc8648d35fe81876a2543ca4e" title="JS_GetIterator2" alt="" coords="647,187,767,213"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ad6303fbd3add4afa0cb64b0aa6d431ce" title="JS_IteratorNext2" alt="" coords="643,237,771,264"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#afd4ef2d701fa0702f321925b61c57bbf" title="js_call_bound_function" alt="" coords="621,288,792,315"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a1bf6b62983e8fff99c0a5d5a9f486115" title="js_async_function_resume" alt="" coords="609,339,804,365"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ab4e100a9cde5f7ec87c92f5e766dbbab" title="JS_AtomIsNumericIndex1" alt="" coords="373,389,559,416"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#ad48277f7656d161f492b5f1ff5d8c388" title="js_relational_slow" alt="" coords="397,440,535,467"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a6b7e8c810c238daa5ac20c70c2f22b24" title="js_strict_eq2" alt="" coords="414,491,518,517"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a341f4d5925a607eeaad8d3cbb03e9de1" title="js_array_cmp_generic" alt="" coords="384,541,548,568"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a96177f318d170980abe8c9c41cdb52d5" title="js_string_localeCompare" alt="" coords="375,592,557,619"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a08e52b8382e2347db73c950c39af413c" title="string_buffer_putc_slow" alt="" coords="378,693,554,720"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a874fcee73f61cc997ec1d10cc6711554" title="string_buffer_putc8" alt="" coords="393,744,539,771"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a0b130652cf11eb0eb9f7e3ee6c5d7c6a" title="string_buffer_write8" alt="" coords="390,795,542,821"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#a529c84c4766057fc95736603e6f55e3e" title="string_buffer_write16" alt="" coords="386,845,546,872"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a8b6748281754a2c4690fc2ab20b2bad1" title="string_buffer_fill" alt="" coords="403,896,529,923"/>
+</map>

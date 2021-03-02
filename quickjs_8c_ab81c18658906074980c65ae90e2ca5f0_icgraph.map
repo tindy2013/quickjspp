@@ -1,0 +1,6 @@
+<map id="js_atomics_get_ptr" name="js_atomics_get_ptr">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a10203c5ecfd1db25342e97b0342ba514" title="js_atomics_notify" alt="" coords="199,5,336,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#adbeea736a6232c3a784b39a2dfb6a510" title="js_atomics_op" alt="" coords="210,56,325,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a0586dbbd419acfaca58bb867e3a39ed3" title="js_atomics_store" alt="" coords="201,107,333,133"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a5da0aed88a968e1b5d841cec3b582b2c" title="js_atomics_wait" alt="" coords="204,157,331,184"/>
+</map>

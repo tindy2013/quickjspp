@@ -1,0 +1,7 @@
+<map id="js_not_slow" name="js_not_slow">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="713,5,816,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a643088ab23784b7f3c6ff94c37228256" title="JS_ToInt32Free" alt="" coords="152,43,267,69"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="707,68,823,95"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ae738291483438efefca5c9fa4d269504" title="JS_ToNumberFree" alt="" coords="315,43,449,69"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a0315f23b9804563f376c47edef2967fd" title="JS_ToNumberHintFree" alt="" coords="497,43,659,69"/>
+</map>

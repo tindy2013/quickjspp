@@ -1,0 +1,8 @@
+<map id="js_atomics_isLockFree" name="js_atomics_isLockFree">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a93abffa925714e249a6aa2f4ae7900f6" title="JS_NewBool" alt="" coords="225,5,324,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad698ea01233894f912303776fe3c08c8" title="JS_ToInt32Sat" alt="" coords="220,56,329,83"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="394,31,497,57"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a419bec82cb80e98e08626a9a5212ec4c" title="JS_ToInt32SatFree" alt="" coords="377,81,513,108"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="571,56,687,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ae738291483438efefca5c9fa4d269504" title="JS_ToNumberFree" alt="" coords="561,107,696,133"/>
+</map>

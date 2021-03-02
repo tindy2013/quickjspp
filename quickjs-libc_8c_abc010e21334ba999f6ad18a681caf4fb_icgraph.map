@@ -1,0 +1,9 @@
+<map id="js_std_dbuf_init" name="js_std_dbuf_init">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#a2abec3aeee82a6dd3dd063725bbeecfe" title="js_printf_internal" alt="" coords="200,56,332,83"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#af31f002f20b3b7e983dd4efabd18d65e" title="js_std_file_getline" alt="" coords="197,107,335,133"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#ae8abf0c32bf9b0acd85adffaf8345dfe" title="js_std_file_readAsString" alt="" coords="177,157,355,184"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#a7aebce2172c6aa4a6645aef600a69e6b" title="js_std_urlGet" alt="" coords="213,208,319,235"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#ac49c945b1cbeb056236cfb479ec1ffd5" title="js_std_sprintf" alt="" coords="413,5,522,32"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a6f5e9fa6d24e8fabd0b97f88179c1b29" title="js_std_printf" alt="" coords="416,56,519,83"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#a2770356a19e5d09edcb7da0cecbfe0f8" title="js_std_file_printf" alt="" coords="403,107,532,133"/>
+</map>

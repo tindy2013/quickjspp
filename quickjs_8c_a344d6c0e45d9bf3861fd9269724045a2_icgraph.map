@@ -1,0 +1,31 @@
+<map id="JS_ThrowOutOfMemory" name="JS_ThrowOutOfMemory">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ad303a9bc56766627b5fca41574933930" title="js_alloc_string" alt="" coords="237,183,352,209"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a40bcef4994dba57dfb34b6eed66daef0" title="js_atof" alt="" coords="261,487,328,513"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a78b7f6b85f2739b551ff54f16156128b" title="js_malloc" alt="" coords="253,689,337,716"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#af93ae8bbbe4e639dd7248f5b30c54bd7" title="js_mallocz" alt="" coords="249,740,340,767"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a4709c57b3c941673dcc69e07eb45182c" title="JS_NewSymbol" alt="" coords="235,791,354,817"/>
+<area shape="rect" id="node25" href="$quickjs-libc_8c.html#a2abec3aeee82a6dd3dd063725bbeecfe" title="js_printf_internal" alt="" coords="229,841,361,868"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a1c31248142879982abb1595f97817cd9" title="js_realloc2" alt="" coords="249,892,341,919"/>
+<area shape="rect" id="node27" href="$quickjs-libc_8c.html#af31f002f20b3b7e983dd4efabd18d65e" title="js_std_file_getline" alt="" coords="225,943,364,969"/>
+<area shape="rect" id="node28" href="$quickjs-libc_8c.html#aff1e6131e8bf8b7eb25307623ad669e7" title="js_worker_ctor" alt="" coords="236,993,353,1020"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#ad0d311d4ce409584384f835f1a3e185a" title="resolve_labels" alt="" coords="237,1044,353,1071"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a7a4eedc4cc552a71e165f4d28ad43985" title="resolve_variables" alt="" coords="226,1095,363,1121"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa923510185fe24e3083baf7405b09f51" title="js_new_string8" alt="" coords="446,5,565,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a011157b8ff30c8418be989eadf509c92" title="js_sub_string" alt="" coords="647,56,753,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a960b48be1175b0982ecc03505711fc56" title="js_new_string16" alt="" coords="442,107,569,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ac43dee2ed14e80248f1af195bd3d8181" title="string_buffer_init2" alt="" coords="435,157,575,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#af49e67b73f845dc1f9c3ee648dd9f95c" title="JS_ToCStringLen2" alt="" coords="439,208,572,235"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa864584f81729321ec9d527d6362c633" title="JS_ConcatString1" alt="" coords="439,259,571,285"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a73a002c998fe7508eae9aa069fac802b" title="JS_ReadString" alt="" coords="450,309,561,336"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a0315f23b9804563f376c47edef2967fd" title="JS_ToNumberHintFree" alt="" coords="425,360,586,387"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a75a3798e2045f6e403c1ef467126d1fb" title="next_token" alt="" coords="458,411,553,437"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a7fbd31397bde22dfa2b876b945f9afb4" title="json_next_token" alt="" coords="441,461,570,488"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#aed39bc2ad38569d153500dc6ae23cd6c" title="js_parseInt" alt="" coords="459,512,552,539"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#abb21478f7d3d0ff964efbe82a673daef" title="js_parseFloat" alt="" coords="451,563,559,589"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a1030d2020be7d911eb62869f21cc3b70" title="js_new_shape2" alt="" coords="445,613,566,640"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a8e34657169da77ae6a386311351ed3de" title="js_clone_shape" alt="" coords="445,664,566,691"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#aa80740ff93b724ea7e0c280826f4a25a" title="resize_properties" alt="" coords="438,715,573,741"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#ab638a184d14e8b02ab3ea38b393c7cad" title="compact_properties" alt="" coords="430,765,581,792"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#ad24e5f774218bb0d2859db9dc569d118" title="js_typed_array_sort" alt="" coords="430,816,581,843"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a978258a269332de3a28eb005d4a7e402" title="JS_NewSymbolFromAtom" alt="" coords="412,867,599,893"/>
+</map>

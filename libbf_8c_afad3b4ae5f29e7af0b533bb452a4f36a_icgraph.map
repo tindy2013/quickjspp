@@ -1,0 +1,17 @@
+<map id="bf_const_get" name="bf_const_get">
+<area shape="rect" id="node2" href="$libbf_8h.html#a9660e7199a5e3dd436970b5e2e481516" title="bf_const_log2" alt="" coords="176,117,288,144"/>
+<area shape="rect" id="node10" href="$libbf_8c.html#a25b9653cbfca557499e786f8d2a7eb2e" title="bf_const_pi_signed" alt="" coords="159,284,305,311"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a157194b3c7faaa17e39ae78cd98c4385" title="bf_exp_internal" alt="" coords="373,88,496,115"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#aa6e77d8d722e3fd0540ede79a63e352e" title="check_exp_underflow\l_overflow" alt="" coords="353,139,516,181"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#aab7bc918fdd8dbef25c31c6881c73fdd" title="bf_log_internal" alt="" coords="375,16,494,43"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a36f22f93ba4258209be035a63b80b87f" title="bf_exp" alt="" coords="595,107,661,133"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#aa28c1603087e2aec25b9bb0dae387875" title="bf_pow_generic" alt="" coords="740,56,864,83"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a93fe073491f8c5f086a75e7bf8865b34" title="bf_pow" alt="" coords="945,56,1015,83"/>
+<area shape="rect" id="node9" href="$libbf_8h.html#a4137b2308536cbc92addaeb3f0c79d35" title="bf_log" alt="" coords="597,5,659,32"/>
+<area shape="rect" id="node11" href="$libbf_8h.html#aff86bca731f3c8ffe45f0f1129175961" title="bf_const_pi" alt="" coords="387,284,483,311"/>
+<area shape="rect" id="node14" href="$libbf_8h.html#a0bb2c5b98e3f978b84df9849c7ec50d6" title="bf_atan" alt="" coords="767,309,837,336"/>
+<area shape="rect" id="node12" href="$libbf_8c.html#a2b19e3958f6cf3fa0cc534681a5ff259" title="bf_sincos" alt="" coords="587,259,669,285"/>
+<area shape="rect" id="node13" href="$libbf_8c.html#aa4b535a5b33344704c576607ab4f0463" title="bf_atan_internal" alt="" coords="564,309,692,336"/>
+<area shape="rect" id="node15" href="$libbf_8c.html#af760cf2a93bf130e8e44a62c7e7d0adf" title="bf_atan2_internal" alt="" coords="912,259,1048,285"/>
+<area shape="rect" id="node16" href="$libbf_8h.html#a45cd74dd3a694c26e716762b7fd36955" title="bf_acos" alt="" coords="592,360,664,387"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="simple_next_token" name="simple_next_token">
+<area shape="rect" id="node2" href="$libregexp_8h.html#a4737debd233b96f1a317fdb40a3fbd69" title="lre_js_is_ident_first" alt="" coords="399,5,545,32"/>
+<area shape="rect" id="node5" href="$libregexp_8h.html#a3dd6ac80b2cc9f7fc7f18a4cb0acdce3" title="lre_js_is_ident_next" alt="" coords="200,56,351,83"/>
+<area shape="rect" id="node3" href="$libunicode_8c.html#a36a983fb62ce82cd14783397f607ad09" title="lre_is_id_start" alt="" coords="593,5,707,32"/>
+<area shape="rect" id="node4" href="$libunicode_8c.html#a599cfa52b8ac7992138dc50f748e2a03" title="lre_is_in_table" alt="" coords="755,31,871,57"/>
+<area shape="rect" id="node6" href="$libunicode_8c.html#a9992c7e1e84a9fc516edf3de2c77468a" title="lre_is_id_continue" alt="" coords="403,56,541,83"/>
+</map>

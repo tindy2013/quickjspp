@@ -1,0 +1,8 @@
+<map id="mp_sqrtrem2" name="mp_sqrtrem2">
+<area shape="rect" id="node2" href="$libbf_8c.html#a0cb2a613e7ddae98b8964c77621219e8" title="mp_sqrtrem2_dec" alt="" coords="163,29,301,56"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#ad6e0bb87edc2953629f7fc6f16e3e7d7" title="mp_sqrtrem_rec" alt="" coords="168,104,296,131"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#ae758f9e5665601c800cc431c03a696f5" title="mp_sqrtrem_rec_dec" alt="" coords="349,29,508,56"/>
+<area shape="rect" id="node4" href="$libbf_8c.html#a4cb0365d02fe07e3b81ef1fbc5a0eacd" title="mp_sqrtrem_dec" alt="" coords="556,29,687,56"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#aa3d8931becde9bdbea0aab310312acd3" title="mp_sqrtrem" alt="" coords="378,104,479,131"/>
+<area shape="rect" id="node7" href="$libbf_8h.html#a1a8b9ac1fea38b97fc6be8663ce9e867" title="bf_sqrt" alt="" coords="588,104,655,131"/>
+</map>

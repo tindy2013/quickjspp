@@ -1,0 +1,16 @@
+<map id="js_regexp_constructor_internal" name="js_regexp_constructor_internal">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a93dbf502b17d1328c524401335f60499" title="js_create_from_ctor" alt="" coords="231,255,381,281"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="917,393,1021,420"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="918,15,1021,41"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="474,431,590,457"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="219,532,393,559"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="918,91,1021,117"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a83e9d1851a3e2cd176944272b583143c" title="JS_GetFunctionRealm" alt="" coords="453,380,611,407"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a89b7c8686c7eee70b86be722ee4730ad" title="JS_GetProperty" alt="" coords="473,103,591,129"/>
+<area shape="rect" id="node12" href="$quickjs_8h.html#a3d68fe446df2d9c7d1900b16371bff5b" title="JS_IsObject" alt="" coords="485,153,579,180"/>
+<area shape="rect" id="node13" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="473,204,591,231"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="441,255,623,281"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="1069,393,1188,420"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a199d64ccbee0a90d93e1ad12745417f6" title="JS_ThrowTypeErrorRevoked\lProxy" alt="" coords="671,373,869,414"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a5762c57ae0c9937e986040c01222833a" title="JS_GetPropertyInternal" alt="" coords="685,103,855,129"/>
+</map>

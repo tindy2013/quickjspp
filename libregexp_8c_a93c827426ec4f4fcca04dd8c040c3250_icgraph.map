@@ -1,0 +1,12 @@
+<map id="re_parse_out_of_memory" name="re_parse_out_of_memory">
+<area shape="rect" id="node2" href="$libregexp_8h.html#a9f2d004d841acbf42a7cf0490258b5ab" title="lre_compile" alt="" coords="481,56,579,83"/>
+<area shape="rect" id="node7" href="$libregexp_8c.html#a24c5604c81a33e66906a1f43227221e8" title="parse_unicode_property" alt="" coords="241,157,420,184"/>
+<area shape="rect" id="node9" href="$libregexp_8c.html#ab2f98b8a2e66fd9197d2677f47ccffa8" title="re_parse_char_class" alt="" coords="640,208,793,235"/>
+<area shape="rect" id="node10" href="$libregexp_8c.html#acca34590a18d70f866ad56d67ce309e8" title="re_parse_term" alt="" coords="896,183,1012,209"/>
+<area shape="rect" id="node11" href="$libregexp_8c.html#af445f369f2ccbbc81596e0fbed929b7e" title="re_parse_disjunction" alt="" coords="253,107,409,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab0bd3fbfe9b7f004c067b103a6d60d03" title="js_compile_regexp" alt="" coords="645,56,789,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a233052710c228313122c39c231a23ddf" title="js_regexp_constructor" alt="" coords="871,56,1037,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#af55de7fe1d3513a7230dfbfc1cbeec62" title="js_regexp_compile" alt="" coords="882,107,1026,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aa24c64e9ce871601a39b40dbfee0deb4" title="JS_AddIntrinsicRegExpCompiler" alt="" coords="841,5,1067,32"/>
+<area shape="rect" id="node8" href="$libregexp_8c.html#ac654c01af0eedad21af5da6e5035f37c" title="get_class_atom" alt="" coords="468,157,592,184"/>
+</map>

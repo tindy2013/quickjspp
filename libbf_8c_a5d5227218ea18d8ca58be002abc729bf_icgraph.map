@@ -1,0 +1,7 @@
+<map id="bf_integer_from_radix_rec" name="bf_integer_from_radix_rec">
+<area shape="rect" id="node2" href="$libbf_8c.html#ac2b674e82a4c1c10c46af348193fb9c0" title="bf_integer_from_radix" alt="" coords="247,56,413,83"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#aaaeb6c790a8b174f3c5631ee33c81910" title="bf_atof_internal" alt="" coords="461,56,587,83"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#ac6017f5cde57dab006383297ea94ef40" title="bf_atof2" alt="" coords="642,5,718,32"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a85c6215e124f35f5dcadac77990a61c9" title="bf_atof" alt="" coords="646,56,714,83"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a221eaf9914ba5bcb299c897b62939a2e" title="bfdec_atof" alt="" coords="635,107,725,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="js_same_value_zero" name="js_same_value_zero">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="209,5,311,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a6b7e8c810c238daa5ac20c70c2f22b24" title="js_strict_eq2" alt="" coords="208,56,312,83"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="379,31,483,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a3d9b165d4274aa43e051caba9bcbbe9f" title="js_string_compare" alt="" coords="360,81,501,108"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="563,31,682,57"/>
+<area shape="rect" id="node7" href="$cutils_8h.html#a29a7a26d9387c01c1b4e9fe4fff5704a" title="min_int" alt="" coords="587,81,658,108"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa3b85ecf2f1fbd87cb38b78548286017" title="js_string_memcmp" alt="" coords="549,132,696,159"/>
+</map>

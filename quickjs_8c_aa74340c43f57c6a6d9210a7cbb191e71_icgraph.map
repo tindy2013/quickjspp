@@ -1,0 +1,13 @@
+<map id="typed_array_init" name="typed_array_init">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3be661c1eaa7a31184410667862635a2" title="js_typed_array_constructor" alt="" coords="455,56,653,83"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#acf0e1803a9586d86d752b002a89fb8ed" title="js_typed_array_constructor_obj" alt="" coords="181,56,407,83"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a19e15727ea84a3735a3850b18da03330" title="js_typed_array_constructor_ta" alt="" coords="185,107,403,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a177d09828596bfe6df4bd90b2e93989d" title="JS_AddIntrinsicTypedArrays" alt="" coords="701,5,900,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a00910faacc776e3c2c225aa117aab450" title="JS_ReadTypedArray" alt="" coords="727,56,874,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ae5a8e884ec4a3364f63ebfeae6b08bdc" title="js_typed_array___species\lCreate" alt="" coords="707,129,895,170"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="979,5,1100,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="970,56,1109,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa0bbf08a7e91459c68a312fba7016c6d" title="js_array_every" alt="" coords="980,107,1099,133"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a04f45f4b341a84aa1039cfd862adbcd2" title="js_typed_array_slice" alt="" coords="962,157,1117,184"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a355310420e303302c981eb7c73a222fb" title="js_typed_array_subarray" alt="" coords="948,208,1131,235"/>
+</map>

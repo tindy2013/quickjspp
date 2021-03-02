@@ -1,0 +1,31 @@
+<map id="js_std_file_readAsString" name="js_std_file_readAsString">
+<area shape="rect" id="node2" href="$cutils_8h.html#a8a3b715fc2146312b777c4e3db546b55" title="dbuf_free" alt="" coords="254,157,338,184"/>
+<area shape="rect" id="node3" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="253,208,339,235"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="237,259,355,285"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ac34cc554aab1e98c45a7f845fff64385" title="JS_NewStringLen" alt="" coords="231,309,361,336"/>
+<area shape="rect" id="node23" href="$quickjs-libc_8c.html#abc010e21334ba999f6ad18a681caf4fb" title="js_std_dbuf_init" alt="" coords="234,512,358,539"/>
+<area shape="rect" id="node28" href="$quickjs-libc_8c.html#ae0b015235e2737bee13533c992f0b71b" title="js_std_file_get" alt="" coords="239,563,353,589"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#ad52f50dfe0e0e4aeae7003b97c4c0765" title="JS_ToIndex" alt="" coords="251,639,341,665"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="447,5,526,32"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#ac0b9ce26415947e972d6781d9f2fb11b" title="dbuf_realloc" alt="" coords="649,5,751,32"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="1039,436,1145,463"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#aa923510185fe24e3083baf7405b09f51" title="js_new_string8" alt="" coords="427,157,546,184"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a9c11961b0adafedd064b294612d0c2f3" title="string_buffer_init" alt="" coords="421,208,553,235"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a0b130652cf11eb0eb9f7e3ee6c5d7c6a" title="string_buffer_write8" alt="" coords="624,360,776,387"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a874fcee73f61cc997ec1d10cc6711554" title="string_buffer_putc8" alt="" coords="627,411,773,437"/>
+<area shape="rect" id="node17" href="$cutils_8h.html#a69529af6d6911dd0ead90eef221b2e10" title="unicode_from_utf8" alt="" coords="415,259,559,285"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a9b8fb6b5ce638616691f7bf7881fa57d" title="string_buffer_putc16" alt="" coords="409,309,564,336"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#accfc3d1dcaa88c88402cb245ccaf4fdb" title="string_buffer_end" alt="" coords="419,107,554,133"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a266b4993a59d9e34537386e62b9f3d4f" title="string_buffer_free" alt="" coords="418,56,555,83"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a260bfa297ff6cb5bd18e229afaa54663" title="JS_AtomToString" alt="" coords="636,107,764,133"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#ad303a9bc56766627b5fca41574933930" title="js_alloc_string" alt="" coords="856,183,971,209"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ac43dee2ed14e80248f1af195bd3d8181" title="string_buffer_init2" alt="" coords="630,208,770,235"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a317ccdca83843c76330ace89fb055b56" title="string_buffer_realloc" alt="" coords="836,385,991,412"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a08e52b8382e2347db73c950c39af413c" title="string_buffer_putc_slow" alt="" coords="612,309,788,336"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="667,56,733,83"/>
+<area shape="rect" id="node24" href="$cutils_8h.html#a04e3983476063eb6fbab2fd74fc49fc6" title="dbuf_init2" alt="" coords="443,613,530,640"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#af1866c7f8a91153f11602a2b521d9399" title="JS_GetRuntime" alt="" coords="427,512,546,539"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#aa548c4ad5eacef7d9508100cfe6f6871" title="js_realloc_rt" alt="" coords="436,563,537,589"/>
+<area shape="rect" id="node25" href="$cutils_8c.html#abb5d9de84cd0caedf89814f555ab5d1a" title="dbuf_default_realloc" alt="" coords="623,613,777,640"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#aee6a60a9e9f3c0d9827d5cb0e15c23b4" title="JS_ToInt64Sat" alt="" coords="432,664,541,691"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="JS_WriteArrayBuffer" name="JS_WriteArrayBuffer">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5c417bcd8453a3ab8f4ced37e8f86bf2" title="bc_put_leb128" alt="" coords="247,56,363,83"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="768,81,847,108"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a1691ba44aef8ba12408b5a824d07600a" title="bc_put_u8" alt="" coords="476,5,564,32"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a033dd3ebd29c4eb9f0baff1dd0fec0b1" title="JS_ThrowTypeErrorDetached\lArrayBuffer" alt="" coords="203,158,407,199"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#af9b9e3f8ca5a82349d1925fca4683c38" title="dbuf_put_leb128" alt="" coords="455,56,585,83"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="633,56,720,83"/>
+</map>

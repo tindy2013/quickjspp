@@ -1,0 +1,9 @@
+<map id="js_new_std_file" name="js_new_std_file">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#a51bfedac363e39a4273635aa7810425a" title="js_std_fdopen" alt="" coords="175,5,287,32"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a08cea1a0226b7603e6969e2208d99d55" title="js_std_init" alt="" coords="187,56,275,83"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#a7af79ae13a636de55a6d58309c0cfa1e" title="js_std_open" alt="" coords="182,107,281,133"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#af872be4f158af25e3b412e2be297abcf" title="js_std_popen" alt="" coords="178,157,285,184"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#ab6571176bd6ffba18dcc966ffb1c7234" title="js_std_tmpfile" alt="" coords="175,208,288,235"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a0e65c67dfff872a664f8d29e7eae5a61" title="js_init_module_std" alt="" coords="336,56,480,83"/>
+<area shape="rect" id="node5" href="$qjs_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="528,56,583,83"/>
+</map>

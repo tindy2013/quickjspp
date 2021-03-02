@@ -1,0 +1,21 @@
+<map id="qjs::js_traits&lt; detail::function &gt;::register_class" name="qjs::js_traits&lt; detail::function &gt;::register_class">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="896,45,979,71"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a5644dc5dba0d760dcc06cc1a79e256cc" title="JS_GetOpaque" alt="" coords="489,45,604,71"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a1951b8aab94369f326d8c0720097c523" title="JS_GetOpaque2" alt="" coords="266,95,389,122"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#af1866c7f8a91153f11602a2b521d9399" title="JS_GetRuntime" alt="" coords="268,146,387,173"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a3f0ebc39396c0cd909ec04585f92b1b9" title="JS_IsRegisteredClass" alt="" coords="249,197,405,223"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a9f0339d81c06451de278073572cc194e" title="JS_NewClass" alt="" coords="275,247,380,274"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a4f56d0a794368a8861c89819fc79cdb5" title="JS_NewClassID" alt="" coords="268,298,387,325"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab0f713d7a2440dbb2673810323a9a78d" title="JS_ThrowTypeErrorInvalid\lClass" alt="" coords="453,96,640,137"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ac8c91ebeea0cf07e3079c49a16de739f" title="__JS_FindAtom" alt="" coords="489,382,605,409"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a128673f932e71b867730af75a44e3f97" title="__JS_NewAtomInit" alt="" coords="477,162,617,189"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a5a0aca30abbb4d4ae86746541bf4cbc7" title="JS_FreeAtomRT" alt="" coords="487,281,606,307"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#ab515cd66efd3e476d2c22d6a55f13194" title="JS_NewClass1" alt="" coords="490,230,603,257"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a7f6796ee7a195631366f57c713a33f65" title="__JS_AtomIsConst" alt="" coords="868,281,1007,307"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a7f3a538c8f7ee373cfe88625181739ad" title="hash_string8" alt="" coords="701,433,807,459"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#acd08798ec15cc37c60d2e7d70007c6a8" title="__JS_NewAtom" alt="" coords="695,129,813,155"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a5837dfc67b8f09e0579a28c827b39d93" title="js_alloc_string_rt" alt="" coords="688,78,820,105"/>
+<area shape="rect" id="node14" href="$cutils_8h.html#a94f155fcce337a2b9d4719ed8042cbbe" title="max_int" alt="" coords="900,154,975,181"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a0bbd9e3ecd55e3ea6c9d44bfda382095" title="__JS_FreeAtom" alt="" coords="695,281,813,307"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#aa1e14f2e125d8bad48dd20650505f4fa" title="JS_DupAtomRT" alt="" coords="695,230,813,257"/>
+</map>

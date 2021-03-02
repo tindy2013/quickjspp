@@ -1,0 +1,31 @@
+<map id="string_buffer_realloc" name="string_buffer_realloc">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a8b6748281754a2c4690fc2ab20b2bad1" title="string_buffer_fill" alt="" coords="671,60,797,87"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a874fcee73f61cc997ec1d10cc6711554" title="string_buffer_putc8" alt="" coords="436,400,583,427"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a08e52b8382e2347db73c950c39af413c" title="string_buffer_putc_slow" alt="" coords="208,219,384,245"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a529c84c4766057fc95736603e6f55e3e" title="string_buffer_write16" alt="" coords="216,476,376,503"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a0b130652cf11eb0eb9f7e3ee6c5d7c6a" title="string_buffer_write8" alt="" coords="220,577,372,604"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#afe038ef522a8c7c8862cfe18a0c0a785" title="js_string_pad" alt="" coords="916,5,1024,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a0f6f437eaf0cabf7d3e31f8306ed7e02" title="js_string_repeat" alt="" coords="907,56,1033,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ac34cc554aab1e98c45a7f845fff64385" title="JS_NewStringLen" alt="" coords="669,147,799,173"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ae5057ca2d025c62cc64ba12541f7925b" title="JS_ToQuotedString" alt="" coords="664,248,804,275"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a4bd17ae26c9b4e0ab5f7fd320199eb2e" title="js_parse_template_part" alt="" coords="647,349,821,376"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#acb789e8ccb230adfd9262642ff338177" title="js_parse_regexp" alt="" coords="670,400,798,427"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a43064473b2e303ee40f4c1c7a87e85da" title="js_function_constructor" alt="" coords="647,299,821,325"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a4f8035820871c730dd7e98d46e137bc1" title="js_array_join" alt="" coords="681,552,787,579"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#adb4d2990e6bf3f99633512ad2054b47a" title="js_string___GetSubstitution" alt="" coords="635,603,833,629"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a82cb999c219dbe6148c7df47ad6bb262" title="js_string_CreateHTML" alt="" coords="653,197,815,224"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a7b44b5cacbbb59aa0c12d52690baf412" title="js_regexp_toString" alt="" coords="663,451,805,477"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a60d84dd116a9d7d912d08f298a4734dd" title="js_json_to_str" alt="" coords="915,653,1025,680"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#aa04ea5aa5c3614856e8cd9843f1ebaa1" title="js_typed_array_join" alt="" coords="659,653,809,680"/>
+<area shape="rect" id="node7" href="$structqjs_1_1js__traits_3_01std_1_1string__view_01_4.html#ad9dac01710453b7af63a997961c1fa6a" title="qjs::js_traits\&lt; std\l::string_view \&gt;::wrap" alt="" coords="890,107,1050,149"/>
+<area shape="rect" id="node8" href="$structqjs_1_1js__traits_3_01std_1_1string_01_4.html#ac5b51c364766cc6e173eb6fb473bca98" title="qjs::js_traits\&lt; std\l::string \&gt;::wrap" alt="" coords="902,173,1038,214"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#a2abec3aeee82a6dd3dd063725bbeecfe" title="js_printf_internal" alt="" coords="904,239,1036,265"/>
+<area shape="rect" id="node10" href="$quickjs-libc_8c.html#a879319bb5089c26a9e2f19e9fc9c0a73" title="js_std_loadFile" alt="" coords="911,289,1029,316"/>
+<area shape="rect" id="node11" href="$quickjs-libc_8c.html#af31f002f20b3b7e983dd4efabd18d65e" title="js_std_file_getline" alt="" coords="901,340,1039,367"/>
+<area shape="rect" id="node12" href="$quickjs-libc_8c.html#ae8abf0c32bf9b0acd85adffaf8345dfe" title="js_std_file_readAsString" alt="" coords="881,391,1059,417"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a9b8fb6b5ce638616691f7bf7881fa57d" title="string_buffer_putc16" alt="" coords="432,153,587,180"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a6887ef15fd884e05ddf04ec291b5f3d2" title="string_buffer_concat" alt="" coords="432,603,587,629"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a964b0ba49f8823d8d8f21c6645a81542" title="JS_ConcatString3" alt="" coords="668,805,800,832"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#a64bdafbabe72b0b23fa14ef7329690c9" title="string_buffer_puts8" alt="" coords="436,292,583,319"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a8ec0c28b39c79956bdc284a046043602" title="encodeURI_hex" alt="" coords="448,704,571,731"/>
+</map>

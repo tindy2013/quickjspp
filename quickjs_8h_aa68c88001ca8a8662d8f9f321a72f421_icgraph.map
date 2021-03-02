@@ -1,0 +1,10 @@
+<map id="JS_NewCFunction" name="JS_NewCFunction">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="187,5,385,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a177d09828596bfe6df4bd90b2e93989d" title="JS_AddIntrinsicTypedArrays" alt="" coords="187,56,385,83"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#ad04466feec6822a3b838baf229f6dfa0" title="js_std_add_helpers" alt="" coords="213,107,359,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="433,19,555,45"/>
+<area shape="rect" id="node4" href="$classqjs_1_1Context.html#a4392a23648acfc4bf6b445336efb5007" title="qjs::Context::Context" alt="" coords="603,19,761,45"/>
+<area shape="rect" id="node7" href="$qjs_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="467,81,521,108"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="443,132,545,159"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#aff1e6131e8bf8b7eb25307623ad669e7" title="js_worker_ctor" alt="" coords="623,132,741,159"/>
+</map>

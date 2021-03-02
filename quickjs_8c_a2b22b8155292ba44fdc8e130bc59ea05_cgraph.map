@@ -1,0 +1,8 @@
+<map id="JS_SetThisTimeValue" name="JS_SetThisTimeValue">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="220,5,323,32"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="219,56,323,83"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#ae91f44bd7249613050c18c7133702c67" title="JS_NewFloat64" alt="" coords="212,107,331,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="385,56,504,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="559,56,693,83"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="379,107,511,133"/>
+</map>

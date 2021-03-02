@@ -1,0 +1,31 @@
+<map id="bf_pow" name="bf_pow">
+<area shape="rect" id="node2" href="$libbf_8h.html#a78ee01fc94a63c4dc6cf252275f21a77" title="bf_cmp_eq" alt="" coords="547,57,640,84"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a165ae2c6d3fee618014b7c9ea4f944dc" title="bf_cmpu" alt="" coords="901,32,979,59"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a2b9d906b21e903f2f7f1c9044674ab7d" title="bf_delete" alt="" coords="899,513,981,540"/>
+<area shape="rect" id="node7" href="$libbf_8h.html#aedb4166210550b5f012ecea90f97f9b2" title="bf_get_exp_min" alt="" coords="337,209,464,236"/>
+<area shape="rect" id="node9" href="$libbf_8c.html#a84f2988a2124a8168b5933335c4215c2" title="bf_get_limb" alt="" coords="157,108,255,135"/>
+<area shape="rect" id="node11" href="$libbf_8h.html#abacc1410890af049e02ebd788364ac48" title="bf_init" alt="" coords="1068,665,1131,692"/>
+<area shape="rect" id="node12" href="$libbf_8h.html#a4137b2308536cbc92addaeb3f0c79d35" title="bf_log" alt="" coords="369,868,432,895"/>
+<area shape="rect" id="node13" href="$libbf_8h.html#aa6282c789c16c8cf2fe6a8ebd671c6fc" title="bf_set_nan" alt="" coords="1053,1451,1146,1477"/>
+<area shape="rect" id="node15" href="$libbf_8h.html#a88d3dcee173f1e4fd4e55000edb04595" title="bf_set_inf" alt="" coords="1056,1273,1143,1300"/>
+<area shape="rect" id="node16" href="$libbf_8h.html#a2378f025beace5741c19bf995c2971d3" title="bf_set_ui" alt="" coords="735,1375,817,1401"/>
+<area shape="rect" id="node17" href="$libbf_8h.html#a66631c65c00e92a5840a5085a009602d" title="bf_set_zero" alt="" coords="1051,1020,1148,1047"/>
+<area shape="rect" id="node18" href="$libbf_8c.html#a39e7dd6286a6f0541a12366ebd93dbfd" title="bf_ziv_rounding" alt="" coords="531,1071,656,1097"/>
+<area shape="rect" id="node20" href="$libbf_8h.html#ac290278d0c37a0e7786873f98aadba47" title="bf_mul" alt="" coords="907,1172,973,1199"/>
+<area shape="rect" id="node21" href="$libbf_8h.html#ae1d5fe9356228cc3a566786637f26680" title="bf_mul_2exp" alt="" coords="723,868,829,895"/>
+<area shape="rect" id="node22" href="$libbf_8h.html#a6fbb1ec8880c203fc01baf940a54cc62" title="bf_mul_si" alt="" coords="733,615,819,641"/>
+<area shape="rect" id="node23" href="$libbf_8h.html#ae019ee8073f4359da157d3b1e5fdba7e" title="bf_set" alt="" coords="745,1527,807,1553"/>
+<area shape="rect" id="node24" href="$libbf_8h.html#aa561bc5220ec0489f4d3e59789d43d26" title="bf_neg" alt="" coords="173,1273,239,1300"/>
+<area shape="rect" id="node25" href="$libbf_8c.html#aa28c1603087e2aec25b9bb0dae387875" title="bf_pow_generic" alt="" coords="144,843,268,869"/>
+<area shape="rect" id="node26" href="$libbf_8c.html#afb959ebe491ad24167b5eff3b811f211" title="bf_pow_int" alt="" coords="354,1324,447,1351"/>
+<area shape="rect" id="node27" href="$libbf_8c.html#a3ae2be576639444cdfcb0a232471e77d" title="bf_pow_ui" alt="" coords="549,1425,637,1452"/>
+<area shape="rect" id="node28" href="$libbf_8c.html#af464f3c1421a7305372819f949667273" title="bf_set_overflow" alt="" coords="877,1375,1003,1401"/>
+<area shape="rect" id="node29" href="$libbf_8c.html#ace5bdd7550302e2fb4b14c3a907dee7b" title="check_exact_power2n" alt="" coords="123,260,289,287"/>
+<area shape="rect" id="node30" href="$libbf_8c.html#aa6e77d8d722e3fd0540ede79a63e352e" title="check_exp_underflow\l_overflow" alt="" coords="512,650,675,691"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a9508b6f4e9f4be88f4b5b0352217e9c5" title="bf_cmp" alt="" coords="741,57,811,84"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a524c9e60866c08c75061626a4b5e2f29" title="bf_realloc" alt="" coords="1056,513,1143,540"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#afd88d8b29be2493c1e2ed530d61a45d1" title="ctz" alt="" coords="573,209,614,236"/>
+<area shape="rect" id="node10" href="$libbf_8h.html#af13de179dd890536edc12e703add2c64" title="bf_get_int64" alt="" coords="349,108,452,135"/>
+<area shape="rect" id="node19" href="$libbf_8c.html#aab7bc918fdd8dbef25c31c6881c73fdd" title="bf_log_internal" alt="" coords="534,817,653,844"/>
+<area shape="rect" id="node14" href="$libbf_8h.html#ab51c43b22c1a81c789ee0e3d53c0e585" title="bf_resize" alt="" coords="1196,1324,1277,1351"/>
+</map>

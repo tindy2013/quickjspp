@@ -1,0 +1,11 @@
+<map id="js_c_function_finalizer" name="js_c_function_finalizer">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a1b4fe6eb1b7bcaec6713bd5ac2921f1b" title="JS_FreeContext" alt="" coords="220,126,339,152"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#adcabee55726eddca24893a78515c7ba2" title="js_free_modules" alt="" coords="393,50,523,76"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="776,24,880,51"/>
+<area shape="rect" id="node6" href="$list_8h.html#ab60d5d18869ebeb5d6ab694289576fa7" title="list_del" alt="" coords="793,100,863,127"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="417,151,499,178"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a8a02cfc587edc36995bda62a0160269c" title="js_free_shape_null" alt="" coords="387,202,529,228"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#adfb3133f30938e2db9b525ade5fc09cf" title="remove_gc_object" alt="" coords="582,100,723,127"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a05db980a30860573f912cbeb64e99c3c" title="js_free_module_def" alt="" coords="577,50,728,76"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a3a9f27520d96cf58aa5bd7359e9cddee" title="js_free_shape" alt="" coords="597,202,709,228"/>
+</map>

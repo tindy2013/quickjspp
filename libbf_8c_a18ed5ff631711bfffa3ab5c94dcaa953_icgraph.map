@@ -1,0 +1,9 @@
+<map id="fast_udiv" name="fast_udiv">
+<area shape="rect" id="node2" href="$libbf_8c.html#aea07e4f7e665f38255c0d83fafc7d38d" title="fast_shr_dec" alt="" coords="136,157,240,184"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a4ae6bd03b3af1b742666f50df5a52cb9" title="get_digit" alt="" coords="312,81,391,108"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#aec64568757dfbfcb93d12168d4a9306a" title="__bfdec_round" alt="" coords="656,132,772,159"/>
+<area shape="rect" id="node8" href="$libbf_8h.html#ab3ae660142e76ac134eddd281450d969" title="bfdec_get_int32" alt="" coords="288,208,415,235"/>
+<area shape="rect" id="node4" href="$libbf_8c.html#ad79aefc435021a0743c89cb4aec7fa56" title="bf_ftoa_internal" alt="" coords="473,5,598,32"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a318508be097917ddd5d1ce187edea68b" title="bfdec_divrem" alt="" coords="480,56,591,83"/>
+<area shape="rect" id="node6" href="$libbf_8c.html#a17bf08f4c7268d0f16f31fbe1951bf77" title="bfdec_get_rnd_add" alt="" coords="463,107,608,133"/>
+</map>

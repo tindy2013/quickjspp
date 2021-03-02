@@ -1,0 +1,24 @@
+<map id="JS_FreeRuntime" name="JS_FreeRuntime">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ac3bdf708c1dc092fd52508b5d29bd0ce" title="atom_is_free" alt="" coords="183,5,289,32"/>
+<area shape="rect" id="node3" href="$list_8h.html#a663527a4d757540b2177bef0db1ce5c0" title="init_list_head" alt="" coords="747,613,856,640"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="760,145,843,172"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a5a0aca30abbb4d4ae86746541bf4cbc7" title="JS_FreeAtomRT" alt="" coords="177,157,295,184"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#ab8db583fa5e7c2b1935854a42859daed" title="JS_FreeValueRT" alt="" coords="176,208,296,235"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#aeeea589ee4cec4bbc3145210f4cf6e42" title="JS_RunGC" alt="" coords="194,296,278,323"/>
+<area shape="rect" id="node23" href="$list_8h.html#acc8877b883e77ef12325dd5bfa4be0d3" title="list_empty" alt="" coords="191,715,281,741"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7f6796ee7a195631366f57c713a33f65" title="__JS_AtomIsConst" alt="" coords="344,157,483,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a0bbd9e3ecd55e3ea6c9d44bfda382095" title="__JS_FreeAtom" alt="" coords="355,107,472,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a58c8965dad50b15b75918a09f3d9dc7c" title="JS_FreeAtomStruct" alt="" coords="542,107,683,133"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="346,208,481,235"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a8defed3434f60d6b5d6a7ea202cc8f9d" title="free_zero_refcount" alt="" coords="541,208,685,235"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a3d1c7a8d6aa5a9ba8ea8ef2828db188a" title="free_gc_object" alt="" coords="743,221,860,248"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#ae09ca4f159971d3c1f1dafc8682ba04b" title="gc_decref" alt="" coords="371,487,456,513"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#af7c53b26778d6b7e155fab5349a4585e" title="gc_free_cycles" alt="" coords="553,259,672,285"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#adee2db09b659dd2c1a1a3c408658a753" title="gc_scan" alt="" coords="376,335,451,361"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a765db9341ea8163ebb7b0b61c7127752" title="gc_decref_child" alt="" coords="551,512,674,539"/>
+<area shape="rect" id="node16" href="$list_8h.html#a3a5d0733570b2fafc18f4c71a2968ea5" title="list_add_tail" alt="" coords="751,385,852,412"/>
+<area shape="rect" id="node17" href="$list_8h.html#ab60d5d18869ebeb5d6ab694289576fa7" title="list_del" alt="" coords="767,487,836,513"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#aa863a9d565bac49a2a76d10009eabd5c" title="mark_children" alt="" coords="555,411,670,437"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#abc20b88e7a87b45b51a6dc6ff24f9a9a" title="gc_scan_incref_child" alt="" coords="535,360,691,387"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#aa76a7a61c337651e4cadfcac05db5cb6" title="gc_scan_incref_child2" alt="" coords="531,309,695,336"/>
+</map>

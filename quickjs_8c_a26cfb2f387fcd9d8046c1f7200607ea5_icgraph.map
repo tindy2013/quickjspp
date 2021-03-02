@@ -1,0 +1,9 @@
+<map id="JS_ThrowTypeErrorPrivateNotFound" name="JS_ThrowTypeErrorPrivateNotFound">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a7bf4f251e0ec8d1b895c8f02120c4987" title="JS_GetPrivateField" alt="" coords="241,81,381,108"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aeadd1b317a296e3b9fd4ebc0261f7559" title="JS_SetPrivateField" alt="" coords="242,132,381,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="429,107,545,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="613,5,764,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="655,56,722,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="593,107,784,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="642,157,735,184"/>
+</map>

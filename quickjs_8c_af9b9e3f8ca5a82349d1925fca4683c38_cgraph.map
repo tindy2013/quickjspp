@@ -1,0 +1,5 @@
+<map id="dbuf_put_leb128" name="dbuf_put_leb128">
+<area shape="rect" id="node2" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="184,5,271,32"/>
+<area shape="rect" id="node3" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="319,5,397,32"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#ac0b9ce26415947e972d6781d9f2fb11b" title="dbuf_realloc" alt="" coords="445,5,548,32"/>
+</map>

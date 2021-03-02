@@ -1,0 +1,31 @@
+<map id="get_proto_obj" name="get_proto_obj">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a7efb53c2f76fd5cc0e584449437ec09c" title="JS_AddIntrinsicBasicObjects" alt="" coords="651,281,853,308"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="164,572,345,599"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a442ff496ba00319ad39eb0a129b9eb8b" title="JS_NewContextRaw" alt="" coords="901,288,1051,315"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="1099,320,1220,347"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#a8129754877bdfb4d22f64dae5ba8e778" title="js_worker_ctor_internal" alt="" coords="411,572,585,599"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a659dc0db7e440fd6eb012d613627faa3" title="JS_NewObjectClass" alt="" coords="425,623,571,649"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a884d294acbf5be675ffc760e38bd0521" title="JS_NewObjectProto" alt="" coords="425,369,571,396"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a36322a209de4ef17f939e6d128578d7f" title="js_op_define_class" alt="" coords="681,451,823,477"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="653,357,851,384"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#afc0d8ea75588216ec132a6e1655524a7" title="JS_NewObject" alt="" coords="442,319,554,345"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a21cfe4c4fc9372dc0b95b37667cff0c9" title="JS_NewCFunction3" alt="" coords="427,268,569,295"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ac048b0ff95f3f0cb7c189e87f74df753" title="JS_NewCFunctionData" alt="" coords="416,673,580,700"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#aeafb37b03b5560171754f8c4505b0f6b" title="JS_ThrowError2" alt="" coords="438,724,558,751"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a04d312757919ff6b4d79cd0c2c3e5bb2" title="js_build_arguments" alt="" coords="423,775,573,801"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a1c459034f2971c4abc3a8d6d4693ef5f" title="js_build_mapped_arguments" alt="" coords="393,825,603,852"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#aa40a5354bee3b56e05a71244910bcc78" title="build_for_in_iterator" alt="" coords="421,876,575,903"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a93dbf502b17d1328c524401335f60499" title="js_create_from_ctor" alt="" coords="423,927,573,953"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a7068f4cd630e0bb554ea300ddb389715" title="js_async_function_resolve\l_create" alt="" coords="401,978,595,1019"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a6e67f3bc70778c4c816db73e18d47d03" title="js_create_module_bytecode\l_function" alt="" coords="396,1043,600,1085"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a8fce6f70a6fc880eabcdb9883e3753f2" title="JS_ReadDate" alt="" coords="446,1109,550,1136"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#ac6d5606ba25525b3a03981eefbe98e13" title="js_function_bind" alt="" coords="434,1160,562,1187"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#ad25358fc5ae69ab218abde24d52b7767" title="js_error_constructor" alt="" coords="423,471,573,497"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a57af8ddae60fbd0080e34d23ce2a04a6" title="js_aggregate_error\l_constructor" alt="" coords="426,85,570,126"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#aabd74747b51e480d80dc19914e74a3a5" title="js_proxy_constructor" alt="" coords="419,151,577,177"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a37cac335cb6abd3c24e162ad57f418f1" title="js_create_resolving\l_functions" alt="" coords="424,202,572,243"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#aff1e6131e8bf8b7eb25307623ad669e7" title="js_worker_ctor" alt="" coords="693,536,811,563"/>
+<area shape="rect" id="node9" href="$structqjs_1_1js__traits_3_01std_1_1shared__ptr_3_01T_01_4_01_4.html#a046f811ae16e0cb24170a8425f3e8780" title="Create a JSValue from std::shared_ptr&lt;T&gt;. " alt="" coords="656,718,848,759"/>
+<area shape="rect" id="node10" href="$structqjs_1_1js__traits_3_01std_1_1function_3_01R_07Args_8_8_8_08_4_01_4.html#a6812a672334111ba5228e64816e55490" title="Convert from function object functor to JSValue. " alt="" coords="673,587,831,643"/>
+<area shape="rect" id="node11" href="$quickjs-libc_8c.html#a4f611dfcb682754b3f25bb3e06f61ab5" title="js_new_std_file" alt="" coords="691,667,813,693"/>
+</map>

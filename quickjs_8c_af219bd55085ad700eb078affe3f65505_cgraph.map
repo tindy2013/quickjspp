@@ -1,0 +1,18 @@
+<map id="js_parse_expr" name="js_parse_expr">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a9fc8ae779f77a7886fc7cfa48cc487fb" title="js_parse_expr2" alt="" coords="165,75,285,102"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#afa1bc2743b3cf892d36544a708453736" title="js_parse_assign_expr2" alt="" coords="333,354,503,381"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a75a3798e2045f6e403c1ef467126d1fb" title="next_token" alt="" coords="753,126,848,153"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a832fb9c17eacb588e93f333cf8b76522" title="emit_op" alt="" coords="907,354,981,381"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a0dd0929b9f2ff5983b0027b7cce5c447" title="new_label" alt="" coords="900,683,988,710"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a555f0d4061c655933eb187026d0796af" title="emit_label" alt="" coords="755,379,846,406"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa4ce3850b0d5830d9a617fbbdaddfa79" title="emit_u32" alt="" coords="903,506,985,533"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#aa57b449a878287663249bb7ab23ed8e9" title="emit_atom" alt="" coords="754,531,847,558"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a6b3c67655a0facc68b271ce3d401deb3" title="emit_goto" alt="" coords="757,481,845,507"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#addf02d1c6b3438644c021b2b6d593b7c" title="emit_u8" alt="" coords="589,278,663,305"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#acea69d5aa6481a035d0833b8bce455f5" title="emit_return" alt="" coords="577,481,675,507"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a6686f5baeecd532b043761b6c24ed431" title="js_parse_cond_expr" alt="" coords="551,329,701,355"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a069baa06a1214006c4ec473875de010e" title="get_lvalue" alt="" coords="581,633,671,659"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="749,227,852,254"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#ab87db7e4e299e811a54acab5fe3620a7" title="set_object_name" alt="" coords="559,379,693,406"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a24d4ada6c0c50e82c89955a9300708a9" title="put_lvalue" alt="" coords="581,227,671,254"/>
+</map>

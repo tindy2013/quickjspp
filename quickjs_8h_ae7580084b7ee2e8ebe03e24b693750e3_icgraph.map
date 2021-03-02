@@ -1,0 +1,6 @@
+<map id="JS_SetModuleLoaderFunc" name="JS_SetModuleLoaderFunc">
+<area shape="rect" id="node2" href="$qjs_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="260,5,315,32"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="236,56,339,83"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#aff1e6131e8bf8b7eb25307623ad669e7" title="js_worker_ctor" alt="" coords="387,56,504,83"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#a066e7962ce24f22d5df20968a8baa346" title="js_os_init" alt="" coords="552,56,635,83"/>
+</map>

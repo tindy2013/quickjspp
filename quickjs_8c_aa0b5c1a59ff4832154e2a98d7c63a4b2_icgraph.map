@@ -1,0 +1,6 @@
+<map id="JS_OrdinaryIsInstanceOf" name="JS_OrdinaryIsInstanceOf">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aba5795cd66ffd3fb40bd070e0f4feeef" title="js_function_hasInstance" alt="" coords="232,5,411,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#af4cd70eee97bbcab2d0f2e46cf53ccd7" title="JS_IsInstanceOf" alt="" coords="260,56,383,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#afa66b10f653bc03ae3a338509e26e906" title="js_operator_instanceof" alt="" coords="459,56,629,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="677,56,793,83"/>
+</map>

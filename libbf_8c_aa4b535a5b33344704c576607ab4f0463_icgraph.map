@@ -1,0 +1,8 @@
+<map id="bf_atan_internal" name="bf_atan_internal">
+<area shape="rect" id="node2" href="$libbf_8c.html#a4a0919b7e170befaf75d114d48d350cc" title="bf_asin_internal" alt="" coords="181,56,308,83"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a0bb2c5b98e3f978b84df9849c7ec50d6" title="bf_atan" alt="" coords="209,107,280,133"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a8ee86879e3da22442956f47356855edd" title="bf_asin" alt="" coords="389,5,459,32"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a45cd74dd3a694c26e716762b7fd36955" title="bf_acos" alt="" coords="388,56,460,83"/>
+<area shape="rect" id="node6" href="$libbf_8c.html#af760cf2a93bf130e8e44a62c7e7d0adf" title="bf_atan2_internal" alt="" coords="356,107,492,133"/>
+<area shape="rect" id="node7" href="$libbf_8h.html#a78e29a7f1f858b99cbf3a0f97382c233" title="bf_atan2" alt="" coords="540,107,619,133"/>
+</map>

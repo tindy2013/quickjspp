@@ -1,0 +1,25 @@
+<map id="emit_push_const" name="emit_push_const">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a288254c06a39c9fca740a7abdad2834e" title="__JS_AtomIsTaggedInt" alt="" coords="185,5,349,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac1bcaca99c85801bdad95a379125db97" title="cpool_add" alt="" coords="223,56,311,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a832fb9c17eacb588e93f333cf8b76522" title="emit_op" alt="" coords="230,157,305,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa4ce3850b0d5830d9a617fbbdaddfa79" title="emit_u32" alt="" coords="226,107,309,133"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="216,208,319,235"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a33fd643aff7f70e649d246385cd99b00" title="JS_NewAtomStr" alt="" coords="206,411,329,437"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#a8ba08f82c43549fcb3c939229498354d" title="dbuf_put_u32" alt="" coords="425,107,535,133"/>
+<area shape="rect" id="node7" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="437,157,523,184"/>
+<area shape="rect" id="node6" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="647,107,725,133"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a877fcb7651d95b411ce70e62b7f4a1f0" title="__JS_AtomFromUInt32" alt="" coords="397,360,563,387"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#acd08798ec15cc37c60d2e7d70007c6a8" title="__JS_NewAtom" alt="" coords="421,411,539,437"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#aa506aaf9df272c0e9e541bbf0138b483" title="js_free_string" alt="" coords="631,613,741,640"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a1eaea8fa2599700598076ea84f1afcf3" title="is_num_string" alt="" coords="423,625,537,652"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a7f6796ee7a195631366f57c713a33f65" title="__JS_AtomIsConst" alt="" coords="617,157,755,184"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#ad7824788e3ed6ecfd045f02398647753" title="atom_get_free" alt="" coords="627,208,745,235"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#aba70a7ff210dcedf19125863f2b12d4e" title="atom_set_free" alt="" coords="628,259,744,285"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a745328cb78cc898a3e105bc7bd7aee38" title="hash_string" alt="" coords="637,309,735,336"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="809,461,892,488"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#ab7f82c24ed28f06191bf5a51f78bb710" title="js_get_atom_index" alt="" coords="613,411,759,437"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#ac8b63cf5ecd077231532b9ad543aad23" title="JS_ResizeAtomHash" alt="" coords="611,461,761,488"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#aa3b85ecf2f1fbd87cb38b78548286017" title="js_string_memcmp" alt="" coords="613,512,759,539"/>
+<area shape="rect" id="node22" href="$cutils_8h.html#a94f155fcce337a2b9d4719ed8042cbbe" title="max_int" alt="" coords="649,563,723,589"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#af7b310b780a36d5b1579d4f400e6a8ae" title="is_num" alt="" coords="651,664,721,691"/>
+</map>

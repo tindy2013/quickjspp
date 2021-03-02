@@ -1,0 +1,6 @@
+<map id="js_mallocz" name="js_mallocz">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a472acb9863efa5c21d35dcdd235a7868" title="js_mallocz_rt" alt="" coords="176,5,284,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a344d6c0e45d9bf3861fd9269724045a2" title="JS_ThrowOutOfMemory" alt="" coords="144,56,316,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a4b710876403548c1ad3edc7a7719c559" title="js_malloc_rt" alt="" coords="367,5,468,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="364,56,471,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="JS_GetImportMeta" name="JS_GetImportMeta">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="214,5,317,32"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="207,56,323,83"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="206,107,325,133"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a884d294acbf5be675ffc760e38bd0521" title="JS_NewObjectProto" alt="" coords="192,157,339,184"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="387,157,568,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aad24bdf2bcbb0ce55462fe6074dac8a5" title="find_hashed_shape_proto" alt="" coords="616,56,803,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aab0be018b8f7bdcff45226f502c3f820" title="get_proto_obj" alt="" coords="654,107,765,133"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#aed229eb80b3b03a2275471dee93c69d6" title="js_dup_shape" alt="" coords="654,157,765,184"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad6926e49955be5e10423f6df8d8cff3e" title="js_new_shape" alt="" coords="653,208,766,235"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a030c2e98b1775a7e3bdd13be1400b1fe" title="JS_NewObjectFromShape" alt="" coords="617,259,801,285"/>
+</map>

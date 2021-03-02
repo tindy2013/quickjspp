@@ -1,0 +1,9 @@
+<map id="lre_canonicalize" name="lre_canonicalize">
+<area shape="rect" id="node2" href="$libregexp_8c.html#a2c44185f26ab7513cb353d16212acb83" title="lre_exec_backtrack" alt="" coords="180,31,328,57"/>
+<area shape="rect" id="node6" href="$libregexp_8c.html#acca34590a18d70f866ad56d67ce309e8" title="re_parse_term" alt="" coords="196,81,312,108"/>
+<area shape="rect" id="node3" href="$libregexp_8h.html#a55d8c60c9c812ae3e3e23e608b830ce3" title="lre_exec" alt="" coords="415,31,493,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a9eb2d90f27f684820f9de13189502b7c" title="js_regexp_exec" alt="" coords="597,5,719,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a14fa3c10f581e1cd38b349913f47fb43" title="JS_RegExpDelete" alt="" coords="592,56,724,83"/>
+<area shape="rect" id="node7" href="$libregexp_8c.html#a87dce3150c68b8a079854274dd39243c" title="re_parse_alternative" alt="" coords="376,81,532,108"/>
+<area shape="rect" id="node8" href="$libregexp_8c.html#af445f369f2ccbbc81596e0fbed929b7e" title="re_parse_disjunction" alt="" coords="580,119,736,145"/>
+</map>

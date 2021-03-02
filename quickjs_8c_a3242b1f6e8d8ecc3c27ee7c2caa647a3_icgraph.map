@@ -1,0 +1,7 @@
+<map id="free_bytecode_atoms" name="free_bytecode_atoms">
+<area shape="rect" id="node2" href="$quickjs_8c.html#adc4a49d7eb1cc1ec4b3a8c37ab8cb075" title="free_function_bytecode" alt="" coords="216,31,391,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a1b660b405f6a69b35dd871279c780ef7" title="js_free_function_def" alt="" coords="226,105,381,132"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a3d1c7a8d6aa5a9ba8ea8ef2828db188a" title="free_gc_object" alt="" coords="439,31,556,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a8defed3434f60d6b5d6a7ea202cc8f9d" title="free_zero_refcount" alt="" coords="604,5,748,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#af7c53b26778d6b7e155fab5349a4585e" title="gc_free_cycles" alt="" coords="617,56,735,83"/>
+</map>

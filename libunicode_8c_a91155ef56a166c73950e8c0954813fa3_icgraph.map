@@ -1,0 +1,6 @@
+<map id="unicode_prop1" name="unicode_prop1">
+<area shape="rect" id="node2" href="$libunicode_8c.html#a042c7e38726f6727a9826c4dd2c45832" title="unicode_prop" alt="" coords="357,5,467,32"/>
+<area shape="rect" id="node5" href="$libunicode_8c.html#a58dbb07f758bbf3de6c87a0647ec72e3" title="unicode_prop_ops" alt="" coords="171,31,309,57"/>
+<area shape="rect" id="node3" href="$libregexp_8c.html#a24c5604c81a33e66906a1f43227221e8" title="parse_unicode_property" alt="" coords="515,5,693,32"/>
+<area shape="rect" id="node4" href="$libregexp_8c.html#ac654c01af0eedad21af5da6e5035f37c" title="get_class_atom" alt="" coords="741,5,865,32"/>
+</map>

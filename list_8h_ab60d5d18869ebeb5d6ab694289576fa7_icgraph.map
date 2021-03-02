@@ -1,0 +1,31 @@
+<map id="list_del" name="list_del">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a344894112559c2ba75043fd10bcfa02f" title="close_lexical_var" alt="" coords="369,16,503,42"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab638a184d14e8b02ab3ea38b393c7cad" title="compact_properties" alt="" coords="139,262,289,289"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#aab7fd6a31fdf4057b761f08b15a38fed" title="free_rw_handler" alt="" coords="151,313,277,340"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#a2c759d250bbd9030dba1b8b84543a7e6" title="free_sh" alt="" coords="179,364,249,390"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a9e7b4bccf927d811b0f99b40b08c0472" title="free_var_ref" alt="" coords="385,73,487,100"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a05db980a30860573f912cbeb64e99c3c" title="js_free_module_def" alt="" coords="567,140,717,166"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#ae09ca4f159971d3c1f1dafc8682ba04b" title="gc_decref" alt="" coords="393,440,479,466"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a765db9341ea8163ebb7b0b61c7127752" title="gc_decref_child" alt="" coords="153,465,275,492"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#af7c53b26778d6b7e155fab5349a4585e" title="gc_free_cycles" alt="" coords="155,516,273,542"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#abc20b88e7a87b45b51a6dc6ff24f9a9a" title="gc_scan_incref_child" alt="" coords="136,566,292,593"/>
+<area shape="rect" id="node15" href="$quickjs-libc_8c.html#a9fa4c190ba56314c7ed9b00bbc7ad0f9" title="handle_posted_message" alt="" coords="123,617,305,644"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a3e852026d167fa03c673f86697dd3e67" title="js_async_generator\l_resolve_or_reject" alt="" coords="140,668,288,710"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a10203c5ecfd1db25342e97b0342ba514" title="js_atomics_notify" alt="" coords="145,734,283,761"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a5da0aed88a968e1b5d841cec3b582b2c" title="js_atomics_wait" alt="" coords="151,785,277,812"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="365,873,507,900"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a0cc5b21552a1c8bf455b480dac55ecba" title="JS_ExecutePendingJob" alt="" coords="131,961,297,988"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a1b660b405f6a69b35dd871279c780ef7" title="js_free_function_def" alt="" coords="137,910,291,937"/>
+<area shape="rect" id="node22" href="$quickjs-libc_8c.html#a23e6bef6353d5de8d3103a30b107965e" title="js_free_port" alt="" coords="165,1012,263,1038"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a1b4fe6eb1b7bcaec6713bd5ac2921f1b" title="JS_FreeContext" alt="" coords="377,136,495,162"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a2dcb30caae62abdc1f3b1d69dc9acb17" title="js_typed_array_finalizer" alt="" coords="125,1062,303,1089"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#ad20067eccd478732f660bf736e161c84" title="map_decref_record" alt="" coords="141,1113,287,1140"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a33105e4a375518fa0d303fb4eaaa6444" title="map_delete_record" alt="" coords="141,1164,287,1190"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#adfb3133f30938e2db9b525ade5fc09cf" title="remove_gc_object" alt="" coords="143,110,285,137"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a818cf98b25b3e462b79b5d8f8c6517da" title="reset_weak_ref" alt="" coords="153,1214,275,1241"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#aa80740ff93b724ea7e0c280826f4a25a" title="resize_properties" alt="" coords="147,1265,281,1292"/>
+<area shape="rect" id="node30" href="$quickjs-libc_8c.html#ab9f82007cb6f3e424787919c6740647e" title="unlink_timer" alt="" coords="162,1316,266,1342"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="584,45,700,72"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a2b9a2014cb970af5b5b7dde00afbdffa" title="delete_property" alt="" coords="373,262,499,289"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#a786f04aebbd56e14572bc82c0920be2c" title="js_os_setReadHandler" alt="" coords="353,313,519,340"/>
+</map>

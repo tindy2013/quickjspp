@@ -1,0 +1,7 @@
+<map id="JS_NumberIsInteger" name="JS_NumberIsInteger">
+<area shape="rect" id="node2" href="$quickjs_8h.html#ab995df176086f2a2a06ab777d4c4ef28" title="JS_IsNumber" alt="" coords="204,5,308,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a8cc9386cd04cfa067d0c6bf588c6bb58" title="JS_ToFloat64" alt="" coords="205,56,307,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab1b614ef35f1cea05da0ad4927c53118" title="JS_ToFloat64Free" alt="" coords="356,31,487,57"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="370,81,473,108"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a9a2e141f21d9ea38a3a23c9b4eb6e356" title="__JS_ToFloat64Free" alt="" coords="535,31,679,57"/>
+</map>

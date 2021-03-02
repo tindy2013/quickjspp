@@ -1,0 +1,11 @@
+<map id="free_property" name="free_property">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a2b9a2014cb970af5b5b7dde00afbdffa" title="delete_property" alt="" coords="164,68,289,95"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a41a4918c15192dc3489dc3ecb3fdc24d" title="free_object" alt="" coords="179,119,274,145"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad55fe6f65ecb58e327ac9e9b4ab475f5" title="set_array_length" alt="" coords="341,17,472,44"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a2b88ed25233c441cbed7b0a027c9ee2f" title="JS_DeleteProperty" alt="" coords="337,68,476,95"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="716,5,883,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="527,31,665,57"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a3d1c7a8d6aa5a9ba8ea8ef2828db188a" title="free_gc_object" alt="" coords="348,119,465,145"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a8defed3434f60d6b5d6a7ea202cc8f9d" title="free_zero_refcount" alt="" coords="524,93,668,120"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#af7c53b26778d6b7e155fab5349a4585e" title="gc_free_cycles" alt="" coords="537,144,655,171"/>
+</map>

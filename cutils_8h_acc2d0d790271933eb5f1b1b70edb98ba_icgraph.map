@@ -1,0 +1,7 @@
+<map id="bswap32" name="bswap32">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5176c9251c0ffb7c858cdc74296f16fe" title="bc_byte_swap" alt="" coords="158,5,273,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a456d88975ac5fa5a8505c7d30a16bc36" title="bc_put_u32" alt="" coords="167,56,263,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a351e921aea7f22e239884fdc941a8e52" title="js_dataview_getValue" alt="" coords="133,107,297,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a77e9c7ebb882b521133545bc59d15a4a" title="js_dataview_setValue" alt="" coords="134,157,297,184"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a394e92f87f41d27e7031eb3150bc35b1" title="JS_WriteFunctionBytecode" alt="" coords="345,5,536,32"/>
+</map>

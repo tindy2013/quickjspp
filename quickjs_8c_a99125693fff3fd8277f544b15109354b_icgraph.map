@@ -1,0 +1,11 @@
+<map id="define_var" name="define_var">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a53e971ab3c46da0b7d48481b0696e138" title="js_define_var" alt="" coords="144,195,252,221"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a9d844c16dcc71701436848074337d32c" title="js_parse_statement\l_or_decl" alt="" coords="914,111,1065,153"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a498e1d5c7de1b59c1630e9847cde1e41" title="js_parse_export" alt="" coords="927,372,1052,399"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#acc9eb677cab8dfcf45f59381f8a19601" title="js_parse_function_decl2" alt="" coords="517,397,696,424"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a00eb789430243c24dab4a63ad6a79653" title="js_parse_class" alt="" coords="744,347,860,373"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a26be546cf89c4580ba9020e8fc43a759" title="js_parse_destructuring\l_element" alt="" coords="300,187,469,229"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a9660cf21845352b14655d423389d6620" title="js_parse_var" alt="" coords="750,271,854,297"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ac188b916dd086803591a67de7e7a85f6" title="js_parse_for_in_of" alt="" coords="537,43,677,69"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a840642c87c5a82d4cc68333376a3b6de" title="js_parse_postfix_expr" alt="" coords="908,321,1071,348"/>
+</map>

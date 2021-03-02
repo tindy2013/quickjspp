@@ -1,0 +1,6 @@
+<map id="JS_ToFloat64Free" name="JS_ToFloat64Free">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a9a2e141f21d9ea38a3a23c9b4eb6e356" title="__JS_ToFloat64Free" alt="" coords="184,5,328,32"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="768,5,884,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ae738291483438efefca5c9fa4d269504" title="JS_ToNumberFree" alt="" coords="376,31,511,57"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a0315f23b9804563f376c47edef2967fd" title="JS_ToNumberHintFree" alt="" coords="559,31,720,57"/>
+</map>

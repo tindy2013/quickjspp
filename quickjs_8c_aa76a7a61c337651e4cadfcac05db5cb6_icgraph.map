@@ -1,0 +1,7 @@
+<map id="gc_scan_incref_child2" name="gc_scan_incref_child2">
+<area shape="rect" id="node2" href="$quickjs_8c.html#adee2db09b659dd2c1a1a3c408658a753" title="gc_scan" alt="" coords="217,56,292,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aeeea589ee4cec4bbc3145210f4cf6e42" title="JS_RunGC" alt="" coords="340,56,424,83"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a9d1d581951398643c2791e45231f87db" title="js_std_gc" alt="" coords="492,5,575,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a85321334e4bec66bfc03451897a03a3b" title="js_trigger_gc" alt="" coords="481,56,586,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad80a65b72c3a346d8a0047858a5f0b13" title="JS_FreeRuntime" alt="" coords="472,107,595,133"/>
+</map>

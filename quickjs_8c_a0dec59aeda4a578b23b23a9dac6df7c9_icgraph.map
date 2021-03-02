@@ -1,0 +1,8 @@
+<map id="JS_IsHTMLDDA" name="JS_IsHTMLDDA">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a404705cd4008db4015ea19f234721fc2" title="js_eq_slow" alt="" coords="171,107,264,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="312,107,428,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="496,5,647,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="538,56,605,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="476,107,667,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="525,157,618,184"/>
+</map>

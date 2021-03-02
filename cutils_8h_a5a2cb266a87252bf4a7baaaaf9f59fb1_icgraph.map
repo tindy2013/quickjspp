@@ -1,0 +1,9 @@
+<map id="max_uint32" name="max_uint32">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ad4c3a051bb1fe99f8acddc7dbe2f846b" title="js_object_list_add" alt="" coords="177,56,316,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a14b12816060fe321a1d8b562e48135b2" title="js_string_codePointRange" alt="" coords="152,107,341,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="389,56,529,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aba35628e2e963dca8fa201e6708046d6" title="JS_WriteArray" alt="" coords="596,5,707,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a3da261d6aeb1d35f3fb47a0076752a57" title="JS_WriteObjectTag" alt="" coords="582,56,721,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab24f0a3286c69433ab7e48dcc39c36cb" title="JS_WriteTypedArray" alt="" coords="577,107,725,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a431ceb41084feaa6af4e466b8b772ab1" title="JS_WriteObject2" alt="" coords="589,157,714,184"/>
+</map>

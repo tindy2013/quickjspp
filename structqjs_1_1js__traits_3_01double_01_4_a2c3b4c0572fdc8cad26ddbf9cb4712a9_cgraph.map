@@ -1,0 +1,6 @@
+<map id="qjs::js_traits&lt; double &gt;::unwrap" name="qjs::js_traits&lt; double &gt;::unwrap">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a8cc9386cd04cfa067d0c6bf588c6bb58" title="JS_ToFloat64" alt="" coords="213,31,316,57"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="378,5,481,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab1b614ef35f1cea05da0ad4927c53118" title="JS_ToFloat64Free" alt="" coords="364,56,495,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a9a2e141f21d9ea38a3a23c9b4eb6e356" title="__JS_ToFloat64Free" alt="" coords="543,56,687,83"/>
+</map>

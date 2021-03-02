@@ -1,0 +1,6 @@
+<map id="js_set_error_object" name="js_set_error_object">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#a51bfedac363e39a4273635aa7810425a" title="js_std_fdopen" alt="" coords="199,5,311,32"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a7af79ae13a636de55a6d58309c0cfa1e" title="js_std_open" alt="" coords="206,56,305,83"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#af872be4f158af25e3b412e2be297abcf" title="js_std_popen" alt="" coords="202,107,309,133"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#ab6571176bd6ffba18dcc966ffb1c7234" title="js_std_tmpfile" alt="" coords="199,157,312,184"/>
+</map>

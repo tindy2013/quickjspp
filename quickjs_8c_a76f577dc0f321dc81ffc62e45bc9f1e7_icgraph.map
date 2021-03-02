@@ -1,0 +1,6 @@
+<map id="JS_SetSharedArrayBufferFunctions" name="JS_SetSharedArrayBufferFunctions">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#ad1f0d0ceb132b9dbe7016053de6c154a" title="js_std_init_handlers" alt="" coords="296,31,447,57"/>
+<area shape="rect" id="node3" href="$qjs_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="519,5,573,32"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="495,56,597,83"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#aff1e6131e8bf8b7eb25307623ad669e7" title="js_worker_ctor" alt="" coords="645,56,763,83"/>
+</map>

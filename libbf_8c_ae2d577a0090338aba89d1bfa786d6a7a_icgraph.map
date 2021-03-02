@@ -1,0 +1,10 @@
+<map id="bf_const_log2_internal" name="bf_const_log2_internal">
+<area shape="rect" id="node2" href="$libbf_8h.html#a9660e7199a5e3dd436970b5e2e481516" title="bf_const_log2" alt="" coords="223,71,335,98"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a157194b3c7faaa17e39ae78cd98c4385" title="bf_exp_internal" alt="" coords="403,71,525,98"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#aa6e77d8d722e3fd0540ede79a63e352e" title="check_exp_underflow\l_overflow" alt="" coords="383,5,545,47"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#aab7bc918fdd8dbef25c31c6881c73fdd" title="bf_log_internal" alt="" coords="405,122,523,149"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a36f22f93ba4258209be035a63b80b87f" title="bf_exp" alt="" coords="593,21,660,47"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#aa28c1603087e2aec25b9bb0dae387875" title="bf_pow_generic" alt="" coords="708,71,832,98"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a93fe073491f8c5f086a75e7bf8865b34" title="bf_pow" alt="" coords="880,71,949,98"/>
+<area shape="rect" id="node9" href="$libbf_8h.html#a4137b2308536cbc92addaeb3f0c79d35" title="bf_log" alt="" coords="595,122,658,149"/>
+</map>

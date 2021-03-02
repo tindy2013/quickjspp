@@ -1,0 +1,8 @@
+<map id="close_scopes" name="close_scopes">
+<area shape="rect" id="node2" href="$quickjs_8c.html#abb105b8bb34f4bf0a39ade5bc0252191" title="emit_break" alt="" coords="161,56,257,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a9d844c16dcc71701436848074337d32c" title="js_parse_statement\l_or_decl" alt="" coords="305,49,456,90"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ac188b916dd086803591a67de7e7a85f6" title="js_parse_for_in_of" alt="" coords="739,157,879,184"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a729d43e44d20f1ed655cd9f4843995d3" title="js_parse_statement" alt="" coords="522,5,673,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#acc0cac53be5317d9cab6a79afcd7da48" title="js_parse_block" alt="" coords="538,56,657,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab59a3267a100decc9d2d81eb3297794a" title="js_parse_source_element" alt="" coords="504,107,691,133"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="js_class_has_bytecode" name="js_class_has_bytecode">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a46a8a7e155cfd0af984f6725f060f0d6" title="__JS_EvalInternal" alt="" coords="259,21,392,48"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a61c8dfb5e807af1b6ff7d8ca61576dda" title="build_backtrace" alt="" coords="263,349,388,376"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#aa71518153e2e2604f0f9caad36af8476" title="JS_CheckBrand" alt="" coords="266,592,385,619"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a315f18f552c506d05a36ab22649c8e3f" title="JS_DumpObject" alt="" coords="264,704,387,731"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a9876c37aa1b715e05e0e5fe1b46bcf3d" title="js_function_toString" alt="" coords="250,755,401,781"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a7a7b507694cc1ecc4e3b5129fed3f5f6" title="JS_GetFunctionBytecode" alt="" coords="236,123,415,149"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a3d9d43172bb33e53a4843dd3a770e889" title="JS_GetScriptOrModuleName" alt="" coords="224,653,427,680"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a2d5c3143055af5f45dab61f1006dc5c4" title="js_method_set_home\l_object" alt="" coords="245,515,406,557"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#acbcccb7ec58fd4a024ea1d01e5d04561" title="JS_AddIntrinsicEval" alt="" coords="766,9,913,36"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="987,92,1108,119"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aeafb37b03b5560171754f8c4505b0f6b" title="JS_ThrowError2" alt="" coords="523,224,643,251"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="781,552,897,579"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a840642c87c5a82d4cc68333376a3b6de" title="js_parse_postfix_expr" alt="" coords="502,349,665,376"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad25358fc5ae69ab218abde24d52b7767" title="js_error_constructor" alt="" coords="508,275,659,301"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a1b110b017211230b8b6310e853cd2b54" title="JS_ThrowError" alt="" coords="783,97,895,124"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="740,173,939,200"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a9ca2f6b32f0e892e8031147aa8edf270" title="JS_DumpGCObject" alt="" coords="513,805,654,832"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#adaeef1b86e37da5560f25b630c2d090c" title="js_function_proto_caller" alt="" coords="495,173,672,200"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a9605bd425a349d4b00391cb6f5d5cfd8" title="js_function_proto_fileName" alt="" coords="483,123,683,149"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#acd4bb9514182c7152570ca80a1a0650d" title="js_function_proto_lineNumber" alt="" coords="475,21,692,48"/>
+<area shape="rect" id="node21" href="$quickjs-libc_8c.html#aff1e6131e8bf8b7eb25307623ad669e7" title="js_worker_ctor" alt="" coords="525,653,642,680"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a2c15f4e9fa1344bb2d7caca8e21b34f4" title="js_import_meta" alt="" coords="521,704,645,731"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a50e94675d1c4cf67c88e72169ea3c21a" title="js_dynamic_import" alt="" coords="510,755,657,781"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a44d4e574b5bd12a89f8389ca79e587a0" title="js_method_set_properties" alt="" coords="488,501,679,528"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#a36322a209de4ef17f939e6d128578d7f" title="js_op_define_class" alt="" coords="512,552,655,579"/>
+</map>

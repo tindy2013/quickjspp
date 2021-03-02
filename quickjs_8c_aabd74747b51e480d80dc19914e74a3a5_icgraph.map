@@ -1,0 +1,6 @@
+<map id="js_proxy_constructor" name="js_proxy_constructor">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3afdbdd7b58ef7e1dcc178c362071b3d" title="JS_AddIntrinsicProxy" alt="" coords="211,5,365,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a537862df2984a40ceb9be7878c497cd2" title="js_proxy_revocable" alt="" coords="214,56,362,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="413,5,535,32"/>
+<area shape="rect" id="node4" href="$classqjs_1_1Context.html#a4392a23648acfc4bf6b445336efb5007" title="qjs::Context::Context" alt="" coords="583,5,741,32"/>
+</map>

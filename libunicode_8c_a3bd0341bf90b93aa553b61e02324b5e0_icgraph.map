@@ -1,0 +1,11 @@
+<map id="get_le24" name="get_le24">
+<area shape="rect" id="node2" href="$libunicode_8c.html#a71293078e836b0d817225cd6c72e17c2" title="get_index_pos" alt="" coords="132,157,248,184"/>
+<area shape="rect" id="node3" href="$libunicode_8c.html#a599cfa52b8ac7992138dc50f748e2a03" title="lre_is_in_table" alt="" coords="299,107,415,133"/>
+<area shape="rect" id="node8" href="$libunicode_8c.html#a25b579ef70c6ea1f412b8b36266643ba" title="unicode_get_cc" alt="" coords="296,208,419,235"/>
+<area shape="rect" id="node4" href="$libunicode_8c.html#a44a954902c2b80c209810addcdd22c90" title="lre_is_cased" alt="" coords="497,5,599,32"/>
+<area shape="rect" id="node5" href="$libunicode_8c.html#a017df7a4ffd8f22c30735d8c9fa313ec" title="lre_is_case_ignorable" alt="" coords="467,56,629,83"/>
+<area shape="rect" id="node6" href="$libunicode_8c.html#a36a983fb62ce82cd14783397f607ad09" title="lre_is_id_start" alt="" coords="491,107,605,133"/>
+<area shape="rect" id="node7" href="$libunicode_8c.html#a9992c7e1e84a9fc516edf3de2c77468a" title="lre_is_id_continue" alt="" coords="681,145,819,172"/>
+<area shape="rect" id="node9" href="$libunicode_8c.html#af7744c842dd449b6035439926abd7ee0" title="sort_cc" alt="" coords="514,208,582,235"/>
+<area shape="rect" id="node10" href="$libunicode_8c.html#a6a79bc427bb64048b575fe5ac770160d" title="unicode_normalize" alt="" coords="677,221,823,248"/>
+</map>

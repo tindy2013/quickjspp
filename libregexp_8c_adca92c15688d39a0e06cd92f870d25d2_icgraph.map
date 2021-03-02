@@ -1,0 +1,31 @@
+<map id="lre_parse_escape" name="lre_parse_escape">
+<area shape="rect" id="node2" href="$libregexp_8c.html#ac654c01af0eedad21af5da6e5035f37c" title="get_class_atom" alt="" coords="188,23,312,50"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ace438176f9f0e0fea6d6f5cdffb1577e" title="js_parse_string" alt="" coords="190,247,310,274"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a75a3798e2045f6e403c1ef467126d1fb" title="next_token" alt="" coords="396,774,491,800"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#ad91865d0889d1420e3e70d5d497a9bdb" title="parse_ident" alt="" coords="201,702,299,728"/>
+<area shape="rect" id="node30" href="$libregexp_8c.html#a6e0ee9170c3faaca126dbcc40c07aed7" title="re_parse_group_name" alt="" coords="360,74,527,100"/>
+<area shape="rect" id="node3" href="$libregexp_8c.html#ab2f98b8a2e66fd9197d2677f47ccffa8" title="re_parse_char_class" alt="" coords="367,23,520,50"/>
+<area shape="rect" id="node4" href="$libregexp_8c.html#acca34590a18d70f866ad56d67ce309e8" title="re_parse_term" alt="" coords="615,23,731,50"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a035daca514f14aacc1e0cff81d8e423a" title="js_parse_template" alt="" coords="849,378,992,404"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a7fbd31397bde22dfa2b876b945f9afb4" title="json_next_token" alt="" coords="379,247,508,274"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aeca8ed71e1eef8ec809afab744958c28" title="js_parse_expect" alt="" coords="610,631,737,658"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a840642c87c5a82d4cc68333376a3b6de" title="js_parse_postfix_expr" alt="" coords="1287,783,1449,810"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a9f26c765171d977db1796791f035f1f9" title="js_parse_unary" alt="" coords="1497,364,1617,391"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a2ecfb6abb190101748202a8aa5821fba" title="js_parse_delete" alt="" coords="1683,364,1807,391"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#ad70b14684de2ed3babfd7c2264249437" title="js_parse_expr_binary" alt="" coords="1665,1192,1825,1219"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#aae2d76e4aa080c7737119ef079a9b97d" title="js_parse_logical_and_or" alt="" coords="1873,1255,2051,1282"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a93b69939f7af67646a177249bf2deb4d" title="js_parse_coalesce_expr" alt="" coords="2099,1218,2275,1244"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a6686f5baeecd532b043761b6c24ed431" title="js_parse_cond_expr" alt="" coords="2323,428,2473,455"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#afa1bc2743b3cf892d36544a708453736" title="js_parse_assign_expr2" alt="" coords="2521,339,2691,366"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a9fc8ae779f77a7886fc7cfa48cc487fb" title="js_parse_expr2" alt="" coords="2739,258,2859,284"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a42234753f3193f37ce45b3c0ca4c25cd" title="js_parse_property_name" alt="" coords="829,682,1012,708"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#aee6d0acd87f136d43f157ae1426436e6" title="js_parse_object_literal" alt="" coords="1070,530,1238,556"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a00eb789430243c24dab4a63ad6a79653" title="js_parse_class" alt="" coords="1096,783,1212,810"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a26be546cf89c4580ba9020e8fc43a759" title="js_parse_destructuring\l_element" alt="" coords="1069,944,1239,985"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a253917187cfb6b3db09d355b31edb3d5" title="js_parse_array_literal" alt="" coords="839,884,1002,911"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a02cbd69384985a4e904190810cf45641" title="js_parse_expect_semi" alt="" coords="590,748,757,775"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#aba7eb7aae2eb61bfccb4565ee626cd18" title="js_parse_seek_token" alt="" coords="594,1052,753,1079"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#ac00298085baf11a4a7bd600cf5de2e6d" title="js_parse_skip_parens\l_token" alt="" coords="840,1088,1001,1129"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#adf95ddf430ef93fd9efea1cc2f8a2fbe" title="js_parse_class_default_ctor" alt="" coords="820,935,1021,962"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#ab10609a91c359ea5d3051f7bb646af83" title="js_parse_destructuring_var" alt="" coords="575,1002,772,1028"/>
+</map>

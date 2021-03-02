@@ -1,0 +1,9 @@
+<map id="optimize_scope_make_global_ref" name="optimize_scope_make_global_ref">
+<area shape="rect" id="node2" href="$cutils_8h.html#a8ba08f82c43549fcb3c939229498354d" title="dbuf_put_u32" alt="" coords="221,5,332,32"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="233,56,320,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="225,107,328,133"/>
+<area shape="rect" id="node8" href="$cutils_8h.html#a3b6aba81e32ed70a2a851744e5a9cc9c" title="put_u32" alt="" coords="239,157,314,184"/>
+<area shape="rect" id="node3" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="410,31,489,57"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#ac0b9ce26415947e972d6781d9f2fb11b" title="dbuf_realloc" alt="" coords="567,31,669,57"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a7f6796ee7a195631366f57c713a33f65" title="__JS_AtomIsConst" alt="" coords="380,107,519,133"/>
+</map>

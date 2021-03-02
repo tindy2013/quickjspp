@@ -1,0 +1,14 @@
+<map id="qjs::detail::js_string" name="qjs::detail::js_string">
+<area shape="rect" id="node3" href="$structJSContext.html" title="JSContext" alt="" coords="1045,649,1131,676"/>
+<area shape="rect" id="node4" href="$structJSRuntime.html" title="JSRuntime" alt="" coords="875,484,963,511"/>
+<area shape="rect" id="node5" href="$structlist__head.html" title="list_head" alt="" coords="5,491,87,517"/>
+<area shape="rect" id="node12" href="$structJSGCObjectHeader.html" title="JSGCObjectHeader" alt="" coords="164,649,307,676"/>
+<area shape="rect" id="node14" href="$structJSStackFrame.html" title="JSStackFrame" alt="" coords="525,357,636,384"/>
+<area shape="rect" id="node6" href="$structJSMallocState.html" title="JSMallocState" alt="" coords="525,459,636,485"/>
+<area shape="rect" id="node7" href="$structJSValue.html" title="JSValue" alt="" coords="200,207,271,233"/>
+<area shape="rect" id="node8" href="$structJSMallocFunctions.html" title="JSMallocFunctions" alt="" coords="512,509,649,536"/>
+<area shape="rect" id="node9" href="$structJSSharedArrayBufferFunctions.html" title="JSSharedArrayBufferFunctions" alt="" coords="473,560,688,587"/>
+<area shape="rect" id="node10" href="$structJSString.html" title="JSString" alt="" coords="545,700,617,727"/>
+<area shape="rect" id="node11" href="$structJSShape.html" title="JSShape" alt="" coords="543,649,618,676"/>
+<area shape="rect" id="node13" href="$structJSClass.html" title="JSClass" alt="" coords="546,268,615,295"/>
+</map>

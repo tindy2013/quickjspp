@@ -1,0 +1,10 @@
+<map id="JS_ThrowUnsupportedBigint" name="JS_ThrowUnsupportedBigint">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a213070e88270656c91c47f11bfb138e2" title="JS_NewBigInt64" alt="" coords="261,5,385,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a5d8e647c557f51abcfcdbf9f26b6ecc1" title="JS_NewBigUint64" alt="" coords="256,56,391,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a8c831ae1e9cb560b22da6bcd33c8e213" title="JS_ToBigInt64" alt="" coords="269,107,378,133"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a10004032a1de5f5d310921346cbf211f" title="js_std_file_tell" alt="" coords="439,5,553,32"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a06fb885216567f06919c7bbe0436234a" title="js_os_seek" alt="" coords="621,56,714,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#acbddbd012155853a1d93ae7bb4055f0d" title="JS_ToInt64Ext" alt="" coords="441,107,551,133"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#a2abec3aeee82a6dd3dd063725bbeecfe" title="js_printf_internal" alt="" coords="601,107,733,133"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#ab4e00836dd0e1609a2b081eb5e335df9" title="js_std_file_seek" alt="" coords="605,157,730,184"/>
+</map>

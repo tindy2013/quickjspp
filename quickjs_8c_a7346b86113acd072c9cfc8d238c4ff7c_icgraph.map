@@ -1,0 +1,10 @@
+<map id="js_create_iterator_result" name="js_create_iterator_result">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa45afa6d2861615f29444c9614ce766a" title="js_async_from_sync\l_iterator_next" alt="" coords="605,11,759,52"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a7669dd0ce9d8af7c46740d2f9c1e7af7" title="js_async_from_sync\l_iterator_unwrap" alt="" coords="189,47,343,88"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aceae944e32b3bc14f36a4c17f2ddd12e" title="js_async_generator\l_resolve" alt="" coords="192,113,340,155"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a3486836f2ac17a9fa315904e14858e5a" title="js_call_c_function" alt="" coords="197,181,335,207"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#affd006b08d57cbfbfbfb8f146575c6d9" title="js_async_from_sync\l_iterator_unwrap_func\l_create" alt="" coords="391,35,557,91"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a89b019c704a2d2914bc30b30a72040b3" title="js_async_generator\l_resume_next" alt="" coords="400,116,548,157"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a27966451027feb455b5da12c1578771c" title="JS_NewRuntime2" alt="" coords="408,182,540,209"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#afc1ca27a266094085ebb43e2eea0dda2" title="JS_NewRuntime" alt="" coords="620,182,744,209"/>
+</map>

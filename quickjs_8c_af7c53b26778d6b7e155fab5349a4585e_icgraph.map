@@ -1,0 +1,10 @@
+<map id="gc_free_cycles" name="gc_free_cycles">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aeeea589ee4cec4bbc3145210f4cf6e42" title="JS_RunGC" alt="" coords="172,56,256,83"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a9d1d581951398643c2791e45231f87db" title="js_std_gc" alt="" coords="324,5,407,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a85321334e4bec66bfc03451897a03a3b" title="js_trigger_gc" alt="" coords="313,56,418,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad80a65b72c3a346d8a0047858a5f0b13" title="JS_FreeRuntime" alt="" coords="304,119,427,145"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a030c2e98b1775a7e3bdd13be1400b1fe" title="JS_NewObjectFromShape" alt="" coords="475,43,659,69"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a27966451027feb455b5da12c1578771c" title="JS_NewRuntime2" alt="" coords="501,93,633,120"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="515,144,618,171"/>
+<area shape="rect" id="node9" href="$classqjs_1_1Runtime.html#a44c5deb57118d67e36f2e002f393ff43" title="qjs::Runtime::~Runtime" alt="" coords="479,195,655,221"/>
+</map>

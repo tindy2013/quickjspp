@@ -1,0 +1,6 @@
+<map id="bc_put_u16" name="bc_put_u16">
+<area shape="rect" id="node2" href="$cutils_8h.html#a86b872249d4bcf1f6b08c4af388f1d3c" title="bswap16" alt="" coords="165,5,245,32"/>
+<area shape="rect" id="node3" href="$cutils_8h.html#a31a6b9f8517a73d45e976d8a026e964e" title="dbuf_put_u16" alt="" coords="149,56,260,83"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="308,56,387,83"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#ac0b9ce26415947e972d6781d9f2fb11b" title="dbuf_realloc" alt="" coords="435,56,537,83"/>
+</map>

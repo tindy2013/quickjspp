@@ -1,0 +1,7 @@
+<map id="bf_tolower" name="bf_tolower">
+<area shape="rect" id="node2" href="$libbf_8c.html#aa75d6561ab16b8ebce73805e4deafacd" title="strcasestart" alt="" coords="144,56,243,83"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#aaaeb6c790a8b174f3c5631ee33c81910" title="bf_atof_internal" alt="" coords="291,56,416,83"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#ac6017f5cde57dab006383297ea94ef40" title="bf_atof2" alt="" coords="471,5,547,32"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a85c6215e124f35f5dcadac77990a61c9" title="bf_atof" alt="" coords="475,56,543,83"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a221eaf9914ba5bcb299c897b62939a2e" title="bfdec_atof" alt="" coords="464,107,555,133"/>
+</map>

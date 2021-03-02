@@ -1,0 +1,10 @@
+<map id="mp_mul_basecase_dec" name="mp_mul_basecase_dec">
+<area shape="rect" id="node2" href="$libbf_8h.html#a2afc9f7c942c27cc609877c776dd9a69" title="bfdec_mul" alt="" coords="261,63,351,89"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#ae758f9e5665601c800cc431c03a696f5" title="mp_sqrtrem_rec_dec" alt="" coords="227,144,385,171"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#ae5aa2c2f63fe392a1ab15f1012c512e8" title="bfdec_mul_si" alt="" coords="445,5,553,32"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#a4fe4f91a21701a55cffbc44f1eb141b6" title="bfdec_tdivremu" alt="" coords="437,56,561,83"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a1baac52525d382cc854c2e484ce2c169" title="bfdec_pow_ui" alt="" coords="443,107,554,133"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a318508be097917ddd5d1ce187edea68b" title="bfdec_divrem" alt="" coords="612,31,723,57"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#a4cb0365d02fe07e3b81ef1fbc5a0eacd" title="mp_sqrtrem_dec" alt="" coords="433,157,564,184"/>
+<area shape="rect" id="node9" href="$libbf_8h.html#aadf1781139c916e6ccb6ea473bf5a2d1" title="bfdec_sqrt" alt="" coords="622,157,713,184"/>
+</map>

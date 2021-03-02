@@ -1,0 +1,12 @@
+<map id="JS_ReadTypedArray" name="JS_ReadTypedArray">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="200,157,339,184"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a18da561cb430d36d47200cd3ab394984" title="JS_ReadArray" alt="" coords="408,5,516,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a8fce6f70a6fc880eabcdb9883e3753f2" title="JS_ReadDate" alt="" coords="410,56,514,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a367627778ac537f4bb1f0fd07a2dee1b" title="JS_ReadFunctionTag" alt="" coords="387,107,537,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a21c7b14be807f7ce7f71c19e2e80380c" title="JS_ReadModule" alt="" coords="402,157,522,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a12be2ea9c010752715072489497594e9" title="JS_ReadObject" alt="" coords="405,208,519,235"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad0e3230c3896c2048283a9302f184fb4" title="JS_ReadObjectTag" alt="" coords="393,259,531,285"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#aa329df3dbab623ec017b77cb77bcce2f" title="JS_ReadObjectValue" alt="" coords="387,309,537,336"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#a9fa4c190ba56314c7ed9b00bbc7ad0f9" title="handle_posted_message" alt="" coords="585,183,768,209"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#ab1b439d304c2125490b47ef262b5df67" title="js_std_eval_binary" alt="" coords="605,233,748,260"/>
+</map>

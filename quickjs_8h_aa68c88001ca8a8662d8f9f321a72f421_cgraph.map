@@ -1,0 +1,10 @@
+<map id="JS_NewCFunction" name="JS_NewCFunction">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a76d4772691a319f48dc636a0e7f6c1ed" title="JS_NewCFunction2" alt="" coords="187,132,328,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a21cfe4c4fc9372dc0b95b37667cff0c9" title="JS_NewCFunction3" alt="" coords="376,132,517,159"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a2814982d965920b44b14bef36ba18bba" title="JS_DupContext" alt="" coords="603,5,721,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="611,56,713,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a5d963b1e3acf275363fedd4bfdd8a57f" title="js_function_set_properties" alt="" coords="565,107,759,133"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="604,157,720,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa2ef5af1544a3012f91a80c98c326b8f" title="JS_NewAtom" alt="" coords="609,208,715,235"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="571,259,753,285"/>
+</map>

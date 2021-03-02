@@ -1,0 +1,6 @@
+<map id="mp_div1_dec" name="mp_div1_dec">
+<area shape="rect" id="node2" href="$libbf_8c.html#a3ac3b86cc31b99a551947240e979c5d7" title="clz" alt="" coords="201,5,241,32"/>
+<area shape="rect" id="node4" href="$libbf_8c.html#a6a9d2c1c8274c181a1fc9df04945ab8a" title="udiv1norm" alt="" coords="175,56,267,83"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#a2ac8ca76c2d20f74b94372386d6fcd57" title="udiv1norm_init" alt="" coords="161,107,281,133"/>
+<area shape="rect" id="node3" href="$cutils_8h.html#a28eb00e6774a2dd724b86fb6f83c1bf6" title="clz64" alt="" coords="329,5,385,32"/>
+</map>

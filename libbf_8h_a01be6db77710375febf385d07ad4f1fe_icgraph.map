@@ -1,0 +1,6 @@
+<map id="mp_recip" name="mp_recip">
+<area shape="rect" id="node2" href="$libbf_8c.html#ae8bc748c521cf9e366c02ba403b2d8c0" title="mp_divnorm_large" alt="" coords="136,17,280,44"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a0b14a84ecf8baf4930b1bcb8621b8e18" title="mp_divnorm" alt="" coords="328,43,432,69"/>
+<area shape="rect" id="node4" href="$libbf_8c.html#ad7a540de8355f07757e52b48d35dd708" title="__bf_div" alt="" coords="506,5,582,32"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#ad6e0bb87edc2953629f7fc6f16e3e7d7" title="mp_sqrtrem_rec" alt="" coords="480,80,608,107"/>
+</map>

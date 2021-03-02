@@ -1,0 +1,7 @@
+<map id="promise_reaction_data_free" name="promise_reaction_data_free">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="800,5,883,32"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#ab8db583fa5e7c2b1935854a42859daed" title="JS_FreeValueRT" alt="" coords="257,31,377,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="425,44,560,71"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a8defed3434f60d6b5d6a7ea202cc8f9d" title="free_zero_refcount" alt="" coords="608,56,752,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a58c8965dad50b15b75918a09f3d9dc7c" title="JS_FreeAtomStruct" alt="" coords="609,107,751,133"/>
+</map>

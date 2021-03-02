@@ -1,0 +1,6 @@
+<map id="qjs::Value::release" name="qjs::Value::release">
+<area shape="rect" id="node2" href="$classqjs_1_1Value.html#ad04b949f09968e4677fcfc1141b4b180" title="Implicit conversion to JSValue (rvalue only). " alt="" coords="204,5,352,47"/>
+<area shape="rect" id="node3" href="$structqjs_1_1js__traits_3_01Value_01_4.html#af4727ca29ead31139e17d81f8d54fe68" title="qjs::js_traits\&lt; Value\l \&gt;::wrap" alt="" coords="202,71,354,112"/>
+<area shape="rect" id="node4" href="$structqjs_1_1js__traits_3_01std_1_1vector_3_01T_01_4_01_4.html#a0a1cc387d5c49e5cb5ae417730d32b1c" title="qjs::js_traits\&lt; std\l::vector\&lt; T \&gt; \&gt;::wrap" alt="" coords="196,136,360,177"/>
+<area shape="rect" id="node5" href="$structqjs_1_1js__traits_3_01std_1_1pair_3_01U_00_01V_01_4_01_4.html#a41dcc6c493ccb87839663368294d791a" title="qjs::js_traits\&lt; std\l::pair\&lt; U, V \&gt; \&gt;::wrap" alt="" coords="195,201,361,243"/>
+</map>

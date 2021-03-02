@@ -1,0 +1,9 @@
+<map id="js_async_function_terminate" name="js_async_function_terminate">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a0272417de9a1be37e1fcc3fdccdb859a" title="js_async_function_free0" alt="" coords="263,46,441,73"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a1bf6b62983e8fff99c0a5d5a9f486115" title="js_async_function_resume" alt="" coords="489,97,684,123"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aee58f0488d619274e9d72be864626298" title="js_async_function_free" alt="" coords="501,46,672,73"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac931348298547ac227fe8407e91acf54" title="js_async_function_resolve\l_finalizer" alt="" coords="747,5,940,47"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a8029b29b8458274699fbcb7ce42a7100" title="js_async_function_call" alt="" coords="759,71,927,98"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="1003,97,1173,123"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a2cf6c9a897a2a59d310f3cf18897b639" title="js_async_function_resolve_call" alt="" coords="732,122,955,149"/>
+</map>

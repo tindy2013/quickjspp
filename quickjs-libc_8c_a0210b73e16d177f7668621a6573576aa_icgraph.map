@@ -1,0 +1,8 @@
+<map id="make_obj_error" name="make_obj_error">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#a64270f007df853e9d2f443383d26ec60" title="js_os_readdir" alt="" coords="194,5,302,32"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a0142166ddf6e134f89207c3ee3c7572c" title="js_os_stat" alt="" coords="205,56,291,83"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#ae77b81ae623983a6ab0351277d33e0f4" title="make_string_error" alt="" coords="177,107,319,133"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#ae652036c9a8e00ce0926d51f67628174" title="js_os_getcwd" alt="" coords="370,56,479,83"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#a02dc6b1cce70abfcd4bd5c862584e0a4" title="js_os_realpath" alt="" coords="367,107,483,133"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#a2173b95ca89b7de47e5bf9d5866877b9" title="js_os_readlink" alt="" coords="367,157,482,184"/>
+</map>

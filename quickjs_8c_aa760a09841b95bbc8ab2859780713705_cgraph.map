@@ -1,0 +1,10 @@
+<map id="js_global_eval" name="js_global_eval">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a97231fb89bb56fdeddd9f5ba17b0e1ff" title="JS_EvalObject" alt="" coords="168,85,279,112"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="682,55,785,81"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a0800e3e7b9763c0dddb2f3f85df25635" title="JS_EvalInternal" alt="" coords="330,35,449,61"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ae0bc4f65da64810facb2cb9e476eda2e" title="JS_FreeCString" alt="" coords="509,161,624,188"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#aa53b9197dc6d5770e3a080c1e335f7cb" title="JS_IsString" alt="" coords="344,136,435,163"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a1e7f56471f8608df9405987087a56070" title="JS_ToCStringLen" alt="" coords="327,85,452,112"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="681,117,785,144"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#af49e67b73f845dc1f9c3ee648dd9f95c" title="JS_ToCStringLen2" alt="" coords="500,85,633,112"/>
+</map>

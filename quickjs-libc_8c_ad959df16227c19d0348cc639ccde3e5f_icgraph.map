@@ -1,0 +1,10 @@
+<map id="js_sab_free" name="js_sab_free">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#a787c84066ba712c7487df7459615276f" title="js_free_message" alt="" coords="159,56,291,83"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#ad1f0d0ceb132b9dbe7016053de6c154a" title="js_std_init_handlers" alt="" coords="149,107,300,133"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#a9fa4c190ba56314c7ed9b00bbc7ad0f9" title="handle_posted_message" alt="" coords="348,5,531,32"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a2c8234980adfda2a29db3b01cbdc8362" title="js_free_message_pipe" alt="" coords="356,56,523,83"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#a23e6bef6353d5de8d3103a30b107965e" title="js_free_port" alt="" coords="588,56,687,83"/>
+<area shape="rect" id="node6" href="$quickjs-libc_8c.html#aff1e6131e8bf8b7eb25307623ad669e7" title="js_worker_ctor" alt="" coords="579,132,696,159"/>
+<area shape="rect" id="node8" href="$qjs_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="412,107,467,133"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="388,157,491,184"/>
+</map>

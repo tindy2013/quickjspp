@@ -1,0 +1,20 @@
+<map id="JS_MarkValue" name="JS_MarkValue">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a440c98b7712cdebdd1669145e347aeee" title="async_func_mark" alt="" coords="207,56,343,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa863a9d565bac49a2a76d10009eabd5c" title="mark_children" alt="" coords="628,107,743,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab9c865d20323b804ccb094fcfaa50bc6" title="js_array_iterator_mark" alt="" coords="190,157,361,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#acb99077e846bd9454a9a487e37d2c3ea" title="js_array_mark" alt="" coords="218,208,333,235"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a38e3ca2956f24530050960209de00786" title="js_bound_function_mark" alt="" coords="185,259,366,285"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#aeb353cd4219d604d1703cb933d84edd5" title="js_bytecode_function_mark" alt="" coords="175,309,376,336"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a25ec2f38e68d70c00a45e792769d5e9c" title="js_for_in_iterator_mark" alt="" coords="189,360,362,387"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a50bc5b6d5a67ae989b6736f49188908a" title="js_map_iterator_mark" alt="" coords="193,411,358,437"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a6e5b40b07a3a50f183d29c07e1ef6e89" title="js_map_mark" alt="" coords="220,461,331,488"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#ab9aacbe1f6b77d056f2964b11ebe5582" title="js_mark_module_def" alt="" coords="196,512,355,539"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a7b4ca0877b507766c40c28209ecef13a" title="JS_MarkContext" alt="" coords="446,512,570,539"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a84236742f665a886029b3cda97b594d0" title="js_object_data_mark" alt="" coords="197,613,354,640"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ae00a898975e00f635f0e4596e71182aa" title="js_promise_resolve\l_function_mark" alt="" coords="201,665,349,706"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a8bd66cdb14ac137c3ec953c89bab574b" title="js_regexp_string_iterator_mark" alt="" coords="163,731,388,757"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a266770cbb5df742a21f25b9f0b9ce173" title="js_typed_array_mark" alt="" coords="196,781,355,808"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#abcdce6a4957ddcf9ad7185c9d269c230" title="js_generator_mark" alt="" coords="436,5,580,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ae09ca4f159971d3c1f1dafc8682ba04b" title="gc_decref" alt="" coords="791,81,876,108"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#adee2db09b659dd2c1a1a3c408658a753" title="gc_scan" alt="" coords="796,132,871,159"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="bfdec_cmpu" name="bfdec_cmpu">
+<area shape="rect" id="node2" href="$libbf_8c.html#adab81046eaf5fc5a75e1bae96b75be66" title="bfdec_add_internal" alt="" coords="155,56,301,83"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#a4fe4f91a21701a55cffbc44f1eb141b6" title="bfdec_tdivremu" alt="" coords="637,107,761,133"/>
+<area shape="rect" id="node8" href="$libbf_8h.html#a318508be097917ddd5d1ce187edea68b" title="bfdec_divrem" alt="" coords="809,107,920,133"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#aa5c7e54724217d71eb29c55c98e2413f" title="__bfdec_add" alt="" coords="349,5,452,32"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#ac10038dd7f04c765ddc8fdb12e3257a2" title="__bfdec_sub" alt="" coords="349,56,452,83"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a2ab5a868db6e2d3d41c9b95e561054d3" title="bfdec_add" alt="" coords="500,5,589,32"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#ac3255e37957d4be7117b1d9bfc4fcf11" title="bfdec_sub" alt="" coords="501,56,589,83"/>
+</map>

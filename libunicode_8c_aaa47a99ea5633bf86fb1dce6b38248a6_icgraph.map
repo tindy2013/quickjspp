@@ -1,0 +1,5 @@
+<map id="unicode_decomp_char" name="unicode_decomp_char">
+<area shape="rect" id="node2" href="$libunicode_8c.html#ab30f4b72bed0cefc5b1ceeb8caef2afc" title="to_nfd_rec" alt="" coords="220,29,311,56"/>
+<area shape="rect" id="node3" href="$libunicode_8c.html#a6a79bc427bb64048b575fe5ac770160d" title="unicode_normalize" alt="" coords="359,29,504,56"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac6b88454ffc4d639197c1e95e515e04a" title="js_string_normalize" alt="" coords="552,29,701,56"/>
+</map>

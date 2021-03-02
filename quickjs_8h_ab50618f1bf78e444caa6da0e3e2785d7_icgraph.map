@@ -1,0 +1,22 @@
+<map id="JS_DefineProperty" name="JS_DefineProperty">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="436,50,635,77"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a9105ee38f5a557a7922fe6cfee0f9bb2" title="js_arguments_define\l_own_property" alt="" coords="211,456,369,498"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a04d312757919ff6b4d79cd0c2c3e5bb2" title="js_build_arguments" alt="" coords="461,202,610,229"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="685,253,801,280"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a7e5b77a4851eee6f666581d051979392" title="js_proxy_define_own\l_property" alt="" coords="1091,347,1249,388"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#afda32fadaf7f938b5d1a2458a596a4b9" title="JS_DefineGlobalFunction" alt="" coords="446,253,625,280"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#af40540b5f7e973f44e4e89d87938bfc6" title="JS_DefinePropertyDesc" alt="" coords="205,522,375,549"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#abfb24c507e9a341c0a98e61d86fd8663" title="JS_DefinePropertyGetSet" alt="" coords="199,573,381,600"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="203,101,377,128"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ad47910027b4f50d5ff3239df19de556d" title="js_object___defineGetter__" alt="" coords="192,624,388,650"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a3b1f61e0c2e39eb52d8b1c5c8713873e" title="js_object_seal" alt="" coords="233,50,347,77"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a638e637d492ee889691691baba33c4bd" title="JS_SetPropertyGeneric" alt="" coords="452,304,619,330"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="452,354,619,381"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a1fdb56277638da2aef63b9be0c12895f" title="js_string_define_own\l_property" alt="" coords="211,675,369,716"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="683,50,804,77"/>
+<area shape="rect" id="node4" href="$classqjs_1_1Context.html#a4392a23648acfc4bf6b445336efb5007" title="qjs::Context::Context" alt="" coords="868,50,1027,77"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="872,177,1023,204"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="914,228,981,254"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="852,278,1043,305"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="901,329,994,356"/>
+</map>

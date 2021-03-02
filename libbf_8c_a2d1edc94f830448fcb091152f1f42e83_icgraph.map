@@ -1,0 +1,6 @@
+<map id="bfdec_set_si" name="bfdec_set_si">
+<area shape="rect" id="node2" href="$libbf_8h.html#a7cb137686dce1e04af24aa61a1a177a6" title="bfdec_add_si" alt="" coords="157,5,263,32"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#ae5aa2c2f63fe392a1ab15f1012c512e8" title="bfdec_mul_si" alt="" coords="156,56,264,83"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a318508be097917ddd5d1ce187edea68b" title="bfdec_divrem" alt="" coords="312,31,423,57"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a9c0e8e44d597f47e07d562594ca455f2" title="bfdec_rem" alt="" coords="471,31,561,57"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="js_for_in_start" name="js_for_in_start">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa40a5354bee3b56e05a71244910bcc78" title="build_for_in_iterator" alt="" coords="168,397,321,424"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="1270,296,1386,323"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a643df594b75933007bcdbb071b5ea8c5" title="get_shape_prop" alt="" coords="1265,448,1391,475"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="856,195,1031,221"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="1276,195,1380,221"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="910,549,977,576"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a6b42cd922447e1eb6bfc52761895a174" title="js_free_prop_enum" alt="" coords="661,499,808,525"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a176ac5ff56a118a0b1b2566798d28823" title="JS_GetOwnPropertyNamesInternal" alt="" coords="369,600,613,627"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="401,651,582,677"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="860,321,1027,348"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a52eca58bf20fca588e38da7f83f3fca9" title="JS_ToObjectFree" alt="" coords="429,167,553,193"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="1079,296,1217,323"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a710289a14c2810467e5b448d3c28bd55" title="JS_ToObject" alt="" coords="686,167,783,193"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="JS_GetPrivateField" name="JS_GetPrivateField">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a06b76f5124fd985e35f4c652fd018d6d" title="find_own_property" alt="" coords="234,31,377,57"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="254,81,357,108"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a11498940707b6928b86da6844ef8f2a1" title="js_symbol_to_atom" alt="" coords="231,132,380,159"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a726b00d108e0a0f4d958c36c2e426a64" title="JS_ThrowTypeErrorNotAnObject" alt="" coords="193,183,417,209"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#abda92b710bb8f585930b1072d9d69917" title="JS_ThrowTypeErrorNotASymbol" alt="" coords="194,233,417,260"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a26cfb2f387fcd9d8046c1f7200607ea5" title="JS_ThrowTypeErrorPrivate\lNotFound" alt="" coords="211,285,399,326"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a643df594b75933007bcdbb071b5ea8c5" title="get_shape_prop" alt="" coords="465,5,591,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#acab22c2945c4d609e57a2484feb68a96" title="prop_hash_end" alt="" coords="468,56,588,83"/>
+</map>

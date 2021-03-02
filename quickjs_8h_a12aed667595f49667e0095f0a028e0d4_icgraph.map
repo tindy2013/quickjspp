@@ -1,0 +1,21 @@
+<map id="JS_DefinePropertyValueUint32" name="JS_DefinePropertyValueUint32">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a43208b0746998d2b6b9b8bd1ef8b5f99" title="js_append_enumerate" alt="" coords="292,157,459,184"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7a5c4f3ad3260974d9a0c75120ce5647" title="js_promise_all" alt="" coords="1149,200,1265,227"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a0bfdeb7e158aebcb79b7c9367a60be80" title="js_promise_all_resolve\l_element" alt="" coords="931,193,1101,234"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a1c459034f2971c4abc3a8d6d4693ef5f" title="js_build_mapped_arguments" alt="" coords="271,56,480,83"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a72f4829a5b32f5445fe3f2a59efeb8ea" title="js_build_rest" alt="" coords="323,107,427,133"/>
+<area shape="rect" id="node12" href="$quickjs-libc_8c.html#a6d1c957c402e5cda23a3b00762208185" title="js_os_pipe" alt="" coords="330,309,421,336"/>
+<area shape="rect" id="node13" href="$quickjs-libc_8c.html#a64270f007df853e9d2f443383d26ec60" title="js_os_readdir" alt="" coords="532,549,640,576"/>
+<area shape="rect" id="node14" href="$quickjs-libc_8c.html#a9caf548a60b412734dc8a40a7ebc914e" title="js_os_ttyGetWinSize" alt="" coords="298,411,453,437"/>
+<area shape="rect" id="node15" href="$quickjs-libc_8c.html#aedcefc332980a5da1b0a3c512232d46f" title="js_os_waitpid" alt="" coords="320,461,431,488"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a035daca514f14aacc1e0cff81d8e423a" title="js_parse_template" alt="" coords="304,512,447,539"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a18da561cb430d36d47200cd3ab394984" title="JS_ReadArray" alt="" coords="321,563,429,589"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a9eb2d90f27f684820f9de13189502b7c" title="js_regexp_exec" alt="" coords="314,613,437,640"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a756c1ab5dee9a6dd07723d7a075e2a53" title="json_parse_value" alt="" coords="308,688,443,715"/>
+<area shape="rect" id="node20" href="$quickjs-libc_8c.html#a0210b73e16d177f7668621a6573576aa" title="make_obj_error" alt="" coords="313,739,437,765"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="528,81,644,108"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="712,107,863,133"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="754,157,821,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="692,5,883,32"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="741,56,834,83"/>
+</map>

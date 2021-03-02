@@ -1,0 +1,10 @@
+<map id="JS_ToInt64Free" name="JS_ToInt64Free">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ae2829a2d31c667739617023e2374a6b2" title="JS_ToInt64" alt="" coords="168,81,256,108"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#acd6d7f2e207ed1d263e55bed721a7288" title="js_os_setTimeout" alt="" coords="304,5,440,32"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a75a026899e6e503ad72d190af515069e" title="js_os_utimes" alt="" coords="319,56,425,83"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#ac6c57d6d76a5e1581e1ce9fa60f8e60a" title="js_os_sleep" alt="" coords="323,107,421,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#acbddbd012155853a1d93ae7bb4055f0d" title="JS_ToInt64Ext" alt="" coords="317,157,427,184"/>
+<area shape="rect" id="node7" href="$quickjs-libc_8c.html#a2abec3aeee82a6dd3dd063725bbeecfe" title="js_printf_internal" alt="" coords="488,107,620,133"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#ab4e00836dd0e1609a2b081eb5e335df9" title="js_std_file_seek" alt="" coords="491,157,617,184"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#a06fb885216567f06919c7bbe0436234a" title="js_os_seek" alt="" coords="507,208,601,235"/>
+</map>

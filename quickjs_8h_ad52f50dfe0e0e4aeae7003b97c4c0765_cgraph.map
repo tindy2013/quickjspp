@@ -1,0 +1,7 @@
+<map id="JS_ToIndex" name="JS_ToIndex">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aee6a60a9e9f3c0d9827d5cb0e15c23b4" title="JS_ToInt64Sat" alt="" coords="144,31,253,57"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="318,5,421,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a8c94da482e7e46bf333be67ff97e58c1" title="JS_ToInt64SatFree" alt="" coords="301,56,437,83"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="495,31,611,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ae738291483438efefca5c9fa4d269504" title="JS_ToNumberFree" alt="" coords="485,81,620,108"/>
+</map>

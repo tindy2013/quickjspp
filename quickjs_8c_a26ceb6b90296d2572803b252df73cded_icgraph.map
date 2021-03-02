@@ -1,0 +1,8 @@
+<map id="js_obj_to_desc" name="js_obj_to_desc">
+<area shape="rect" id="node2" href="$quickjs_8c.html#af40540b5f7e973f44e4e89d87938bfc6" title="JS_DefinePropertyDesc" alt="" coords="186,56,357,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab9c2e9c8dab72f3c057efe4ffcced332" title="js_proxy_get_own_property" alt="" coords="171,107,372,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab2de4cc7a9e58c7a6220acf9e4769d62" title="JS_ObjectDefineProperties" alt="" coords="420,31,611,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aca3b864ab833c3c9034cee730e49cedb" title="js_object_defineProperty" alt="" coords="424,81,607,108"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a044c9fa96a633f551f51655924c570c7" title="js_object_create" alt="" coords="691,5,819,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a8717c172013667b43f0c233fc04a72c0" title="js_object_defineProperties" alt="" coords="659,56,852,83"/>
+</map>

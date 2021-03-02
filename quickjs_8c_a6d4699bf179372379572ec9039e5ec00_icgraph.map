@@ -1,0 +1,15 @@
+<map id="JS_ToInt32Clamp" name="JS_ToInt32Clamp">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a10203c5ecfd1db25342e97b0342ba514" title="js_atomics_notify" alt="" coords="215,5,352,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a343a343b16bc3c9875050e99ee0d2884" title="JS_JSONStringify" alt="" coords="219,56,347,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a507292e60d4d33781303b635d3f42fd1" title="js_string_includes" alt="" coords="214,107,353,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7e93a76184ec9bc88adb834f83f679d8" title="js_string_indexOf" alt="" coords="216,157,351,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aa46a42bde091ff4968e502d9556c47b6" title="js_string_slice" alt="" coords="226,208,341,235"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a1008f89dc6bfd1fedc49ea6f427253c7" title="js_string_substr" alt="" coords="221,259,345,285"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a95e140838dbe5abed1dabaae43f10a6e" title="js_string_substring" alt="" coords="211,309,355,336"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#abe83a22e4d81b08015c382d8f4e7f833" title="js_typed_array_copyWithin" alt="" coords="184,360,383,387"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#ae93231189fcdcb0450f2b21c208f293f" title="js_typed_array_fill" alt="" coords="213,411,354,437"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a5552c2701abfaa12a9c9b029a377725d" title="js_typed_array_indexOf" alt="" coords="195,461,371,488"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a04f45f4b341a84aa1039cfd862adbcd2" title="js_typed_array_slice" alt="" coords="206,512,361,539"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a355310420e303302c981eb7c73a222fb" title="js_typed_array_subarray" alt="" coords="192,563,375,589"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad2e4811daaaacb846df56bc88bd84e03" title="js_json_stringify" alt="" coords="431,56,559,83"/>
+</map>

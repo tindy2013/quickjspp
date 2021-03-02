@@ -1,0 +1,10 @@
+<map id="add_fast_array_element" name="add_fast_array_element">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a643df594b75933007bcdbb071b5ea8c5" title="get_shape_prop" alt="" coords="273,5,398,32"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="283,56,387,83"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="284,107,387,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#adba489eac6c2332de312326782457940" title="JS_ThrowTypeErrorReadOnly" alt="" coords="233,157,437,184"/>
+<area shape="rect" id="node9" href="$cutils_8h.html#a94f155fcce337a2b9d4719ed8042cbbe" title="max_int" alt="" coords="298,208,373,235"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="485,56,604,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="652,56,787,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a686cf78f8b0361621ee2ba6182195c31" title="is_strict_mode" alt="" coords="486,157,603,184"/>
+</map>

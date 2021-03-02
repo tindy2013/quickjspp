@@ -1,0 +1,9 @@
+<map id="JS_SetPropertyInternal" name="JS_SetPropertyInternal">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa40a5354bee3b56e05a71244910bcc78" title="build_for_in_iterator" alt="" coords="220,5,373,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="623,81,739,108"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ad50f89a3ee5e8b29b31bb62cf8ea0d82" title="JS_SetGlobalVar" alt="" coords="435,107,561,133"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#af763b173e78debf2075670ca2c128a30" title="JS_SetProperty" alt="" coords="238,157,355,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a62617fe11025d2e5a545db069fc28e64" title="JS_SetPropertyStr" alt="" coords="229,208,364,235"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aee75cc1546e19479e3ccda58f3b50a96" title="JS_SetPropertyValue" alt="" coords="421,208,575,235"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a3472bcc4762be7f7de1dcf4c1e0c5ff1" title="js_for_in_start" alt="" coords="441,5,555,32"/>
+</map>

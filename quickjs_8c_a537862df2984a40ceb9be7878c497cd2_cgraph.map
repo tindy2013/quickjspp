@@ -1,0 +1,31 @@
+<map id="js_proxy_revocable" name="js_proxy_revocable">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="201,765,376,792"/>
+<area shape="rect" id="node14" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="976,867,1080,893"/>
+<area shape="rect" id="node15" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="970,968,1086,995"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#afc0d8ea75588216ec132a6e1655524a7" title="JS_NewObject" alt="" coords="233,1171,345,1197"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#aabd74747b51e480d80dc19914e74a3a5" title="js_proxy_constructor" alt="" coords="696,1120,853,1147"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#adf2952dd52aa03ebcd2e60880eb1b05c" title="js_proxy_revoke_constructor" alt="" coords="424,1019,633,1045"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="459,461,598,488"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a014abd680db53ab89cb133345742a59c" title="__attribute__" alt="" coords="975,360,1081,387"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a288254c06a39c9fca740a7abdad2834e" title="__JS_AtomIsTaggedInt" alt="" coords="946,259,1110,285"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a89f38938cee8077ce1fbba07946ed185" title="__JS_AtomToUInt32" alt="" coords="955,461,1101,488"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a68c7ae36cec3bf8bbf6cc0868a71cc4b" title="check_define_prop_flags" alt="" coords="684,309,865,336"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ac93c982cb636a5430b191d104083af3e" title="convert_fast_array\l_to_array" alt="" coords="956,115,1100,157"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a06b76f5124fd985e35f4c652fd018d6d" title="find_own_property" alt="" coords="703,5,846,32"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a643df594b75933007bcdbb071b5ea8c5" title="get_shape_prop" alt="" coords="965,56,1091,83"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a9e7b4bccf927d811b0f99b40b08c0472" title="free_var_ref" alt="" coords="724,360,825,387"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a6df3ef223d7e76a0db2c14d972dbfa77" title="get_prop_flags" alt="" coords="969,199,1087,225"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ab4e100a9cde5f7ec87c92f5e766dbbab" title="JS_AtomIsNumericIndex1" alt="" coords="681,563,868,589"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a8aac7988cf0c6f3c2b629a6662fd7ec8" title="JS_AutoInitProperty" alt="" coords="701,816,848,843"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#ad5565bb5cfd5321f181573257f3b0c91" title="JS_CreateProperty" alt="" coords="705,259,844,285"/>
+<area shape="rect" id="node18" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="977,740,1079,767"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a1ca9cdb1fa2ffc3e6506e92b200e490f" title="JS_IsFunction" alt="" coords="975,512,1081,539"/>
+<area shape="rect" id="node20" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="715,613,834,640"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a726b00d108e0a0f4d958c36c2e426a64" title="JS_ThrowTypeErrorNotAnObject" alt="" coords="916,1221,1140,1248"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a73738c650f11459db0d7af3dcdf8316b" title="JS_NewObjectProtoClass" alt="" coords="937,1069,1119,1096"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#afa39b15865cb50fc2383e76e33b2de1a" title="JS_IsConstructor" alt="" coords="965,1120,1091,1147"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#afa23cf32e0412f97cd08186c9842e58d" title="JS_SetConstructorBit" alt="" coords="951,1171,1105,1197"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a0ddf716409e51648f0d59e7521150d19" title="JS_SetOpaque" alt="" coords="972,1019,1084,1045"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#ac048b0ff95f3f0cb7c189e87f74df753" title="JS_NewCFunctionData" alt="" coords="693,1019,857,1045"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#aebf4ad4c244ba0b95736434ff6cf812b" title="js_proxy_revoke" alt="" coords="710,917,839,944"/>
+</map>

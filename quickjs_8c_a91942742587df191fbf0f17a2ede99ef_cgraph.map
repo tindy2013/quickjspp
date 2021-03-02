@@ -1,0 +1,17 @@
+<map id="JS_WriteObjectAtoms" name="JS_WriteObjectAtoms">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5c417bcd8453a3ab8f4ced37e8f86bf2" title="bc_put_leb128" alt="" coords="373,195,489,221"/>
+<area shape="rect" id="node6" href="$cutils_8h.html#ac0b9ce26415947e972d6781d9f2fb11b" title="dbuf_realloc" alt="" coords="1025,105,1128,132"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a1691ba44aef8ba12408b5a824d07600a" title="bc_put_u8" alt="" coords="571,43,659,69"/>
+<area shape="rect" id="node8" href="$cutils_8h.html#a8a3b715fc2146312b777c4e3db546b55" title="dbuf_free" alt="" coords="227,144,311,171"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a85c6e39e83eab2ddb82d58e82721d06a" title="js_dbuf_init" alt="" coords="220,93,317,120"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a0c946fdd3a6def82765db148f99b8fba" title="JS_WriteString" alt="" coords="212,245,325,272"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#af9b9e3f8ca5a82349d1925fca4683c38" title="dbuf_put_leb128" alt="" coords="549,144,680,171"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="752,144,839,171"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="899,181,977,208"/>
+<area shape="rect" id="node10" href="$cutils_8h.html#a04e3983476063eb6fbab2fd74fc49fc6" title="dbuf_init2" alt="" coords="388,144,475,171"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#aa548c4ad5eacef7d9508100cfe6f6871" title="js_realloc_rt" alt="" coords="381,93,482,120"/>
+<area shape="rect" id="node11" href="$cutils_8c.html#abb5d9de84cd0caedf89814f555ab5d1a" title="dbuf_default_realloc" alt="" coords="537,93,692,120"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a226c9e47a5047a3adcce0950aa3e3610" title="bc_put_u16" alt="" coords="383,245,479,272"/>
+<area shape="rect" id="node15" href="$cutils_8h.html#a86b872249d4bcf1f6b08c4af388f1d3c" title="bswap16" alt="" coords="575,195,655,221"/>
+<area shape="rect" id="node16" href="$cutils_8h.html#a31a6b9f8517a73d45e976d8a026e964e" title="dbuf_put_u16" alt="" coords="740,220,851,247"/>
+</map>

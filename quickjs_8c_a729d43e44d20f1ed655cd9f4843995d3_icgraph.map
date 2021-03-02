@@ -1,0 +1,6 @@
+<map id="js_parse_statement" name="js_parse_statement">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ac188b916dd086803591a67de7e7a85f6" title="js_parse_for_in_of" alt="" coords="204,5,344,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a9d844c16dcc71701436848074337d32c" title="js_parse_statement\l_or_decl" alt="" coords="392,61,543,102"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#acc0cac53be5317d9cab6a79afcd7da48" title="js_parse_block" alt="" coords="625,68,743,95"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab59a3267a100decc9d2d81eb3297794a" title="js_parse_source_element" alt="" coords="591,119,777,145"/>
+</map>

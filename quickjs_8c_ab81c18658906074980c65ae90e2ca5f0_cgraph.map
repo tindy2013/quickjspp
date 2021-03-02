@@ -1,0 +1,7 @@
+<map id="js_atomics_get_ptr" name="js_atomics_get_ptr">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a033dd3ebd29c4eb9f0baff1dd0fec0b1" title="JS_ThrowTypeErrorDetached\lArrayBuffer" alt="" coords="199,5,403,47"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad52f50dfe0e0e4aeae7003b97c4c0765" title="JS_ToIndex" alt="" coords="255,71,346,98"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aee6a60a9e9f3c0d9827d5cb0e15c23b4" title="JS_ToInt64Sat" alt="" coords="451,71,560,98"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="625,46,727,73"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a8c94da482e7e46bf333be67ff97e58c1" title="JS_ToInt64SatFree" alt="" coords="608,97,744,123"/>
+</map>

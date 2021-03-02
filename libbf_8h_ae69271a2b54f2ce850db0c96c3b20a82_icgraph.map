@@ -1,0 +1,11 @@
+<map id="bfdec_set" name="bfdec_set">
+<area shape="rect" id="node2" href="$libbf_8c.html#adab81046eaf5fc5a75e1bae96b75be66" title="bfdec_add_internal" alt="" coords="139,56,285,83"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#a4fe4f91a21701a55cffbc44f1eb141b6" title="bfdec_tdivremu" alt="" coords="621,107,745,133"/>
+<area shape="rect" id="node8" href="$libbf_8h.html#a318508be097917ddd5d1ce187edea68b" title="bfdec_divrem" alt="" coords="793,107,904,133"/>
+<area shape="rect" id="node9" href="$libbf_8h.html#a1baac52525d382cc854c2e484ce2c169" title="bfdec_pow_ui" alt="" coords="157,208,267,235"/>
+<area shape="rect" id="node10" href="$libbf_8h.html#aadf1781139c916e6ccb6ea473bf5a2d1" title="bfdec_sqrt" alt="" coords="167,259,257,285"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#aa5c7e54724217d71eb29c55c98e2413f" title="__bfdec_add" alt="" coords="333,5,436,32"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#ac10038dd7f04c765ddc8fdb12e3257a2" title="__bfdec_sub" alt="" coords="333,56,436,83"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a2ab5a868db6e2d3d41c9b95e561054d3" title="bfdec_add" alt="" coords="484,5,573,32"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#ac3255e37957d4be7117b1d9bfc4fcf11" title="bfdec_sub" alt="" coords="485,56,573,83"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="bf_set_si" name="bf_set_si">
+<area shape="rect" id="node2" href="$libbf_8h.html#a50a5aa2767f2389a32daf115aaef07af" title="bf_add_si" alt="" coords="134,360,218,387"/>
+<area shape="rect" id="node19" href="$libbf_8c.html#aa4b535a5b33344704c576607ab4f0463" title="bf_atan_internal" alt="" coords="290,411,418,437"/>
+<area shape="rect" id="node22" href="$libbf_8h.html#a6fbb1ec8880c203fc01baf940a54cc62" title="bf_mul_si" alt="" coords="133,512,219,539"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a951ec20cd7fa3bf021d165b213e15ce4" title="bf_divrem" alt="" coords="310,56,398,83"/>
+<area shape="rect" id="node6" href="$libbf_8c.html#a2b19e3958f6cf3fa0cc534681a5ff259" title="bf_sincos" alt="" coords="706,81,789,108"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#ad7d8e39c51ec431bcd496bb37382ae94" title="bf_logic_op" alt="" coords="306,221,402,248"/>
+<area shape="rect" id="node11" href="$libbf_8c.html#aa94726eca10adb51bd141319fdfdb20c" title="bf_integer_to_radix_rec" alt="" coords="267,309,441,336"/>
+<area shape="rect" id="node13" href="$libbf_8c.html#a157194b3c7faaa17e39ae78cd98c4385" title="bf_exp_internal" alt="" coords="293,512,415,539"/>
+<area shape="rect" id="node17" href="$libbf_8c.html#aab7bc918fdd8dbef25c31c6881c73fdd" title="bf_log_internal" alt="" coords="295,461,413,488"/>
+<area shape="rect" id="node21" href="$libbf_8c.html#a4a0919b7e170befaf75d114d48d350cc" title="bf_asin_internal" alt="" coords="500,360,627,387"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a7244c6f44ad1f9a3b571eb8a8d7cb0d9" title="bf_rem" alt="" coords="529,5,597,32"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a7ded681bd52308690336efcfde537a54" title="bf_remquo" alt="" coords="517,56,609,83"/>
+<area shape="rect" id="node8" href="$libbf_8h.html#a37a6b31bec77638b82c2fff186f94442" title="bf_logic_or" alt="" coords="517,157,610,184"/>
+<area shape="rect" id="node9" href="$libbf_8h.html#aa1976226d140c0033bc275141dfc7725" title="bf_logic_xor" alt="" coords="513,208,614,235"/>
+<area shape="rect" id="node10" href="$libbf_8h.html#aecc5151248f11cb2331296959b8e81e4" title="bf_logic_and" alt="" coords="511,259,615,285"/>
+<area shape="rect" id="node12" href="$libbf_8c.html#a1b9b6240cdee780a8968560c8655d9f2" title="bf_integer_to_radix" alt="" coords="489,309,637,336"/>
+<area shape="rect" id="node14" href="$libbf_8h.html#a36f22f93ba4258209be035a63b80b87f" title="bf_exp" alt="" coords="530,563,597,589"/>
+<area shape="rect" id="node15" href="$libbf_8c.html#aa28c1603087e2aec25b9bb0dae387875" title="bf_pow_generic" alt="" coords="685,512,809,539"/>
+<area shape="rect" id="node16" href="$libbf_8h.html#a93fe073491f8c5f086a75e7bf8865b34" title="bf_pow" alt="" coords="857,563,927,589"/>
+<area shape="rect" id="node18" href="$libbf_8h.html#a4137b2308536cbc92addaeb3f0c79d35" title="bf_log" alt="" coords="532,461,595,488"/>
+<area shape="rect" id="node20" href="$libbf_8h.html#a0bb2c5b98e3f978b84df9849c7ec50d6" title="bf_atan" alt="" coords="528,411,599,437"/>
+<area shape="rect" id="node23" href="$libbf_8c.html#aa6e77d8d722e3fd0540ede79a63e352e" title="check_exp_underflow\l_overflow" alt="" coords="273,563,435,605"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="bswap16" name="bswap16">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5176c9251c0ffb7c858cdc74296f16fe" title="bc_byte_swap" alt="" coords="158,5,273,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a226c9e47a5047a3adcce0950aa3e3610" title="bc_put_u16" alt="" coords="167,56,263,83"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a351e921aea7f22e239884fdc941a8e52" title="js_dataview_getValue" alt="" coords="133,107,297,133"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a77e9c7ebb882b521133545bc59d15a4a" title="js_dataview_setValue" alt="" coords="134,157,297,184"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a394e92f87f41d27e7031eb3150bc35b1" title="JS_WriteFunctionBytecode" alt="" coords="345,5,536,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a0c946fdd3a6def82765db148f99b8fba" title="JS_WriteString" alt="" coords="384,107,497,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aded409755b8a76b40d57ec5fbe8d9653" title="JS_WriteFunctionTag" alt="" coords="365,56,516,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="593,56,733,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a91942742587df191fbf0f17a2ede99ef" title="JS_WriteObjectAtoms" alt="" coords="584,107,743,133"/>
+</map>

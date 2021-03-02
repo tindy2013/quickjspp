@@ -1,0 +1,31 @@
+<map id="bf_sqrtrem" name="bf_sqrtrem">
+<area shape="rect" id="node2" href="$libbf_8h.html#a17dc09166f82ffa408f54a2edc4d7855" title="bf_add" alt="" coords="155,546,222,572"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#abacc1410890af049e02ebd788364ac48" title="bf_init" alt="" coords="640,140,703,167"/>
+<area shape="rect" id="node14" href="$libbf_8h.html#ae019ee8073f4359da157d3b1e5fdba7e" title="bf_set" alt="" coords="640,748,703,775"/>
+<area shape="rect" id="node15" href="$libbf_8h.html#aa6282c789c16c8cf2fe6a8ebd671c6fc" title="bf_set_nan" alt="" coords="811,546,904,572"/>
+<area shape="rect" id="node18" href="$libbf_8h.html#a2b9d906b21e903f2f7f1c9044674ab7d" title="bf_delete" alt="" coords="279,1103,361,1130"/>
+<area shape="rect" id="node19" href="$libbf_8h.html#a3d010062b7a451656d79e48df9c0639e" title="bf_is_nan" alt="" coords="147,850,231,876"/>
+<area shape="rect" id="node20" href="$libbf_8h.html#ac290278d0c37a0e7786873f98aadba47" title="bf_mul" alt="" coords="437,419,504,446"/>
+<area shape="rect" id="node23" href="$libbf_8h.html#aa561bc5220ec0489f4d3e59789d43d26" title="bf_neg" alt="" coords="155,900,222,927"/>
+<area shape="rect" id="node24" href="$libbf_8h.html#aaf7d6961c71cf6614ec51fd78755a031" title="bf_rint" alt="" coords="288,951,352,978"/>
+<area shape="rect" id="node26" href="$libbf_8h.html#a2378f025beace5741c19bf995c2971d3" title="bf_set_ui" alt="" coords="631,39,712,66"/>
+<area shape="rect" id="node27" href="$libbf_8h.html#a1a8b9ac1fea38b97fc6be8663ce9e867" title="bf_sqrt" alt="" coords="437,875,504,902"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a3ebbc1c7473b2ad84ced2b263bf38bae" title="bf_op2" alt="" coords="437,368,504,395"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#a951a1d3ebb338129d86e00f51b47f2ee" title="__bf_add" alt="" coords="280,546,360,572"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#ad7ab5aff92f4e7e10b2a30e0e6b9226d" title="bf_move" alt="" coords="632,394,711,420"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#ab8c991bf0d1ab72d676d3c9c3d63c2a7" title="bf_free" alt="" coords="823,1027,891,1054"/>
+<area shape="rect" id="node7" href="$libbf_8h.html#a524c9e60866c08c75061626a4b5e2f29" title="bf_realloc" alt="" coords="952,1078,1039,1104"/>
+<area shape="rect" id="node9" href="$libbf_8c.html#aaebd1df91497246cd81f23918af58d33" title="bf_add_internal" alt="" coords="409,571,532,598"/>
+<area shape="rect" id="node10" href="$libbf_8h.html#a970a1725f8bc59eda655058c5ff6bc52" title="bf_min" alt="" coords="638,647,705,674"/>
+<area shape="rect" id="node11" href="$libbf_8h.html#ae822c0888d26739bb681dfef282b9150" title="bf_normalize_and_round" alt="" coords="580,444,763,471"/>
+<area shape="rect" id="node12" href="$libbf_8h.html#ab51c43b22c1a81c789ee0e3d53c0e585" title="bf_resize" alt="" coords="955,520,1036,547"/>
+<area shape="rect" id="node16" href="$libbf_8h.html#a88d3dcee173f1e4fd4e55000edb04595" title="bf_set_inf" alt="" coords="628,495,715,522"/>
+<area shape="rect" id="node17" href="$libbf_8h.html#a66631c65c00e92a5840a5085a009602d" title="bf_set_zero" alt="" coords="623,546,720,572"/>
+<area shape="rect" id="node13" href="$libbf_8c.html#a3ac3b86cc31b99a551947240e979c5d7" title="clz" alt="" coords="837,394,877,420"/>
+<area shape="rect" id="node21" href="$libbf_8c.html#aced93436f1e8ca41feb00d8070cfcbde" title="fft_mul" alt="" coords="823,343,891,370"/>
+<area shape="rect" id="node22" href="$libbf_8c.html#a76a4161d6e245f8cb27f556b6b76a29b" title="mp_mul_basecase" alt="" coords="600,242,743,268"/>
+<area shape="rect" id="node25" href="$libbf_8h.html#abd4ca8358212228a53981a32a10286b5" title="bf_round" alt="" coords="632,1103,711,1130"/>
+<area shape="rect" id="node28" href="$libbf_8c.html#a6eda6dd86092f0d16e5f3148a2464220" title="mp_shr" alt="" coords="636,900,707,927"/>
+<area shape="rect" id="node29" href="$libbf_8h.html#aa3d8931becde9bdbea0aab310312acd3" title="mp_sqrtrem" alt="" coords="621,1002,722,1028"/>
+<area shape="rect" id="node30" href="$libbf_8c.html#a46c382a2c0fdce3d6a7169762670d7b9" title="mp_scan_nz" alt="" coords="620,951,723,978"/>
+</map>

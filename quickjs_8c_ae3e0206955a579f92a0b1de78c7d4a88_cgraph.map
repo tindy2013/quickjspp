@@ -1,0 +1,11 @@
+<map id="js_object_isExtensible" name="js_object_isExtensible">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a17c92ef7fbad6a6029f6aa933d669624" title="JS_IsExtensible" alt="" coords="272,107,392,133"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a93abffa925714e249a6aa2f4ae7900f6" title="JS_NewBool" alt="" coords="283,157,381,184"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a726b00d108e0a0f4d958c36c2e426a64" title="JS_ThrowTypeErrorNotAnObject" alt="" coords="220,208,444,235"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a89d3c8659c2a6a62d3528b6b6794b24f" title="js_proxy_isExtensible" alt="" coords="492,107,655,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a9e94551ddba8762d74eda5127445dbbd" title="get_proxy_method" alt="" coords="703,5,847,32"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="895,31,1011,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="728,107,821,133"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#a4e407128a9605afb77523e49e9a627fd" title="JS_IsUndefined" alt="" coords="715,157,834,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a2bf30c9cddfe98a32535843202495069" title="JS_ToBoolFree" alt="" coords="719,208,830,235"/>
+</map>

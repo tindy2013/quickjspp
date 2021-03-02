@@ -1,0 +1,11 @@
+<map id="JS_CreateDataPropertyUint32" name="JS_CreateDataPropertyUint32">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a0c61bd5a64c743e81188bb528b78e715" title="JS_DefinePropertyValueValue" alt="" coords="267,107,477,133"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a6acbc709e59969eac6775f9b253b438f" title="JS_NewInt64" alt="" coords="321,259,423,285"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a0a8765bd4012467d9139bc24aabcb3ca" title="JS_DefinePropertyValue" alt="" coords="525,157,700,184"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="935,157,1039,184"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="561,5,664,32"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a859d5c989a2aaecef1653b3ac279e108" title="JS_ValueToAtom" alt="" coords="549,56,676,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab50618f1bf78e444caa6da0e3e2785d7" title="JS_DefineProperty" alt="" coords="748,208,887,235"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="935,233,1038,260"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="547,309,679,336"/>
+</map>

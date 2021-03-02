@@ -1,0 +1,12 @@
+<map id="qjs::js_property_traits&lt; uint32_t &gt;::get_property" name="qjs::js_property_traits&lt; uint32_t &gt;::get_property">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aeb97957655d979e9fe56c955da2b2d4b" title="JS_GetPropertyUint32" alt="" coords="249,107,412,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a90d6e607f6917d817c1e997bd2e6ed07" title="JS_GetPropertyValue" alt="" coords="460,157,615,184"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a88259aa0da61ac754402c64ccecee116" title="JS_NewUint32" alt="" coords="669,5,783,32"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="837,31,969,57"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="675,309,777,336"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="675,360,777,387"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="674,107,778,133"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a89b7c8686c7eee70b86be722ee4730ad" title="JS_GetProperty" alt="" coords="667,157,785,184"/>
+<area shape="rect" id="node9" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="852,157,955,184"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a859d5c989a2aaecef1653b3ac279e108" title="JS_ValueToAtom" alt="" coords="663,208,789,235"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="JS_FreeAtomRT" name="JS_FreeAtomRT">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3242b1f6e8d8ecc3c27ee7c2caa647a3" title="free_bytecode_atoms" alt="" coords="172,56,335,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#adc4a49d7eb1cc1ec4b3a8c37ab8cb075" title="free_function_bytecode" alt="" coords="393,5,568,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a6f921a6312ada5c7da7b485e24d37f54" title="js_free_shape0" alt="" coords="193,107,313,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ad80a65b72c3a346d8a0047858a5f0b13" title="JS_FreeRuntime" alt="" coords="192,157,315,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a9f0339d81c06451de278073572cc194e" title="JS_NewClass" alt="" coords="201,208,306,235"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1b660b405f6a69b35dd871279c780ef7" title="js_free_function_def" alt="" coords="403,80,558,107"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a3d1c7a8d6aa5a9ba8ea8ef2828db188a" title="free_gc_object" alt="" coords="633,5,750,32"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#a066e7962ce24f22d5df20968a8baa346" title="js_os_init" alt="" coords="439,144,522,171"/>
+<area shape="rect" id="node10" href="$quickjs-libc_8c.html#a08cea1a0226b7603e6969e2208d99d55" title="js_std_init" alt="" coords="437,195,525,221"/>
+<area shape="rect" id="node11" href="$structqjs_1_1js__traits_3_01std_1_1shared__ptr_3_01T_01_4_01_4.html#af3558afeef079826c58411353c8ccce0" title="Register class in QuickJS context. " alt="" coords="405,245,557,301"/>
+<area shape="rect" id="node12" href="$structqjs_1_1js__traits_3_01detail_1_1function_01_4.html#afe383c63f389edaf9f878cd30062d37f" title="qjs::js_traits\&lt; detail\l::function \&gt;::register_class" alt="" coords="383,326,579,367"/>
+<area shape="rect" id="node13" href="$classqjs_1_1Context.html#aae629cc551168d549a405db5c762b61e" title="qjs::Context::init" alt="" coords="627,333,756,360"/>
+</map>

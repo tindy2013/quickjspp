@@ -1,0 +1,11 @@
+<map id="bf_get_limb" name="bf_get_limb">
+<area shape="rect" id="node2" href="$libbf_8c.html#a157194b3c7faaa17e39ae78cd98c4385" title="bf_exp_internal" alt="" coords="152,56,275,83"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a93fe073491f8c5f086a75e7bf8865b34" title="bf_pow" alt="" coords="521,56,590,83"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a7ded681bd52308690336efcfde537a54" title="bf_remquo" alt="" coords="167,157,259,184"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a36f22f93ba4258209be035a63b80b87f" title="bf_exp" alt="" coords="351,5,418,32"/>
+<area shape="rect" id="node4" href="$libbf_8c.html#aa28c1603087e2aec25b9bb0dae387875" title="bf_pow_generic" alt="" coords="323,56,447,83"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#a2b19e3958f6cf3fa0cc534681a5ff259" title="bf_sincos" alt="" coords="343,157,426,184"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#a525aef36dca12b641b625b99bb853dc4" title="bf_cos_internal" alt="" coords="495,107,616,133"/>
+<area shape="rect" id="node9" href="$libbf_8c.html#a988e995c3b0dbcc6a26b8eea2891b2e2" title="bf_sin_internal" alt="" coords="496,157,615,184"/>
+<area shape="rect" id="node10" href="$libbf_8c.html#a524a1cfe269d6d10ba833368695f8699" title="bf_tan_internal" alt="" coords="495,208,615,235"/>
+</map>

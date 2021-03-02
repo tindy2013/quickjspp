@@ -1,0 +1,11 @@
+<map id="get_var_ref" name="get_var_ref">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a1c459034f2971c4abc3a8d6d4693ef5f" title="js_build_mapped_arguments" alt="" coords="149,31,359,57"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="597,107,713,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#abc3c566f6ced6ad29f99e7db6ab3b75b" title="js_closure2" alt="" coords="207,132,301,159"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="781,5,932,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="823,56,890,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="761,107,952,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="810,157,903,184"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#aab4130a4c3108a127681be821818528a" title="js_closure" alt="" coords="435,132,521,159"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a36322a209de4ef17f939e6d128578d7f" title="js_op_define_class" alt="" coords="407,183,549,209"/>
+</map>

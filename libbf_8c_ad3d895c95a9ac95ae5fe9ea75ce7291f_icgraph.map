@@ -1,0 +1,8 @@
+<map id="scan_bit_nz" name="scan_bit_nz">
+<area shape="rect" id="node2" href="$libbf_8c.html#a3d7fdccc1995b3a88b68c5e7a57dce16" title="bf_get_rnd_add" alt="" coords="152,81,275,108"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a5a13527071b5331585beae41a51ed3c2" title="__bf_round" alt="" coords="323,81,416,108"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#ae822c0888d26739bb681dfef282b9150" title="bf_normalize_and_round" alt="" coords="464,5,647,32"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#abd4ca8358212228a53981a32a10286b5" title="bf_round" alt="" coords="516,56,595,83"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#ae1d5fe9356228cc3a566786637f26680" title="bf_mul_2exp" alt="" coords="502,107,609,133"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#a39e7dd6286a6f0541a12366ebd93dbfd" title="bf_ziv_rounding" alt="" coords="493,157,618,184"/>
+</map>

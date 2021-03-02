@@ -1,0 +1,10 @@
+<map id="put_u16" name="put_u16">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5176c9251c0ffb7c858cdc74296f16fe" title="bc_byte_swap" alt="" coords="167,5,282,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a77e9c7ebb882b521133545bc59d15a4a" title="js_dataview_setValue" alt="" coords="143,56,306,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a7c152c8f95a5338351e7f99447d6aea4" title="optimize_scope_make_ref" alt="" coords="128,107,321,133"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ad0d311d4ce409584384f835f1a3e185a" title="resolve_labels" alt="" coords="619,157,735,184"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a394e92f87f41d27e7031eb3150bc35b1" title="JS_WriteFunctionBytecode" alt="" coords="369,5,560,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a30aac2d7e62ad60386ab6b522d7db744" title="resolve_scope_var" alt="" coords="393,107,536,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a7a4eedc4cc552a71e165f4d28ad43985" title="resolve_variables" alt="" coords="608,107,745,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="793,132,935,159"/>
+</map>

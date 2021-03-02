@@ -1,0 +1,7 @@
+<map id="bc_put_atom" name="bc_put_atom">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3da261d6aeb1d35f3fb47a0076752a57" title="JS_WriteObjectTag" alt="" coords="160,56,299,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="347,56,487,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aba35628e2e963dca8fa201e6708046d6" title="JS_WriteArray" alt="" coords="553,5,664,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab24f0a3286c69433ab7e48dcc39c36cb" title="JS_WriteTypedArray" alt="" coords="535,56,683,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a431ceb41084feaa6af4e466b8b772ab1" title="JS_WriteObject2" alt="" coords="546,107,671,133"/>
+</map>

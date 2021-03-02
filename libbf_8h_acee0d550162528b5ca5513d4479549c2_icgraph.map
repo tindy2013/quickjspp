@@ -1,0 +1,11 @@
+<map id="bf_mul_ui" name="bf_mul_ui">
+<area shape="rect" id="node2" href="$libbf_8c.html#a11d2dea6becda91c288fd883eefc8e5c" title="bf_const_pi_internal" alt="" coords="351,31,504,58"/>
+<area shape="rect" id="node6" href="$libbf_8c.html#a2b19e3958f6cf3fa0cc534681a5ff259" title="bf_sincos" alt="" coords="891,82,973,109"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#aa6e77d8d722e3fd0540ede79a63e352e" title="check_exp_underflow\l_overflow" alt="" coords="140,159,303,200"/>
+<area shape="rect" id="node10" href="$libbf_8c.html#a81e50b3d7e7a931a93d6ea7e1d630631" title="chud_bs" alt="" coords="184,57,259,83"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a25b9653cbfca557499e786f8d2a7eb2e" title="bf_const_pi_signed" alt="" coords="552,31,699,58"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a0bb2c5b98e3f978b84df9849c7ec50d6" title="bf_atan" alt="" coords="759,6,830,33"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#aff86bca731f3c8ffe45f0f1129175961" title="bf_const_pi" alt="" coords="747,57,843,83"/>
+<area shape="rect" id="node8" href="$libbf_8h.html#a36f22f93ba4258209be035a63b80b87f" title="bf_exp" alt="" coords="394,162,461,189"/>
+<area shape="rect" id="node9" href="$libbf_8h.html#a93fe073491f8c5f086a75e7bf8865b34" title="bf_pow" alt="" coords="393,213,462,239"/>
+</map>

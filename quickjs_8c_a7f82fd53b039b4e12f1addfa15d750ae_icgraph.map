@@ -1,0 +1,8 @@
+<map id="JS_GetPrototypeFree" name="JS_GetPrototypeFree">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a26abea9136a3d8e9a861aefb51626b4e" title="js_object___lookupGetter__" alt="" coords="208,5,408,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a04be55d1144f71bce472514bd31f0796" title="js_object_isPrototypeOf" alt="" coords="220,56,396,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa0b5c1a59ff4832154e2a98d7c63a4b2" title="JS_OrdinaryIsInstanceOf" alt="" coords="219,107,397,133"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#af4cd70eee97bbcab2d0f2e46cf53ccd7" title="JS_IsInstanceOf" alt="" coords="484,107,607,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aba5795cd66ffd3fb40bd070e0f4feeef" title="js_function_hasInstance" alt="" coords="456,157,635,184"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#afa66b10f653bc03ae3a338509e26e906" title="js_operator_instanceof" alt="" coords="683,107,853,133"/>
+</map>

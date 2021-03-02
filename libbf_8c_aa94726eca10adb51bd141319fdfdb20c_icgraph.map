@@ -1,0 +1,5 @@
+<map id="bf_integer_to_radix_rec" name="bf_integer_to_radix_rec">
+<area shape="rect" id="node2" href="$libbf_8c.html#a1b9b6240cdee780a8968560c8655d9f2" title="bf_integer_to_radix" alt="" coords="228,29,376,56"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#ae598665f1f567f67350a972a972ef86a" title="output_digits" alt="" coords="424,29,531,56"/>
+<area shape="rect" id="node4" href="$libbf_8c.html#ad79aefc435021a0743c89cb4aec7fa56" title="bf_ftoa_internal" alt="" coords="579,29,704,56"/>
+</map>

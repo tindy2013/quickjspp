@@ -1,0 +1,9 @@
+<map id="JS_WriteFunctionTag" name="JS_WriteFunctionTag">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="204,107,344,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aba35628e2e963dca8fa201e6708046d6" title="JS_WriteArray" alt="" coords="411,5,521,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a431ceb41084feaa6af4e466b8b772ab1" title="JS_WriteObject2" alt="" coords="403,56,529,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a3da261d6aeb1d35f3fb47a0076752a57" title="JS_WriteObjectTag" alt="" coords="397,107,535,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ab24f0a3286c69433ab7e48dcc39c36cb" title="JS_WriteTypedArray" alt="" coords="392,157,540,184"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#ab995f33d3c307ae55a13a18b88023d15" title="js_worker_postMessage" alt="" coords="588,31,765,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a8c807d481615ed55818787ae89621a37" title="JS_WriteObject" alt="" coords="618,81,735,108"/>
+</map>

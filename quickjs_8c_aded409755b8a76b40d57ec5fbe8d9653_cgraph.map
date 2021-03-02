@@ -1,0 +1,10 @@
+<map id="JS_WriteFunctionTag" name="JS_WriteFunctionTag">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5c417bcd8453a3ab8f4ced37e8f86bf2" title="bc_put_leb128" alt="" coords="204,5,320,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a226c9e47a5047a3adcce0950aa3e3610" title="bc_put_u16" alt="" coords="214,107,310,133"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a1691ba44aef8ba12408b5a824d07600a" title="bc_put_u8" alt="" coords="389,56,477,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#af9b9e3f8ca5a82349d1925fca4683c38" title="dbuf_put_leb128" alt="" coords="368,5,499,32"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="559,56,645,83"/>
+<area shape="rect" id="node5" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="705,107,784,133"/>
+<area shape="rect" id="node7" href="$cutils_8h.html#a86b872249d4bcf1f6b08c4af388f1d3c" title="bswap16" alt="" coords="393,107,473,133"/>
+<area shape="rect" id="node8" href="$cutils_8h.html#a31a6b9f8517a73d45e976d8a026e964e" title="dbuf_put_u16" alt="" coords="547,132,657,159"/>
+</map>

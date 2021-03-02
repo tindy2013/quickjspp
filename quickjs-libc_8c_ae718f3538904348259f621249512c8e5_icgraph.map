@@ -1,0 +1,6 @@
+<map id="is_main_thread" name="is_main_thread">
+<area shape="rect" id="node2" href="$quickjs-libc_8c.html#a87465e0686e72ba005afdf9f31a1cbf7" title="js_os_signal" alt="" coords="184,5,285,32"/>
+<area shape="rect" id="node3" href="$quickjs-libc_8c.html#aff1e6131e8bf8b7eb25307623ad669e7" title="js_worker_ctor" alt="" coords="176,56,293,83"/>
+<area shape="rect" id="node4" href="$quickjs-libc_8c.html#a066e7962ce24f22d5df20968a8baa346" title="js_os_init" alt="" coords="341,56,424,83"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#adcca2b4a661355e6ff87a0def2339894" title="js_init_module_os" alt="" coords="472,56,611,83"/>
+</map>

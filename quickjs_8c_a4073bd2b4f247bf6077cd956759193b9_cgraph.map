@@ -1,0 +1,7 @@
+<map id="JS_ToInt32" name="JS_ToInt32">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="147,5,250,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a643088ab23784b7f3c6ff94c37228256" title="JS_ToInt32Free" alt="" coords="141,56,256,83"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="696,56,812,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ae738291483438efefca5c9fa4d269504" title="JS_ToNumberFree" alt="" coords="304,81,439,108"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a0315f23b9804563f376c47edef2967fd" title="JS_ToNumberHintFree" alt="" coords="487,81,648,108"/>
+</map>

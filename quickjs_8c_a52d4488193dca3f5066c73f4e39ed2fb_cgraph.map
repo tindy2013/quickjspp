@@ -1,0 +1,6 @@
+<map id="js_Date_now" name="js_Date_now">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ab4d310ae0cce7aff63620bced920cf0f" title="date_now" alt="" coords="167,5,253,32"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#a6acbc709e59969eac6775f9b253b438f" title="JS_NewInt64" alt="" coords="159,56,261,83"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="324,31,427,57"/>
+<area shape="rect" id="node5" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="309,81,441,108"/>
+</map>

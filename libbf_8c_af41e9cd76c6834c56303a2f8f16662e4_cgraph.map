@@ -1,0 +1,6 @@
+<map id="mul_trig" name="mul_trig">
+<area shape="rect" id="node2" href="$libbf_8c.html#a363aaee4b8a887e8b802c4ab5285c53f" title="init_mul_mod_fast2" alt="" coords="129,5,280,32"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a0541c262e09546e50383c716753cf3da" title="mul_mod_fast" alt="" coords="147,56,262,83"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#ae0144c1b3a669be1c22c067f93896b33" title="mul_mod_fast2" alt="" coords="143,107,266,133"/>
+<area shape="rect" id="node4" href="$libbf_8c.html#af6cc644759e1781341707d893baffb33" title="mod_fast" alt="" coords="328,56,411,83"/>
+</map>

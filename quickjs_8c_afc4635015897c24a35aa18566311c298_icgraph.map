@@ -1,0 +1,7 @@
+<map id="js_realloc" name="js_realloc">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa80740ff93b724ea7e0c280826f4a25a" title="resize_properties" alt="" coords="137,81,272,108"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a3cadcaa2bd1e3f9359f1c006f396cfa0" title="add_shape_property" alt="" coords="320,56,475,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ac93c982cb636a5430b191d104083af3e" title="convert_fast_array\l_to_array" alt="" coords="773,49,917,90"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a74547db03bf739a52c83a326b32db997" title="add_property" alt="" coords="570,5,678,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7efb53c2f76fd5cc0e584449437ec09c" title="JS_AddIntrinsicBasicObjects" alt="" coords="523,56,725,83"/>
+</map>

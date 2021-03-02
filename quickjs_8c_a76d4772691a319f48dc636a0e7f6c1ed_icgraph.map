@@ -1,0 +1,27 @@
+<map id="JS_NewCFunction2" name="JS_NewCFunction2">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="729,42,900,68"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a3afdbdd7b58ef7e1dcc178c362071b3d" title="JS_AddIntrinsicProxy" alt="" coords="737,92,892,119"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a6ee4e2edda1f223a5a40e2c48b41d618" title="JS_InstantiateFunctionListItem" alt="" coords="199,472,417,499"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#a066e7962ce24f22d5df20968a8baa346" title="js_os_init" alt="" coords="1034,346,1117,372"/>
+<area shape="rect" id="node20" href="$quickjs_8h.html#aa68c88001ca8a8662d8f9f321a72f421" title="JS_NewCFunction" alt="" coords="501,776,634,803"/>
+<area shape="rect" id="node24" href="$quickjs_8h.html#ae75598e7954a062f9890bc2ecf435fa1" title="JS_NewCFunctionMagic" alt="" coords="482,599,653,626"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#a293feb2179c9a722b2bd410bc2c5c173" title="JS_NewGlobalCConstructor" alt="" coords="469,675,665,702"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#abc33a664e231090ec89f9d9975e21229" title="JS_NewGlobalCConstructorOnly" alt="" coords="195,788,421,815"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="1235,415,1356,442"/>
+<area shape="rect" id="node4" href="$classqjs_1_1Context.html#a4392a23648acfc4bf6b445336efb5007" title="qjs::Context::Context" alt="" coords="1404,415,1563,442"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ac00854b7f1f0f8567af964a2f8f2adb0" title="JS_SetPropertyFunctionList" alt="" coords="470,447,665,474"/>
+<area shape="rect" id="node8" href="$quickjs-libc_8c.html#a08cea1a0226b7603e6969e2208d99d55" title="js_std_init" alt="" coords="1031,295,1119,322"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a04f1ec3f8d1f5c012280eb23e64a7b58" title="JS_SetModuleExportList" alt="" coords="727,346,902,372"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#abd9525850b564b2c2d2cb6ddfd89b1c6" title="JS_AddIntrinsicStringNormalize" alt="" coords="964,194,1187,220"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#aafc8241682ce24b6d72e0f237ee85a51" title="JS_AddIntrinsicRegExp" alt="" coords="731,700,898,727"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ac43d15fc0b5d1b90ae3c92779ab12725" title="JS_AddIntrinsicJSON" alt="" coords="1000,244,1151,271"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a4497f8c7cf2ec38da989910ae8b1f042" title="JS_AddIntrinsicMapSet" alt="" coords="731,599,898,626"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a8ecbf5799518b7bfc3fefd47c7a0dd4e" title="JS_AddIntrinsicDate" alt="" coords="740,650,889,676"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a7efb53c2f76fd5cc0e584449437ec09c" title="JS_AddIntrinsicBasicObjects" alt="" coords="713,548,916,575"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="715,751,914,778"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#ae022a327d9fa7079ad2f1d179ba5bdf0" title="JS_AddIntrinsicAtomics" alt="" coords="729,447,900,474"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#a177d09828596bfe6df4bd90b2e93989d" title="JS_AddIntrinsicTypedArrays" alt="" coords="976,516,1175,543"/>
+<area shape="rect" id="node21" href="$quickjs-libc_8c.html#ad04466feec6822a3b838baf229f6dfa0" title="js_std_add_helpers" alt="" coords="741,903,888,930"/>
+<area shape="rect" id="node22" href="$qjs_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1048,928,1103,955"/>
+<area shape="rect" id="node23" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="1024,878,1127,904"/>
+</map>

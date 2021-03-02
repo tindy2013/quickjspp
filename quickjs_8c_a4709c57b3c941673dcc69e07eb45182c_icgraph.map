@@ -1,0 +1,7 @@
+<map id="JS_NewSymbol" name="JS_NewSymbol">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a978258a269332de3a28eb005d4a7e402" title="JS_NewSymbolFromAtom" alt="" coords="172,31,359,57"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a61afe2267db511c48066e98e0f1768b9" title="js_symbol_constructor" alt="" coords="181,81,349,108"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad73ff651420d0ac8331be13d2575ee31" title="js_symbol_for" alt="" coords="209,132,322,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a6a21784a40b8684f2e779bd460dd13b2" title="JS_AddBrand" alt="" coords="407,5,511,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="559,31,675,57"/>
+</map>

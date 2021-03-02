@@ -1,0 +1,6 @@
+<map id="init_shape_hash" name="init_shape_hash">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a27966451027feb455b5da12c1578771c" title="JS_NewRuntime2" alt="" coords="180,31,312,57"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#afc1ca27a266094085ebb43e2eea0dda2" title="JS_NewRuntime" alt="" coords="360,31,484,57"/>
+<area shape="rect" id="node4" href="$classqjs_1_1Runtime.html#a0860a1339ff567f9f603c7bed4d670f9" title="qjs::Runtime::Runtime" alt="" coords="532,5,697,32"/>
+<area shape="rect" id="node5" href="$quickjs-libc_8c.html#a1fbb3adc15e7b967479fc1940e99b67a" title="worker_func" alt="" coords="563,56,666,83"/>
+</map>

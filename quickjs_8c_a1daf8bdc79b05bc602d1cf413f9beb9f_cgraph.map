@@ -1,0 +1,7 @@
+<map id="value_buffer_free" name="value_buffer_free">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="367,5,434,32"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="189,56,293,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="691,31,773,57"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="341,56,460,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="508,56,643,83"/>
+</map>

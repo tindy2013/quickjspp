@@ -1,0 +1,10 @@
+<map id="js_new_function_def" name="js_new_function_def">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a46a8a7e155cfd0af984f6725f060f0d6" title="__JS_EvalInternal" alt="" coords="229,8,363,35"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a63058dc37265af331214fa1eec1aebf8" title="js_parse_function_class\l_fields_init" alt="" coords="208,63,384,105"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#acc9eb677cab8dfcf45f59381f8a19601" title="js_parse_function_decl2" alt="" coords="432,155,611,181"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#acbcccb7ec58fd4a024ea1d01e5d04561" title="JS_AddIntrinsicEval" alt="" coords="448,7,595,33"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="659,5,780,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a38e4107378b0d9abd638e4fe13541678" title="emit_class_init_start" alt="" coords="443,71,600,97"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ac9030f2b94f2e8292ad37ab68fc99bbd" title="add_brand" alt="" coords="674,56,765,83"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a00eb789430243c24dab4a63ad6a79653" title="js_parse_class" alt="" coords="828,107,944,133"/>
+</map>

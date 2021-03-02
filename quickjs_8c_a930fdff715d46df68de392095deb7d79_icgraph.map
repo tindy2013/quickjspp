@@ -1,0 +1,24 @@
+<map id="get_leb128" name="get_leb128">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a79e9250c5e2b097c9655cbc8a75ba923" title="bc_get_leb128" alt="" coords="148,325,264,352"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#af139f102b1c52111bc98af4ba935bf18" title="find_line_num" alt="" coords="329,655,442,681"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a408b3a08f717d04623662251b8953e37" title="get_sleb128" alt="" coords="155,604,257,631"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa592b98c1f5b7d41c8384c03b642b7ad" title="bc_get_leb128_int" alt="" coords="315,148,455,175"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a4b8ef2bb3b35e4a5f6ed8bd837a50e7c" title="JS_ReadObjectRec" alt="" coords="759,249,897,276"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ad0e3230c3896c2048283a9302f184fb4" title="JS_ReadObjectTag" alt="" coords="962,85,1099,112"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a18da561cb430d36d47200cd3ab394984" title="JS_ReadArray" alt="" coords="977,249,1085,276"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a00910faacc776e3c2c225aa117aab450" title="JS_ReadTypedArray" alt="" coords="957,300,1104,327"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ab3a28d4aac1f193d1d135b37b407a07b" title="bc_get_leb128_u16" alt="" coords="312,199,459,225"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a267b1caf06e54dfdf809cd51602400b4" title="bc_get_atom" alt="" coords="332,97,439,124"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a73a002c998fe7508eae9aa069fac802b" title="JS_ReadString" alt="" coords="330,300,441,327"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ad54b242d774ba44b2ac39fe8161aaf9c" title="JS_ReadObjectAtoms" alt="" coords="524,351,681,377"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a1cd7ba0345848b691e0f644694fdb55d" title="JS_ReadArrayBuffer" alt="" coords="529,452,676,479"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a808ad95bb98b44a5a4fd6ac9af1b6d53" title="JS_ReadSharedArrayBuffer" alt="" coords="507,249,699,276"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a367627778ac537f4bb1f0fd07a2dee1b" title="JS_ReadFunctionTag" alt="" coords="528,199,677,225"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a21c7b14be807f7ce7f71c19e2e80380c" title="JS_ReadModule" alt="" coords="971,173,1091,200"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a61c8dfb5e807af1b6ff7d8ca61576dda" title="build_backtrace" alt="" coords="540,703,665,729"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#aeafb37b03b5560171754f8c4505b0f6b" title="JS_ThrowError2" alt="" coords="768,804,888,831"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="770,628,886,655"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a840642c87c5a82d4cc68333376a3b6de" title="js_parse_postfix_expr" alt="" coords="747,703,909,729"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#ad25358fc5ae69ab218abde24d52b7767" title="js_error_constructor" alt="" coords="753,753,903,780"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#acd5d73f58a821266896a76426d7c110e" title="bc_get_sleb128" alt="" coords="541,604,664,631"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="JS_NewAtomLen" name="JS_NewAtomLen">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aadfd9c31a6f69160c12e99b8d5eb5b3c" title="js_atom_concat_str" alt="" coords="181,67,329,94"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#aa2ef5af1544a3012f91a80c98c326b8f" title="JS_NewAtom" alt="" coords="203,505,308,531"/>
+<area shape="rect" id="node26" href="$quickjs-libc_8c.html#a744c97f53406d93e57acb57e3d498227" title="js_std_getenviron" alt="" coords="187,382,324,409"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#adab89942b11c3b3cbf3ecb9e763b0ab6" title="json_parse_ident" alt="" coords="189,733,321,759"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#ad91865d0889d1420e3e70d5d497a9bdb" title="parse_ident" alt="" coords="206,189,305,215"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa38698096df1fd806b60ab8b209fa4a8" title="js_atom_concat_num" alt="" coords="393,67,553,94"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a6bb36fa120270db7f4e19891b8a0bfe1" title="get_private_setter_name" alt="" coords="381,17,566,43"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a00eb789430243c24dab4a63ad6a79653" title="js_parse_class" alt="" coords="661,71,777,98"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a7d2ad72913c8768cc7bceeb2693d53c4" title="resolve_scope_private\l_field" alt="" coords="635,5,803,47"/>
+<area shape="rect" id="node8" href="$classqjs_1_1Value.html#ac6bbb5f2ab1ed265b2b508325807e2fb" title="qjs::Value::add_getter\l_setter" alt="" coords="392,337,555,379"/>
+<area shape="rect" id="node9" href="$classqjs_1_1Value.html#a7816587475ecf667433f9ea681df925b" title="qjs::Value::add_getter" alt="" coords="392,403,555,430"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a27c3a725d4014a35b5bedcdf6e70dec7" title="JS_NewAtomString" alt="" coords="402,505,545,531"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a21cfe4c4fc9372dc0b95b37667cff0c9" title="JS_NewCFunction3" alt="" coords="403,657,544,683"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a04f589361a4fbc30d997402e92a50de2" title="JS_GetPropertyStr" alt="" coords="405,555,542,582"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a62617fe11025d2e5a545db069fc28e64" title="JS_SetPropertyStr" alt="" coords="406,606,541,633"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a841f4cb887e4d9e03e94a0697255e578" title="JS_DefinePropertyValueStr" alt="" coords="377,859,569,886"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#ac29cc4ec49efa0f0308e494316ce5139" title="JS_NewCModule" alt="" coords="410,707,537,734"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a369af749a1fb181216fe8a8b55f841b0" title="JS_AddModuleExport" alt="" coords="396,758,551,785"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#acc3990661d2851b858601061a62cc7d6" title="JS_SetModuleExport" alt="" coords="398,809,549,835"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a90dd988b99a5bc7b2a4aaffd2de405a9" title="js_host_resolve_imported\l_module" alt="" coords="379,169,568,211"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a8020fd59ed57f7f299216ec1ebfcda01" title="js_new_function_def" alt="" coords="396,454,551,481"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a46a8a7e155cfd0af984f6725f060f0d6" title="__JS_EvalInternal" alt="" coords="652,429,785,455"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#ae8e62d181b34d2e7bdda0b099c0880f5" title="find_atom" alt="" coords="430,286,517,313"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a7efb53c2f76fd5cc0e584449437ec09c" title="JS_AddIntrinsicBasicObjects" alt="" coords="617,530,820,557"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a76d4772691a319f48dc636a0e7f6c1ed" title="JS_NewCFunction2" alt="" coords="648,682,789,709"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="868,657,1039,683"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="619,783,818,810"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#a7fbd31397bde22dfa2b876b945f9afb4" title="json_next_token" alt="" coords="409,910,538,937"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#a75a3798e2045f6e403c1ef467126d1fb" title="next_token" alt="" coords="426,118,521,145"/>
+</map>

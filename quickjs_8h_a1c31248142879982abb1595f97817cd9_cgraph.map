@@ -1,0 +1,6 @@
+<map id="js_realloc2" name="js_realloc2">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a9a3248be6328b083907b3655ec93777b" title="js_malloc_usable_size_rt" alt="" coords="145,5,329,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aa548c4ad5eacef7d9508100cfe6f6871" title="js_realloc_rt" alt="" coords="187,56,288,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a344d6c0e45d9bf3861fd9269724045a2" title="JS_ThrowOutOfMemory" alt="" coords="151,107,323,133"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="377,107,484,133"/>
+</map>

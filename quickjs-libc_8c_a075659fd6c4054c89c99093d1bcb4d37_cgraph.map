@@ -1,0 +1,14 @@
+<map id="js_std_file_read_write" name="js_std_file_read_write">
+<area shape="rect" id="node2" href="$quickjs_8c.html#ab9dd8240188c470b7c9733ff1ac12726" title="JS_GetArrayBuffer" alt="" coords="216,71,355,98"/>
+<area shape="rect" id="node6" href="$quickjs_8h.html#a6acbc709e59969eac6775f9b253b438f" title="JS_NewInt64" alt="" coords="234,130,337,157"/>
+<area shape="rect" id="node9" href="$quickjs-libc_8c.html#ae0b015235e2737bee13533c992f0b71b" title="js_std_file_get" alt="" coords="228,181,343,207"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ad52f50dfe0e0e4aeae7003b97c4c0765" title="JS_ToIndex" alt="" coords="240,231,331,258"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a97c02025a1b40d1d8f9612874b071a74" title="js_get_array_buffer" alt="" coords="431,13,578,39"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a033dd3ebd29c4eb9f0baff1dd0fec0b1" title="JS_ThrowTypeErrorDetached\lArrayBuffer" alt="" coords="403,64,607,105"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ab0f713d7a2440dbb2673810323a9a78d" title="JS_ThrowTypeErrorInvalid\lClass" alt="" coords="655,5,841,47"/>
+<area shape="rect" id="node7" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="453,130,556,157"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a9bf98b18de88b4199910a43e933eb97d" title="__JS_NewFloat64" alt="" coords="439,181,571,207"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#aee6a60a9e9f3c0d9827d5cb0e15c23b4" title="JS_ToInt64Sat" alt="" coords="450,231,559,258"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a8c94da482e7e46bf333be67ff97e58c1" title="JS_ToInt64SatFree" alt="" coords="680,206,816,233"/>
+<area shape="rect" id="node13" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="697,257,799,283"/>
+</map>

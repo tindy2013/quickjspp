@@ -1,0 +1,7 @@
+<map id="bswap64" name="bswap64">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a62769be0f680a8dc54843456a730d84a" title="bc_put_u64" alt="" coords="167,31,263,57"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a351e921aea7f22e239884fdc941a8e52" title="js_dataview_getValue" alt="" coords="133,81,297,108"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a77e9c7ebb882b521133545bc59d15a4a" title="js_dataview_setValue" alt="" coords="134,132,297,159"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a7d118830f69bffb6590c82bd3c077ac5" title="JS_WriteSharedArrayBuffer" alt="" coords="345,5,540,32"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa9342f7444c1c9f8743d43aa4d7f89e3" title="JS_WriteObjectRec" alt="" coords="588,31,728,57"/>
+</map>

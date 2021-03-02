@@ -1,0 +1,16 @@
+<map id="__JS_AtomToValue" name="__JS_AtomToValue">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a288254c06a39c9fca740a7abdad2834e" title="__JS_AtomIsTaggedInt" alt="" coords="193,56,357,83"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a89f38938cee8077ce1fbba07946ed185" title="__JS_AtomToUInt32" alt="" coords="202,107,349,133"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="224,157,327,184"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a0ee6a3654a6016393fac5e1c108f403a" title="JS_NewString" alt="" coords="221,208,329,235"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ac34cc554aab1e98c45a7f845fff64385" title="JS_NewStringLen" alt="" coords="405,208,536,235"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="608,5,715,32"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#aa923510185fe24e3083baf7405b09f51" title="js_new_string8" alt="" coords="602,56,721,83"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a9c11961b0adafedd064b294612d0c2f3" title="string_buffer_init" alt="" coords="595,107,727,133"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a0b130652cf11eb0eb9f7e3ee6c5d7c6a" title="string_buffer_write8" alt="" coords="585,157,737,184"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a874fcee73f61cc997ec1d10cc6711554" title="string_buffer_putc8" alt="" coords="588,208,735,235"/>
+<area shape="rect" id="node12" href="$cutils_8h.html#a69529af6d6911dd0ead90eef221b2e10" title="unicode_from_utf8" alt="" coords="589,259,733,285"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a9b8fb6b5ce638616691f7bf7881fa57d" title="string_buffer_putc16" alt="" coords="584,309,739,336"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#accfc3d1dcaa88c88402cb245ccaf4fdb" title="string_buffer_end" alt="" coords="594,360,729,387"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a266b4993a59d9e34537386e62b9f3d4f" title="string_buffer_free" alt="" coords="593,411,730,437"/>
+</map>

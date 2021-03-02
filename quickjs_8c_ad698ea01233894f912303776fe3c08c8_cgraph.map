@@ -1,0 +1,7 @@
+<map id="JS_ToInt32Sat" name="JS_ToInt32Sat">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="179,5,282,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a419bec82cb80e98e08626a9a5212ec4c" title="JS_ToInt32SatFree" alt="" coords="163,56,299,83"/>
+<area shape="rect" id="node4" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="739,56,855,83"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ae738291483438efefca5c9fa4d269504" title="JS_ToNumberFree" alt="" coords="347,81,481,108"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a0315f23b9804563f376c47edef2967fd" title="JS_ToNumberHintFree" alt="" coords="529,81,691,108"/>
+</map>

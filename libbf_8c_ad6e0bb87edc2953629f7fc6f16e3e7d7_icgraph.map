@@ -1,0 +1,10 @@
+<map id="mp_sqrtrem_rec" name="mp_sqrtrem_rec">
+<area shape="rect" id="node2" href="$libbf_8h.html#aa3d8931becde9bdbea0aab310312acd3" title="mp_sqrtrem" alt="" coords="181,132,283,159"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a1a8b9ac1fea38b97fc6be8663ce9e867" title="bf_sqrt" alt="" coords="331,132,397,159"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#ae080fd42a2c7fc561d7084762204357e" title="bf_sqrtrem" alt="" coords="475,5,569,32"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#a11d2dea6becda91c288fd883eefc8e5c" title="bf_const_pi_internal" alt="" coords="445,56,599,83"/>
+<area shape="rect" id="node6" href="$libbf_8c.html#aab7bc918fdd8dbef25c31c6881c73fdd" title="bf_log_internal" alt="" coords="463,107,581,133"/>
+<area shape="rect" id="node7" href="$libbf_8c.html#a15b40c4ae7e9b401fd0c6dc398eacef7" title="bf_sqrt_sin" alt="" coords="475,157,569,184"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#aa4b535a5b33344704c576607ab4f0463" title="bf_atan_internal" alt="" coords="458,208,586,235"/>
+<area shape="rect" id="node9" href="$libbf_8c.html#a4a0919b7e170befaf75d114d48d350cc" title="bf_asin_internal" alt="" coords="647,233,773,260"/>
+</map>

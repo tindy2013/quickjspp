@@ -1,0 +1,11 @@
+<map id="string_buffer_puts8" name="string_buffer_puts8">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a43064473b2e303ee40f4c1c7a87e85da" title="js_function_constructor" alt="" coords="200,43,373,69"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a82cb999c219dbe6148c7df47ad6bb262" title="js_string_CreateHTML" alt="" coords="205,93,368,120"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ae5057ca2d025c62cc64ba12541f7925b" title="JS_ToQuotedString" alt="" coords="217,144,357,171"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a2e66fcf1bc1d19f346317f10ee590621" title="JS_AddIntrinsicPromise" alt="" coords="435,5,606,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="421,56,620,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ad8aedb643b8753b7a15f6cb2df61945e" title="JS_NewContext" alt="" coords="668,31,789,57"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#ac35792540c2fe73eb3ca6c6a69593e26" title="js_string___quote" alt="" coords="453,119,588,145"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#ac5732685af4e38c0c0122b2ab25908e1" title="JS_ToQuotedStringFree" alt="" coords="437,169,604,196"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a60d84dd116a9d7d912d08f298a4734dd" title="js_json_to_str" alt="" coords="673,169,784,196"/>
+</map>

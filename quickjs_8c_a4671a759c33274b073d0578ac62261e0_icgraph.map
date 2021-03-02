@@ -1,0 +1,9 @@
+<map id="get_closure_var2" name="get_closure_var2">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5067e8cf3633f10ec12c2f3ee9134c85" title="get_closure_var" alt="" coords="187,60,312,87"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a30aac2d7e62ad60386ab6b522d7db744" title="resolve_scope_var" alt="" coords="373,5,515,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ac063ff57eb8322aa00135892aeeef233" title="resolve_scope_private\l_field1" alt="" coords="360,57,528,98"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a3d84c0bab25b37dbac0b6f3aa7b93e59" title="add_eval_variables" alt="" coords="586,123,734,149"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a7a4eedc4cc552a71e165f4d28ad43985" title="resolve_variables" alt="" coords="792,64,929,91"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a97fcc747d8b1c3644174745d2e2739be" title="js_create_function" alt="" coords="977,93,1119,120"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a7d2ad72913c8768cc7bceeb2693d53c4" title="resolve_scope_private\l_field" alt="" coords="576,57,744,98"/>
+</map>

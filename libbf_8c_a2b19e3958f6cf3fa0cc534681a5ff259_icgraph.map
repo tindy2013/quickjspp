@@ -1,0 +1,8 @@
+<map id="bf_sincos" name="bf_sincos">
+<area shape="rect" id="node2" href="$libbf_8c.html#a525aef36dca12b641b625b99bb853dc4" title="bf_cos_internal" alt="" coords="136,5,257,32"/>
+<area shape="rect" id="node4" href="$libbf_8c.html#a988e995c3b0dbcc6a26b8eea2891b2e2" title="bf_sin_internal" alt="" coords="137,56,256,83"/>
+<area shape="rect" id="node6" href="$libbf_8c.html#a524a1cfe269d6d10ba833368695f8699" title="bf_tan_internal" alt="" coords="137,107,257,133"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a69ea68a6b21d496bd89afeaa9c067ebe" title="bf_cos" alt="" coords="305,5,369,32"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a9a518cd74072443dc50e179d2a9ea610" title="bf_sin" alt="" coords="307,56,368,83"/>
+<area shape="rect" id="node7" href="$libbf_8h.html#a3291f57ed40cdf116203afa57f73e91e" title="bf_tan" alt="" coords="306,107,369,133"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="js_array_indexOf" name="js_array_indexOf">
+<area shape="rect" id="node2" href="$quickjs_8h.html#a775522f2d084fc8fa0fcb33f390006b4" title="JS_DupValue" alt="" coords="1038,195,1141,221"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="1037,397,1141,424"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a4e7bf9ce9c03f0cac9529a14161183e0" title="js_get_fast_array" alt="" coords="203,955,338,981"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a5f848f76409193212a44e6221e430919" title="js_get_length64" alt="" coords="419,245,544,272"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a537e88d38784e3df2a19c72f8bd1d77e" title="JS_ToInt64Clamp" alt="" coords="839,144,970,171"/>
+<area shape="rect" id="node14" href="$quickjs_8h.html#a6acbc709e59969eac6775f9b253b438f" title="JS_NewInt64" alt="" coords="853,904,956,931"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#a6b7e8c810c238daa5ac20c70c2f22b24" title="js_strict_eq2" alt="" coords="219,828,323,855"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a710289a14c2810467e5b448d3c28bd55" title="JS_ToObject" alt="" coords="433,195,530,221"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a14674e74168715dc5a3a391910982e5d" title="JS_TryGetPropertyInt64" alt="" coords="185,493,356,520"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#aa059f309c30fd5166d16c82a97973146" title="__JS_FreeValue" alt="" coords="1189,397,1308,424"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ab1ea3fad7d138be12144a38be4d36423" title="__JS_FreeValueRT" alt="" coords="1356,397,1491,424"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#a89b7c8686c7eee70b86be722ee4730ad" title="JS_GetProperty" alt="" coords="630,347,749,373"/>
+<area shape="rect" id="node11" href="$quickjs_8h.html#ad80a83d73e9b7d872b88fbf2943aebe9" title="JS_IsException" alt="" coords="631,245,747,272"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a07acd485a57197356906928a788a0644" title="JS_ToLengthFree" alt="" coords="626,144,753,171"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a5762c57ae0c9937e986040c01222833a" title="JS_GetPropertyInternal" alt="" coords="820,347,989,373"/>
+<area shape="rect" id="node10" href="$quickjs_8h.html#a2050bc428da1c65ac7eb87c3fa3b0392" title="JS_NewInt32" alt="" coords="1038,499,1141,525"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#a877fcb7651d95b411ce70e62b7f4a1f0" title="__JS_AtomFromUInt32" alt="" coords="607,701,772,728"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="638,549,741,576"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a90d6e607f6917d817c1e997bd2e6ed07" title="JS_GetPropertyValue" alt="" coords="404,461,559,488"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#a9d6d0a9704951d01c128975e0d2213f8" title="JS_HasProperty" alt="" coords="844,245,965,272"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#aa641af3a921335927dab07dc83285917" title="JS_NewAtomInt64" alt="" coords="412,600,551,627"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#acd08798ec15cc37c60d2e7d70007c6a8" title="__JS_NewAtom" alt="" coords="630,651,749,677"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a0ee6a3654a6016393fac5e1c108f403a" title="JS_NewString" alt="" coords="635,600,743,627"/>
+</map>

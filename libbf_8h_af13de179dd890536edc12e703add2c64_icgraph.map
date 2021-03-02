@@ -1,0 +1,9 @@
+<map id="bf_get_int64" name="bf_get_int64">
+<area shape="rect" id="node2" href="$libbf_8c.html#a84f2988a2124a8168b5933335c4215c2" title="bf_get_limb" alt="" coords="156,107,255,133"/>
+<area shape="rect" id="node3" href="$libbf_8c.html#a157194b3c7faaa17e39ae78cd98c4385" title="bf_exp_internal" alt="" coords="303,56,425,83"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a93fe073491f8c5f086a75e7bf8865b34" title="bf_pow" alt="" coords="645,81,715,108"/>
+<area shape="rect" id="node7" href="$libbf_8h.html#a7ded681bd52308690336efcfde537a54" title="bf_remquo" alt="" coords="318,157,410,184"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a36f22f93ba4258209be035a63b80b87f" title="bf_exp" alt="" coords="502,5,569,32"/>
+<area shape="rect" id="node5" href="$libbf_8c.html#aa28c1603087e2aec25b9bb0dae387875" title="bf_pow_generic" alt="" coords="473,56,597,83"/>
+<area shape="rect" id="node8" href="$libbf_8c.html#a2b19e3958f6cf3fa0cc534681a5ff259" title="bf_sincos" alt="" coords="494,157,577,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="JS_NewUTF32String" name="JS_NewUTF32String">
+<area shape="rect" id="node2" href="$quickjs_8c.html#accfc3d1dcaa88c88402cb245ccaf4fdb" title="string_buffer_end" alt="" coords="205,5,339,32"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a266b4993a59d9e34537386e62b9f3d4f" title="string_buffer_free" alt="" coords="203,56,341,83"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a9c11961b0adafedd064b294612d0c2f3" title="string_buffer_init" alt="" coords="206,107,338,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a8d79794c85d33dd8409cdb39f2c2fc74" title="string_buffer_putc" alt="" coords="203,157,341,184"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a260bfa297ff6cb5bd18e229afaa54663" title="JS_AtomToString" alt="" coords="403,5,531,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="433,56,500,83"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a06ff303a11e6641cbf1f6634e6a61811" title="__JS_AtomToValue" alt="" coords="592,5,732,32"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a9b8fb6b5ce638616691f7bf7881fa57d" title="string_buffer_putc16" alt="" coords="389,157,544,184"/>
+</map>

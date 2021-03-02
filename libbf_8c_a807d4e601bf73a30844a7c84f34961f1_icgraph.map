@@ -1,0 +1,9 @@
+<map id="bfdec_round" name="bfdec_round">
+<area shape="rect" id="node2" href="$libbf_8c.html#ad79aefc435021a0743c89cb4aec7fa56" title="bf_ftoa_internal" alt="" coords="156,56,281,83"/>
+<area shape="rect" id="node5" href="$libbf_8h.html#a318508be097917ddd5d1ce187edea68b" title="bfdec_divrem" alt="" coords="163,107,274,133"/>
+<area shape="rect" id="node7" href="$libbf_8h.html#ab6867737ba58696fdc9de82a5dea003d" title="bfdec_rint" alt="" coords="175,157,262,184"/>
+<area shape="rect" id="node8" href="$libbf_8h.html#aadf1781139c916e6ccb6ea473bf5a2d1" title="bfdec_sqrt" alt="" coords="173,208,264,235"/>
+<area shape="rect" id="node3" href="$libbf_8h.html#a3ab9f99dbc84f8cce63cf3867b8986e5" title="bf_ftoa" alt="" coords="341,5,409,32"/>
+<area shape="rect" id="node4" href="$libbf_8h.html#a076d088aa44d1cfa2d6f85f718fb88bc" title="bfdec_ftoa" alt="" coords="329,56,420,83"/>
+<area shape="rect" id="node6" href="$libbf_8h.html#a9c0e8e44d597f47e07d562594ca455f2" title="bfdec_rem" alt="" coords="329,107,420,133"/>
+</map>

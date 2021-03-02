@@ -1,0 +1,10 @@
+<map id="JS_ReadFunctionBytecode" name="JS_ReadFunctionBytecode">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a5b9cc9e01f251602d29fa6ef7a058375" title="bc_get_buf" alt="" coords="257,5,351,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#aec90fdacca60889202841e53258d6363" title="bc_read_error_end" alt="" coords="425,31,568,57"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#af4fed3f85dbff3b99bb7d672b48cab0c" title="bc_idx_to_atom" alt="" coords="241,107,367,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="445,157,548,184"/>
+<area shape="rect" id="node8" href="$cutils_8h.html#a941262a5f72fda2ec43ae7911e97a0dc" title="get_u32" alt="" coords="267,208,341,235"/>
+<area shape="rect" id="node9" href="$cutils_8h.html#a3b6aba81e32ed70a2a851744e5a9cc9c" title="put_u32" alt="" coords="267,259,341,285"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a288254c06a39c9fca740a7abdad2834e" title="__JS_AtomIsTaggedInt" alt="" coords="415,107,579,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a7f6796ee7a195631366f57c713a33f65" title="__JS_AtomIsConst" alt="" coords="627,157,765,184"/>
+</map>

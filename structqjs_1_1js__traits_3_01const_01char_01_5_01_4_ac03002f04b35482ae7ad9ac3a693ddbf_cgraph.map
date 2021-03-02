@@ -1,0 +1,6 @@
+<map id="qjs::js_traits&lt; const char * &gt;::unwrap" name="qjs::js_traits&lt; const char * &gt;::unwrap">
+<area shape="rect" id="node2" href="$structqjs_1_1js__traits_3_01std_1_1string__view_01_4.html#a722fb92e222abf0655072de681e46b23" title="qjs::js_traits\&lt; std\l::string_view \&gt;::unwrap" alt="" coords="204,27,380,69"/>
+<area shape="rect" id="node3" href="$quickjs_8h.html#a1e7f56471f8608df9405987087a56070" title="JS_ToCStringLen" alt="" coords="440,5,565,32"/>
+<area shape="rect" id="node5" href="$classqjs_1_1detail_1_1js__string.html#a3fbe9b33a0f1276bab6e250f8beadeeb" title="qjs::detail::js_string\l::js_string" alt="" coords="428,57,577,98"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#af49e67b73f845dc1f9c3ee648dd9f95c" title="JS_ToCStringLen2" alt="" coords="625,5,759,32"/>
+</map>

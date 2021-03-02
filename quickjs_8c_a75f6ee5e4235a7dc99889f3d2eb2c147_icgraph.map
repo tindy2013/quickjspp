@@ -1,0 +1,31 @@
+<map id="JS_CallFree" name="JS_CallFree">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a3fb71f8d31b557ebebec82476999408a" title="call_setter" alt="" coords="204,287,295,313"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="621,388,737,415"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#ad38b16d301e8f3661cf4c115c86511b3" title="js_proxy_set" alt="" coords="627,123,731,149"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a2b86c3fdfa95b86030c1cbbc5f0ba0f5" title="js_array_toString" alt="" coords="183,185,315,212"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a6afb985e2e6663773d15dc05b286922a" title="js_date_toJSON" alt="" coords="189,236,310,263"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a5d217acce00892ab2b50a1dcc1eb4cc8" title="JS_EvalFunctionInternal" alt="" coords="400,97,573,124"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a8caed40cacf996391536c97ef916af21" title="js_evaluate_module" alt="" coords="173,135,326,161"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a5762c57ae0c9937e986040c01222833a" title="JS_GetPropertyInternal" alt="" coords="165,439,334,465"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a45df491949e8e055e732eb13c446d47b" title="js_proxy_get" alt="" coords="434,540,539,567"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#ad09ec172570d05d2166ed3069f85c7b5" title="JS_Invoke" alt="" coords="207,489,292,516"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#af4cd70eee97bbcab2d0f2e46cf53ccd7" title="JS_IsInstanceOf" alt="" coords="188,540,311,567"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#abb88b24dc63d82fcc312bba0cf93c3d7" title="JS_IteratorClose" alt="" coords="424,388,549,415"/>
+<area shape="rect" id="node16" href="$quickjs_8c.html#a0da6493b4bc0edb7ddddfab807241d0b" title="js_json_check" alt="" coords="193,641,305,668"/>
+<area shape="rect" id="node17" href="$quickjs_8c.html#a7e5b77a4851eee6f666581d051979392" title="js_proxy_define_own\l_property" alt="" coords="170,693,329,734"/>
+<area shape="rect" id="node18" href="$quickjs_8c.html#acffb121a8a0ee2b735f60c1db01e79e7" title="js_proxy_delete_property" alt="" coords="156,759,343,785"/>
+<area shape="rect" id="node19" href="$quickjs_8c.html#ab9c2e9c8dab72f3c057efe4ffcced332" title="js_proxy_get_own_property" alt="" coords="149,809,350,836"/>
+<area shape="rect" id="node20" href="$quickjs_8c.html#a438b354d69a8f0674195b0cdc19dd686" title="js_proxy_get_own_property\l_names" alt="" coords="149,861,350,902"/>
+<area shape="rect" id="node21" href="$quickjs_8c.html#adda8732f2afb3bb7bd7e5f59e3ba022d" title="js_proxy_getPrototypeOf" alt="" coords="158,927,341,953"/>
+<area shape="rect" id="node22" href="$quickjs_8c.html#a1bddfeab11a7cfee6bd88781073b5972" title="js_proxy_has" alt="" coords="196,977,303,1004"/>
+<area shape="rect" id="node23" href="$quickjs_8c.html#a89d3c8659c2a6a62d3528b6b6794b24f" title="js_proxy_isExtensible" alt="" coords="168,1028,331,1055"/>
+<area shape="rect" id="node24" href="$quickjs_8c.html#a7be64afafb067c71764032c0708d7aa3" title="js_proxy_preventExtensions" alt="" coords="147,1079,352,1105"/>
+<area shape="rect" id="node25" href="$quickjs_8c.html#ae8b32777df50bb192c19840adc4d32a1" title="js_proxy_setPrototypeOf" alt="" coords="158,1129,341,1156"/>
+<area shape="rect" id="node26" href="$quickjs_8c.html#ab737681b4f1a426c560df37c1304c9d6" title="JS_RegExpExec" alt="" coords="189,1180,309,1207"/>
+<area shape="rect" id="node27" href="$quickjs_8c.html#a48c74f10715547bf679361ae42e2a97f" title="js_string_match" alt="" coords="187,1231,312,1257"/>
+<area shape="rect" id="node28" href="$quickjs_8c.html#aed1bf9ce4b9e3a82388679dd6ec7635b" title="js_string_replace" alt="" coords="183,1281,315,1308"/>
+<area shape="rect" id="node29" href="$quickjs_8c.html#a99f359a90bf2aa7902ec554d726d4fda" title="js_string_split" alt="" coords="193,1332,305,1359"/>
+<area shape="rect" id="node30" href="$quickjs_8c.html#abac33881bb91f8c31106f616d81b67e8" title="JS_ToPrimitiveFree" alt="" coords="416,337,557,364"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a638e637d492ee889691691baba33c4bd" title="JS_SetPropertyGeneric" alt="" coords="403,236,570,263"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad7f03358a8088ca920ab308225c6b2e6" title="JS_SetPropertyInternal" alt="" coords="403,287,570,313"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="lre_is_id_start" name="lre_is_id_start">
+<area shape="rect" id="node2" href="$libunicode_8c.html#a9992c7e1e84a9fc516edf3de2c77468a" title="lre_is_id_continue" alt="" coords="167,132,305,159"/>
+<area shape="rect" id="node9" href="$libregexp_8h.html#a4737debd233b96f1a317fdb40a3fbd69" title="lre_js_is_ident_first" alt="" coords="355,208,502,235"/>
+<area shape="rect" id="node3" href="$libregexp_8h.html#a3dd6ac80b2cc9f7fc7f18a4cb0acdce3" title="lre_js_is_ident_next" alt="" coords="353,132,504,159"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#acb789e8ccb230adfd9262642ff338177" title="js_parse_regexp" alt="" coords="571,5,699,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a75a3798e2045f6e403c1ef467126d1fb" title="next_token" alt="" coords="767,107,861,133"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad91865d0889d1420e3e70d5d497a9bdb" title="parse_ident" alt="" coords="586,107,685,133"/>
+<area shape="rect" id="node7" href="$libregexp_8c.html#a6e0ee9170c3faaca126dbcc40c07aed7" title="re_parse_group_name" alt="" coords="552,157,719,184"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#abd9d73eefa041a1741277e91ed026746" title="simple_next_token" alt="" coords="562,208,709,235"/>
+</map>

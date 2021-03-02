@@ -1,0 +1,16 @@
+<map id="qjs::Context::init" name="qjs::Context::init">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aa28cb15ab0d131c2d312dd3fe3ddcb07" title="JS_SetContextOpaque" alt="" coords="199,99,362,125"/>
+<area shape="rect" id="node3" href="$structqjs_1_1js__traits_3_01detail_1_1function_01_4.html#afe383c63f389edaf9f878cd30062d37f" title="qjs::js_traits\&lt; detail\l::function \&gt;::register_class" alt="" coords="183,150,379,191"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a4f56d0a794368a8861c89819fc79cdb5" title="JS_NewClassID" alt="" coords="445,5,564,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#af1866c7f8a91153f11602a2b521d9399" title="JS_GetRuntime" alt="" coords="445,56,564,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a3f0ebc39396c0cd909ec04585f92b1b9" title="JS_IsRegisteredClass" alt="" coords="427,107,583,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a5644dc5dba0d760dcc06cc1a79e256cc" title="JS_GetOpaque" alt="" coords="667,168,781,195"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="463,208,546,235"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a1951b8aab94369f326d8c0720097c523" title="JS_GetOpaque2" alt="" coords="443,259,566,285"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a9f0339d81c06451de278073572cc194e" title="JS_NewClass" alt="" coords="452,357,557,384"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#ab0f713d7a2440dbb2673810323a9a78d" title="JS_ThrowTypeErrorInvalid\lClass" alt="" coords="631,241,817,282"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#ac8c91ebeea0cf07e3079c49a16de739f" title="__JS_FindAtom" alt="" coords="666,307,782,333"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a128673f932e71b867730af75a44e3f97" title="__JS_NewAtomInit" alt="" coords="654,357,794,384"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#a5a0aca30abbb4d4ae86746541bf4cbc7" title="JS_FreeAtomRT" alt="" coords="665,408,783,435"/>
+<area shape="rect" id="node15" href="$quickjs_8c.html#ab515cd66efd3e476d2c22d6a55f13194" title="JS_NewClass1" alt="" coords="667,459,781,485"/>
+</map>

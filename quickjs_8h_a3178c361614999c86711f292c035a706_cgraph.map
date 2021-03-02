@@ -1,0 +1,9 @@
+<map id="JS_ResolveModule" name="JS_ResolveModule">
+<area shape="rect" id="node2" href="$quickjs_8c.html#adcabee55726eddca24893a78515c7ba2" title="js_free_modules" alt="" coords="192,107,321,133"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#a05db980a30860573f912cbeb64e99c3c" title="js_free_module_def" alt="" coords="369,107,520,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a9e7b4bccf927d811b0f99b40b08c0472" title="free_var_ref" alt="" coords="569,5,671,32"/>
+<area shape="rect" id="node5" href="$list_8h.html#ab60d5d18869ebeb5d6ab694289576fa7" title="list_del" alt="" coords="720,31,789,57"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="587,107,653,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ab7fc45a99935a1c0ba50b0216d9401a9" title="JS_FreeAtom" alt="" coords="569,157,671,184"/>
+<area shape="rect" id="node8" href="$quickjs_8h.html#afaa20c47565bc704c6c85f3d77254e7d" title="JS_FreeValue" alt="" coords="568,208,672,235"/>
+</map>
